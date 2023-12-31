@@ -1,0 +1,91 @@
+id,PIT202204130
+version,2
+info,visteam,CHN
+info,hometeam,PIT
+info,site,PIT08
+info,date,2022/04/13
+info,number,0
+info,starttime,12:35PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,wegnm901
+info,ump1b,porta901
+info,ump2b,wolcq901
+info,ump3b,rehaj901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:24:09
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,webbb701
+info,temp,75
+info,winddir,tolf
+info,windspeed,10
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,169
+info,attendance,9122
+info,wp,peted001
+info,lp,hendk001
+info,save,croww001
+start,orter001,"Rafael Ortega",0,1,10
+start,schwf001,"Frank Schwindel",0,2,3
+start,contw001,"Willson Contreras",0,3,2
+start,happi001,"Ian Happ",0,4,7
+start,suzus001,"Seiya Suzuki",0,5,9
+start,heywj001,"Jason Heyward",0,6,8
+start,wisdp001,"Patrick Wisdom",0,7,5
+start,villj001,"Jonathan Villar",0,8,4
+start,hoern001,"Nico Hoerner",0,9,6
+start,hendk001,"Kyle Hendricks",0,0,1
+start,voged001,"Daniel Vogelbach",1,1,10
+start,reynb001,"Bryan Reynolds",1,2,8
+start,hayek001,"Ke'Bryan Hayes",1,3,5
+start,tsuty001,"Yoshi Tsutsugo",1,4,3
+start,gameb001,"Ben Gamel",1,5,7
+start,newmk001,"Kevin Newman",1,6,6
+start,vanmj001,"Josh VanMeter",1,7,4
+start,knapa001,"Andrew Knapp",1,8,2
+start,parkh001,"Hoy Park",1,9,9
+start,thomz001,"Zach Thompson",1,0,1
+play,1,0,orter001,31,BBFBX,9/F9LF/FL
+play,1,0,schwf001,12,FBCFX,53/G56
+play,1,0,contw001,31,BBBCX,HR/F8XD
+play,1,0,happi001,12,CBFS,K
+play,1,1,voged001,12,CCBX,S8/L89+
+play,1,1,reynb001,12,BFFX,45(1)3/GDP/G4
+play,1,1,hayek001,01,CX,S34/G4+
+play,1,1,tsuty001,31,C*BBBB,W.1-2
+play,1,1,gameb001,01,CX,HR/F9D.2-H;1-H
+play,1,1,newmk001,31,BCBBB,W
+play,1,1,vanmj001,32,BBCBS>S,K
+play,2,0,suzus001,32,CBBCFFFBX,63/G6S
+play,2,0,heywj001,11,CBX,9/L9D+
+play,2,0,wisdp001,22,BSBSFS,K
+play,2,1,knapa001,01,CX,63/G34D
+play,2,1,parkh001,32,CBBBSS,K
+play,2,1,voged001,12,BCFC,K
+play,3,0,villj001,00,X,8/L8XD+
+play,3,0,hoern001,01,CX,53/G56
+play,3,0,orter001,22,BCFBX,4/P9S
+play,3,1,reynb001,11,SBX,8/L8XD+
+play,3,1,hayek001,10,BX,D7/L7L
+play,3,1,tsuty001,22,BBCFC,K
+play,3,1,gameb001,31,BCBBB,W
+play,3,1,newmk001,00,X,T9/F9LS.2-H;1-H
+play,3,1,vanmj001,21,BBSX,63/G34D
+play,4,0,schwf001,02,CCX,63/G6+
+play,4,0,contw001,00,X,DGR/F9L
+play,4,0,happi001,32,BC*BBFB,W
+play,4,0,suzus001,00,X,S8/L8.2-H;1-2
+play,4,0,heywj001,02,CFFC,K
+play,4,0,wisdp001,01,CX,3/G3S
+play,4,1,knapa001,31,BFBBX,31/G34
+play,4,1,parkh001,32,BCBBCB,W
+play,4,1,voged001,00,X,S8/L8+.1-2
+play,4,1,reynb001,10,BX,8/F78XD.2-3
+play,4,1,hayek001,12,CF*BX,S9/L9S.3-H;1-2
+play,4,1,tsuty001,00,,NP

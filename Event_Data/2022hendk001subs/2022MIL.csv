@@ -1,0 +1,183 @@
+id,MIL202204290
+version,2
+info,visteam,CHN
+info,hometeam,MIL
+info,site,MIL06
+info,date,2022/04/29
+info,number,0
+info,starttime,7:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,laynj901
+info,ump1b,wendh902
+info,ump2b,whitc901
+info,ump3b,mosce901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/10/03 09:01:02
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,odrit701
+info,temp,63
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,195
+info,attendance,29062
+info,wp,housa001
+info,lp,hendk001
+info,save,
+start,orter001,"Rafael Ortega",0,1,10
+start,villj001,"Jonathan Villar",0,2,4
+start,contw001,"Willson Contreras",0,3,2
+start,happi001,"Ian Happ",0,4,7
+start,suzus001,"Seiya Suzuki",0,5,9
+start,rivaa001,"Alfonso Rivas",0,6,3
+start,wisdp001,"Patrick Wisdom",0,7,5
+start,heywj001,"Jason Heyward",0,8,8
+start,hoern001,"Nico Hoerner",0,9,6
+start,hendk001,"Kyle Hendricks",0,0,1
+start,wongk001,"Kolten Wong",1,1,4
+start,adamw002,"Willy Adames",1,2,6
+start,yelic001,"Christian Yelich",1,3,7
+start,mccua001,"Andrew McCutchen",1,4,10
+start,tellr001,"Rowdy Tellez",1,5,3
+start,renfh001,"Hunter Renfroe",1,6,9
+start,narvo001,"Omar Narvaez",1,7,2
+start,cainl001,"Lorenzo Cain",1,8,8
+start,petej002,"Jace Peterson",1,9,5
+start,housa001,"Adrian Houser",1,0,1
+play,1,0,orter001,11,CBX,43/G4
+play,1,0,villj001,22,BFBFFC,K
+play,1,0,contw001,32,BFFBBFB,W
+play,1,0,happi001,21,F1BBX,8/F8D
+play,1,1,wongk001,12,CFBH,HP
+play,1,1,adamw002,12,C1B1FX,9/F9D
+play,1,1,yelic001,11,CB>B,SB2
+play,1,1,yelic001,32,CB>B.FBB,W
+play,1,1,mccua001,12,BFSX,64(1)3/GDP/G6S
+play,2,0,suzus001,02,CCFS,K
+play,2,0,rivaa001,21,BFBX,S9/L9L
+play,2,0,wisdp001,00,X,7/F7D
+play,2,0,heywj001,12,BCFS,K
+play,2,1,tellr001,11,BCX,D8/F89XD+
+play,2,1,renfh001,22,CBFBFX,6/P6
+play,2,1,narvo001,20,BBX,31/G34.2-3
+play,2,1,cainl001,00,X,S6/G6M.3-H
+play,2,1,petej002,01,CX,HR/F89XD.1-H
+play,2,1,wongk001,12,CBFFFX,D9/L9LS
+play,2,1,adamw002,00,X,3/P3SF/FL
+play,3,0,hoern001,12,CCBS,K
+play,3,0,orter001,32,BCSFFBBF*B,W
+play,3,0,villj001,32,SBS*BFB+1T,K
+play,3,0,contw001,12,CCBF>FX,64(1)/FO/G6+.B-1
+play,3,1,yelic001,31,BBCBX,8/F8XD+
+play,3,1,mccua001,32,BSBCBFX,HR/F78XD
+play,3,1,tellr001,10,BX,6/P4
+play,3,1,renfh001,22,CBSBS,K
+play,4,0,happi001,32,CBBFFBB,W
+play,4,0,suzus001,21,CBBX,8/F89XD+
+play,4,0,rivaa001,32,FB*BFF*B>FFX,S9/L89S.1-2
+play,4,0,wisdp001,01,CX,64(1)3/GDP/G6S
+play,4,1,narvo001,22,BFSBX,7/F7LF/FL
+play,4,1,cainl001,31,CBBBB,W
+play,4,1,petej002,22,B1BC1CS,K
+play,4,1,wongk001,00,1X,5/P56S
+play,5,0,heywj001,11,BFX,53/G4+
+play,5,0,hoern001,12,CSBC,K
+play,5,0,orter001,20,BBX,9/L9
+play,5,1,adamw002,22,CBSBX,D8/L8D+
+play,5,1,yelic001,00,X,HR/F89XD.2-H
+play,5,1,mccua001,21,BBCX,9/F9D
+play,5,1,tellr001,00,,NP
+id,MIL202207050
+version,2
+info,visteam,CHN
+info,hometeam,MIL
+info,site,MIL06
+info,date,2022/07/05
+info,number,0
+info,starttime,7:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,belld901
+info,ump1b,vondc901
+info,ump2b,gonzm901
+info,ump3b,sches901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:25:46
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,olsod701
+info,temp,78
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,183
+info,attendance,30561
+info,wp,swarm001
+info,lp,alexj001
+info,save,
+start,orter001,"Rafael Ortega",0,1,10
+start,hoern001,"Nico Hoerner",0,2,6
+start,happi001,"Ian Happ",0,3,7
+start,suzus001,"Seiya Suzuki",0,4,9
+start,wisdp001,"Patrick Wisdom",0,5,5
+start,rivaa001,"Alfonso Rivas",0,6,3
+start,gomey001,"Yan Gomes",0,7,2
+start,velan001,"Nelson Velazquez",0,8,8
+start,boted002,"David Bote",0,9,4
+start,hendk001,"Kyle Hendricks",0,0,1
+start,yelic001,"Christian Yelich",1,1,10
+start,adamw002,"Willy Adames",1,2,6
+start,tellr001,"Rowdy Tellez",1,3,3
+start,mccua001,"Andrew McCutchen",1,4,7
+start,wongk001,"Kolten Wong",1,5,4
+start,urial001,"Luis Urias",1,6,5
+start,petej002,"Jace Peterson",1,7,9
+start,carav001,"Victor Caratini",1,8,2
+start,davij007,"Jonathan Davis",1,9,8
+start,alexj001,"Jason Alexander",1,0,1
+play,1,0,orter001,20,BBX,S9/L9S+
+play,1,0,hoern001,11,BF1X,54(1)/FO/G56.B-1
+play,1,0,happi001,01,1FX,43/G34.1-2
+play,1,0,suzus001,21,B*BCX,63/G6D
+play,1,1,yelic001,32,BBCCFFBB,W
+play,1,1,adamw002,12,BSS1FS,K
+play,1,1,tellr001,01,C>B,SB2.1-3(E2/TH)
+play,1,1,tellr001,32,C>B.BFBFFX,HR/F9D.3-H
+play,1,1,mccua001,10,BX,63/G6
+play,1,1,wongk001,22,CBFFBS,K
+play,2,0,wisdp001,01,CX,S5/G5.B-2(E5/TH)
+play,2,0,rivaa001,12,FCBS,K
+play,2,0,gomey001,11,CBX,63/G56.2-3
+play,2,0,velan001,12,CFBX,9/F89S
+play,2,1,urial001,12,CBFS,K
+play,2,1,petej002,32,BBBCSFX,S7/L78S
+play,2,1,carav001,12,1BC>F1F>X,7/F7LD
+play,2,1,davij007,30,B1BB>C,SB2
+play,2,1,davij007,32,B1BB>C.SB,W
+play,2,1,yelic001,11,SBX,9/F89D
+play,3,0,boted002,12,BFCX,4/L4D-
+play,3,0,orter001,31,BBBCB,W
+play,3,0,hoern001,11,BCX,3/G3S.1-2
+play,3,0,happi001,10,BX,7/L7
+play,3,1,adamw002,32,BFBCFBX,6/L6D
+play,3,1,tellr001,21,BBCX,53/G2+
+play,3,1,mccua001,12,CSBC,K
+play,4,0,suzus001,11,CBX,9/L89D
+play,4,0,wisdp001,32,FBBFFBB,W
+play,4,0,rivaa001,02,SCH,HP.1-2
+play,4,0,gomey001,00,X,S6/G56.2-3;1-2
+play,4,0,velan001,00,X,53/G56.3-H;2-3;1-2
+play,4,0,boted002,11,CBX,53/G56S
+play,4,1,wongk001,00,,NP

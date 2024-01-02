@@ -1,0 +1,21 @@
+Type,Inning,Visiting/Home (0/1),Retro PID,Count,Pitches,Event
+play,1,1,loweb001,02,CSX,63/G4MS
+play,1,1,margm001,22,BBCFX,7/F78
+play,1,1,arozr001,00,X,S8/L8
+play,1,1,ramih004,01,C>B,SB2
+play,1,1,ramih004,32,C>B.*BBCX,S9/G3.2-H
+play,1,1,perad001,22,BBCFFFX,3/G34S
+play,2,1,parei001,32,BBFCFBX,8/L89XD
+play,2,1,chany001,21,CBBX,43/G4MD
+play,2,1,bethc001,01,SX,HR/L78XD
+play,2,1,sirij001,20,BBX,D7/L7LD+
+play,2,1,loweb001,32,BBCBCFFB,W
+play,2,1,margm001,10,BX,4/P4
+play,3,1,arozr001,00,X,3/P3F/FL
+play,3,1,ramih004,12,CCBX,S6/G56
+play,3,1,perad001,10,BX,46(1)/FO/G34.B-1
+play,3,1,parei001,02,CFC,K
+play,4,1,chany001,00,X,3/P3
+play,4,1,bethc001,02,SSS,K
+play,4,1,sirij001,32,CSBBBX,9/F9
+play,5,1,loweb001,00,,NP

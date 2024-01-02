@@ -1,0 +1,22 @@
+Type,Inning,Visiting/Home (0/1),Retro PID,Count,Pitches,Event
+play,1,1,badeh001,11,BCX,4/P8S
+play,1,1,goldp001,02,CCX,HR/F7D
+play,1,1,oneit001,02,FFC,K
+play,1,1,arenn001,02,CFFX,31/G34
+play,2,1,dickc002,22,CBFFFBFX,41/G34
+play,2,1,dejop001,12,FSFBFX,63/G6
+play,2,1,carld002,00,X,53/G56S
+play,3,1,kniza001,32,CFBBFFFBFFX,7/L78D+
+play,3,1,donob001,22,BCCBX,S8/L89
+play,3,1,badeh001,11,BCX,64(1)3/GDP/G6S
+play,4,1,goldp001,32,CSBFBFBX,S8/L8D+
+play,4,1,oneit001,11,SBX,8/F8
+play,4,1,arenn001,00,X,3/P3SF/FL
+play,4,1,dickc002,22,F1BBFFX,13/G1
+play,5,1,dejop001,32,CBCFBBX,4/P9LSF/FL
+play,5,1,carld002,12,CCBX,53/G56S
+play,5,1,kniza001,12,CCBFX,8/F8XD+
+play,6,1,donob001,01,CX,43/G4D
+play,6,1,badeh001,01,CX,4/P34D
+play,6,1,goldp001,11,BCX,3/P3F/FL
+play,7,1,oneit001,00,,NP

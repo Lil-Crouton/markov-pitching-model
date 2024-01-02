@@ -1,0 +1,120 @@
+id,DET202209270
+version,2
+info,visteam,KCA
+info,hometeam,DET
+info,site,DET05
+info,date,2022/09/27
+info,number,0
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,rehaj901
+info,ump1b,drecb901
+info,ump2b,vondc901
+info,ump3b,conrc901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/10/11 09:01:00
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,klonc701
+info,temp,56
+info,winddir,tocf
+info,windspeed,11
+info,fieldcond,unknown
+info,precip,none
+info,sky,overcast
+info,timeofgame,180
+info,attendance,13334
+info,wp,langa001
+info,lp,misia001
+info,save,
+start,melem001,"MJ Melendez",0,1,7
+start,wittb002,"Bobby Witt Jr.",0,2,6
+start,peres002,"Salvador Perez",0,3,2
+start,pasqv001,"Vinnie Pasquantino",0,4,3
+start,olive001,"Edward Olivares",0,5,9
+start,dozih001,"Hunter Dozier",0,6,10
+start,massm001,"Michael Massey",0,7,4
+start,taylm002,"Michael A. Taylor",0,8,8
+start,eaton001,"Nate Eaton",0,9,5
+start,greiz001,"Zack Greinke",0,0,1
+start,greer003,"Riley Greene",1,1,8
+start,baezj001,"Javier Baez",1,2,6
+start,casth001,"Harold Castro",1,3,5
+start,cabrm001,"Miguel Cabrera",1,4,10
+start,carpk001,"Kerry Carpenter",1,5,9
+start,torks001,"Spencer Torkelson",1,6,3
+start,schoj001,"Jonathan Schoop",1,7,4
+start,barnt001,"Tucker Barnhart",1,8,2
+start,badda001,"Akil Baddoo",1,9,7
+start,wentj001,"Joey Wentz",1,0,1
+play,1,0,melem001,12,CBCS,K
+play,1,0,wittb002,01,CX,7/L7D
+play,1,0,peres002,01,SX,D7/G5+
+play,1,0,pasqv001,00,X,31/G3
+play,1,1,greer003,21,BBCX,S9/G34
+play,1,1,baezj001,22,C*BBFFFFF1X,6/P8S
+play,1,1,casth001,10,BX,41/G3.1-2
+play,1,1,cabrm001,32,TBBFBS,K
+play,2,0,olive001,32,CBBBFB,W
+play,2,0,dozih001,00,X,HR/F7LD.1-H
+play,2,0,massm001,32,BSCBBS,K
+play,2,0,taylm002,00,X,D9/L9LD
+play,2,0,eaton001,00,X,9/F3D
+play,2,0,melem001,20,BBX,43/G3
+play,2,1,carpk001,10,BX,7/F78D
+play,2,1,torks001,02,SCX,9/F89D
+play,2,1,schoj001,10,BX,4/P4D
+play,3,0,wittb002,12,CBFX,8/L8XD+
+play,3,0,peres002,12,FBFFFX,53/G56
+play,3,0,pasqv001,32,CSBBBFB,W
+play,3,0,olive001,11,BFX,DGR/L9LD.1-3
+play,3,0,dozih001,12,.BCFFC,K
+play,3,1,barnt001,12,CFBX,9/L9D
+play,3,1,badda001,22,CCBBX,S5/G56
+play,3,1,greer003,31,B+1B*BC11,PO1(13)
+play,3,1,greer003,32,B+1B*BC11.CFB,W
+play,3,1,baezj001,01,FX,4/F34D
+play,4,0,massm001,02,FLS,K
+play,4,0,taylm002,31,FBBBB,W
+play,4,0,eaton001,01,1S1X,T8/L78XD+.1-H
+play,4,0,melem001,00,X,4/L4/DP.3X3(45)
+play,4,1,casth001,22,CFBBX,63/G4
+play,4,1,cabrm001,12,BCF*S,K
+play,4,1,carpk001,21,FBBX,13/G13
+play,5,0,wittb002,10,BX,4/L4+
+play,5,0,peres002,11,BCX,43/G6M
+play,5,0,pasqv001,10,BX,5/P56D
+play,5,1,torks001,21,TBBX,5/P5F/FL
+play,5,1,schoj001,01,CX,S6/F8S
+play,5,1,barnt001,00,X,46(1)3/GDP/G34
+play,6,0,olive001,00,,NP
+sub,folej001,"Jason Foley",1,0,1
+play,6,0,olive001,12,.CSBS,K
+play,6,0,dozih001,22,CFBBX,53/G56+
+play,6,0,massm001,00,X,D7/F7D
+play,6,0,taylm002,12,FFBX,S6/G4M.2-3
+play,6,0,eaton001,20,B1B>C,SB2
+play,6,0,eaton001,32,B1B>C.BSS,K
+play,6,1,badda001,22,CBBCX,8/F89D
+play,6,1,greer003,12,BFTX,7/F7D
+play,6,1,baezj001,01,FX,8/F78XD
+play,7,0,melem001,00,,NP
+sub,dejea001,"Angel De Jesus",1,0,1
+play,7,0,melem001,32,.BSBSBB,W
+play,7,0,wittb002,01,CB,WP.1-2
+play,7,0,wittb002,21,CB.BX,63/G6+
+play,7,0,peres002,32,BFSFB*BX,63/G6
+play,7,0,pasqv001,22,CSBFFBX,8/L8XD
+play,7,1,casth001,21,CBBX,S8/L8
+play,7,1,cabrm001,11,BFX,54(1)3/GDP/G56
+play,7,1,carpk001,01,FX,63/G4
+play,8,0,olive001,00,X,43/G4+
+play,8,0,dozih001,00,X,7/L7D+
+play,8,0,massm001,00,.,NP
+sub,norrd002,"Daniel Norris",1,0,1
+play,8,0,massm001,12,..BCC*S,K
+play,8,1,torks001,00,,NP

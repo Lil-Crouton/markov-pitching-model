@@ -1,0 +1,215 @@
+id,MIL202209160
+version,2
+info,visteam,NYA
+info,hometeam,MIL
+info,site,MIL06
+info,date,2022/09/16
+info,number,0
+info,starttime,7:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,mosce901
+info,ump1b,segac901
+info,ump2b,morag901
+info,ump3b,fleta901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/27 09:03:22
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,olsod701
+info,temp,76
+info,winddir,rtol
+info,windspeed,9
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,249
+info,attendance,36011
+info,wp,roget001
+info,lp,holmc001
+info,save,
+start,judga001,"Aaron Judge",0,1,8
+start,stanm004,"Giancarlo Stanton",0,2,10
+start,torrg001,"Gleyber Torres",0,3,4
+start,donaj001,"Josh Donaldson",0,4,5
+start,cabro002,"Oswaldo Cabrera",0,5,9
+start,kinei001,"Isiah Kiner-Falefa",0,6,6
+start,gonzm002,"Marwin Gonzalez",0,7,3
+start,trevj001,"Jose Trevino",0,8,2
+start,hicka001,"Aaron Hicks",0,9,7
+start,montf001,"Frankie Montas",0,0,1
+start,yelic001,"Christian Yelich",1,1,7
+start,adamw002,"Willy Adames",1,2,6
+start,tellr001,"Rowdy Tellez",1,3,3
+start,renfh001,"Hunter Renfroe",1,4,9
+start,wongk001,"Kolten Wong",1,5,4
+start,mccua001,"Andrew McCutchen",1,6,10
+start,petej002,"Jace Peterson",1,7,5
+start,narvo001,"Omar Narvaez",1,8,2
+start,mitcg001,"Garrett Mitchell",1,9,8
+start,housa001,"Adrian Houser",1,0,1
+play,1,0,judga001,32,FBCBBFFX,S5/G56S
+play,1,0,stanm004,01,CX,9/F89S
+play,1,0,torrg001,31,*BC1BBX,D8/L78D+.1-3
+play,1,0,donaj001,12,SBCX,7/SF/F78XD.3-H;2-3
+play,1,0,cabro002,31,BBBFB,W
+play,1,0,kinei001,12,.BCC>X,S9/G34.3-H;1-3
+play,1,0,gonzm002,10,BX,S8/G4M+.3-H;1-2
+play,1,0,trevj001,10,BB,PB.2-3;1-2
+play,1,0,trevj001,31,BB.BCX,7/L7
+play,1,1,yelic001,22,BFCBFX,1/G23
+play,1,1,adamw002,32,BBBCFB,W
+play,1,1,tellr001,12,C*BFX,56(1)/FO/P4MS.B-1
+play,1,1,renfh001,00,X,S8/L78.1-2
+play,1,1,wongk001,32,*SBC*B*B>F>X,S5/G25-.2-3;1-2
+play,1,1,mccua001,11,.BFX,5(2)/FO/G5S.B-1
+play,2,0,hicka001,32,BCBBCFX,S6/G6S
+play,2,0,judga001,22,CFB*BFX,S8/L78S.1-2
+play,2,0,stanm004,32,SFBBBB,W.2-3;1-2
+play,2,0,torrg001,32,.*BCBCFBX,7/F7S
+play,2,0,donaj001,01,FX,64(1)/FO/G6.3-H;2-H(E4/TH)(NR)(UR);B-2
+play,2,0,cabro002,31,BBFBB,W
+play,2,0,kinei001,02,CCX,8/F8XD
+play,2,1,petej002,30,BBBB,W
+play,2,1,narvo001,21,1CB*BX,S7/L7S.1-2
+play,2,1,mitcg001,32,CS*BFBFFBFFC,K
+play,2,1,yelic001,22,.BBSST,K
+play,2,1,adamw002,10,BX,HR/F7D.2-H;1-H
+play,2,1,tellr001,11,BFX,43/G23
+play,3,0,gonzm002,12,CLBS,K
+play,3,0,trevj001,11,BCX,8/L8XD
+play,3,0,hicka001,31,BCBBX,D9/L9LD
+play,3,0,judga001,30,VVVV,IW
+play,3,0,stanm004,01,CX,31/G34
+play,3,1,renfh001,10,BX,53/G5
+play,3,1,wongk001,12,BFFFX,43/G34D
+play,3,1,mccua001,30,BBBB,W
+play,3,1,petej002,12,CBCX,8/F8
+play,4,0,torrg001,00,,NP
+sub,strzp001,"Peter Strzelecki",1,0,1
+play,4,0,torrg001,22,.BBCCT,K
+play,4,0,donaj001,12,SCB*S,K
+play,4,0,cabro002,10,BX,S6/G6
+play,4,0,kinei001,31,BBFBB,W.1-2
+play,4,0,gonzm002,22,C*BFBX,7/F7D
+play,4,1,narvo001,00,X,8/F78D
+play,4,1,mitcg001,32,BFBSBFB,W
+play,4,1,yelic001,00,.,NP
+sub,luetl001,"Lucas Luetge",0,0,1
+play,4,1,yelic001,22,..C*BFBX,S7/G6.1-2
+play,4,1,adamw002,32,BS*BBFX,DGR/L9D+.2-H;1-3
+play,4,1,tellr001,10,BX,7/SF/L7D.3-H
+play,4,1,renfh001,00,.,NP
+sub,weisg001,"Greg Weissert",0,0,1
+play,4,1,renfh001,32,..BBCFBFC,K
+play,5,0,trevj001,00,,NP
+sub,topaj001,"Justin Topa",1,0,1
+play,5,0,trevj001,21,.CBBX,13/G1S-
+play,5,0,hicka001,12,CBCFC,K
+play,5,0,judga001,32,CSBBBFFS,K
+play,5,1,wongk001,00,,NP
+sub,germd001,"Domingo German",0,0,1
+play,5,1,wongk001,21,.BBCX,5/P5F/FL
+play,5,1,mccua001,32,BBCCBFS,K
+play,5,1,petej002,22,BBCCF*S,K
+play,6,0,stanm004,11,CBX,43/G34D+
+play,6,0,torrg001,10,BX,S4/G4M
+play,6,0,donaj001,02,CCX,8/L8
+play,6,0,cabro002,00,.,NP
+sub,milnh001,"Hoby Milner",1,0,1
+play,6,0,cabro002,32,..1BBC1F*B>F>B,W.1-2
+play,6,0,kinei001,12,CF*BC,K
+play,6,1,narvo001,00,,NP
+sub,hicka001,"Aaron Hicks",0,9,8
+play,6,1,narvo001,00,.,NP
+sub,andum001,"Miguel Andujar",0,7,7
+play,6,1,narvo001,00,..,NP
+sub,cabro002,"Oswaldo Cabrera",0,5,3
+play,6,1,narvo001,00,...,NP
+sub,judga001,"Aaron Judge",0,1,9
+play,6,1,narvo001,01,....CX,D9/L9LD
+play,6,1,mitcg001,32,TBBCBFFFFX,8/F8
+play,6,1,yelic001,30,BBBB,W
+play,6,1,adamw002,21,.BSBX,7/F7D
+play,6,1,tellr001,00,.,NP
+sub,peraw002,"Wandy Peralta",0,0,1
+play,6,1,tellr001,12,..*BCS*S,K
+play,7,0,andum001,00,,NP
+sub,boxbb001,"Brad Boxberger",1,0,1
+play,7,0,andum001,02,.CFS,K
+play,7,0,trevj001,00,,NP
+sub,higak001,"Kyle Higashioka",0,8,11
+play,7,0,higak001,01,.FX,53/G56S
+play,7,0,hicka001,32,CCBBBFFS,K
+play,7,1,renfh001,00,,NP
+sub,higak001,"Kyle Higashioka",0,8,2
+play,7,1,renfh001,00,.,NP
+sub,trivl001,"Lou Trivino",0,0,1
+play,7,1,renfh001,32,..BSBFBC,K
+com,"$Yankees catcher Jose Trevino left the game due to an injured knee."
+play,7,1,wongk001,22,SBBF.S,K
+play,7,1,mccua001,22,BCBCFC,K
+play,8,0,judga001,00,,NP
+sub,willd004,"Devin Williams",1,0,1
+play,8,0,judga001,20,.BBX,63/G56
+play,8,0,stanm004,22,BFBFC,K
+play,8,0,torrg001,22,CFBBT,K
+play,8,1,petej002,00,,NP
+sub,loaij001,"Jonathan Loaisiga",0,0,1
+play,8,1,petej002,32,.BCBFBFB,W
+play,8,1,narvo001,01,1L11X,16(1)/FO/BG23.B-1
+play,8,1,mitcg001,00,,NP
+sub,hiurk001,"Keston Hiura",1,8,12
+play,8,1,mitcg001,01,.CX,S46/G4.1-2
+play,8,1,yelic001,10,BX,46(1)/FO/G34+.2-3;B-1
+com,"$Brewers challenged (play at 1st), call on the field was overturned."
+play,8,1,adamw002,02,TS>X,E6/G6.3-H(NR)(UR);1-2;B-1
+play,8,1,tellr001,00,X,43/G34
+play,9,0,donaj001,00,,NP
+sub,carav001,"Victor Caratini",1,8,2
+play,9,0,donaj001,00,.,NP
+sub,roget001,"Taylor Rogers",1,0,1
+play,9,0,donaj001,12,..CFBX,HR/F7LD
+play,9,0,cabro002,00,X,D9/L89D
+com,"$Brewers challenged (tag play), call on the field was upheld."
+play,9,0,kinei001,00,.X,14/SH/BG1S.2-3
+play,9,0,andum001,12,CFBC,K
+play,9,0,higak001,10,BX,8/F89D
+com,"ej,boona001,M,mosce901,Called third strike"
+com,"$Yankees manager Aaron Boone ejected by HP umpire Edwin Moscoso"
+com,"for arguing called third strike on Andujar (between innings)"
+play,9,1,renfh001,00,,NP
+sub,holmc001,"Clay Holmes",0,0,1
+play,9,1,renfh001,00,..X,D8/L78XD+
+play,9,1,wongk001,22,LBBFX,63/G6.2-3
+play,9,1,mccua001,00,.,NP
+sub,andum001,"Miguel Andujar",0,7,3
+play,9,1,mccua001,00,..,NP
+sub,cabro002,"Oswaldo Cabrera",0,5,7
+play,9,1,mccua001,31,..BBBCB,W
+play,9,1,petej002,12,C*SFBFS,K
+play,9,1,carav001,00,,NP
+sub,andum001,"Miguel Andujar",0,7,7
+play,9,1,carav001,00,.,NP
+sub,cabro002,"Oswaldo Cabrera",0,5,3
+play,9,1,carav001,00,..>B,DI.1-2
+play,9,1,carav001,31,..>B.*BCBB,W
+play,9,1,mitcg001,12,BSCX,S8/G4M.3-H;2-3;1-2
+data,er,luetl001,1
+data,er,trivl001,0
+data,er,germd001,0
+data,er,peraw002,0
+data,er,weisg001,0
+data,er,loaij001,0
+data,er,montf001,4
+data,er,holmc001,1
+data,er,milnh001,0
+data,er,topaj001,0
+data,er,willd004,0
+data,er,roget001,1
+data,er,boxbb001,0
+data,er,housa001,4
+data,er,strzp001,0

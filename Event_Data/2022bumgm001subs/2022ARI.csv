@@ -1,0 +1,1769 @@
+id,ARI202204070
+version,2
+info,visteam,SDN
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/04/07
+info,number,0
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,vanol901
+info,ump1b,belld901
+info,ump2b,barbs901
+info,ump3b,valej901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:24:00
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,black701
+info,temp,93
+info,winddir,ltor
+info,windspeed,6
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,198
+info,attendance,35508
+info,wp,mantj002
+info,lp,suarr002
+info,save,
+start,nolaa002,"Austin Nola",0,1,2
+start,machm001,"Manny Machado",0,2,5
+start,cronj001,"Jake Cronenworth",0,3,4
+start,voitl001,"Luke Voit",0,4,10
+start,myerw001,"Wil Myers",0,5,9
+start,hosme001,"Eric Hosmer",0,6,3
+start,profj001,"Jurickson Profar",0,7,7
+start,kim-h002,"Ha-Seong Kim",0,8,6
+start,grist001,"Trent Grisham",0,9,8
+start,darvy001,"Yu Darvish",0,0,1
+start,varsd001,"Daulton Varsho",1,1,8
+start,martk001,"Ketel Marte",1,2,4
+start,perad001,"David Peralta",1,3,7
+start,walkc002,"Christian Walker",1,4,3
+start,smitp002,"Pavin Smith",1,5,9
+start,kellc002,"Carson Kelly",1,6,2
+start,beers001,"Seth Beer",1,7,10
+start,ellid002,"Drew Ellis",1,8,5
+start,perdg001,"Geraldo Perdomo",1,9,6
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,nolaa002,11,BCX,9/F89
+play,1,0,machm001,21,BBFX,7/F7D
+play,1,0,cronj001,20,BBX,7/F7
+play,1,1,varsd001,11,CBX,3/P3F/FL
+play,1,1,martk001,12,CBSS,K
+play,1,1,perad001,32,CBSBFBB,W
+play,1,1,walkc002,11,CBX,9/L89XD
+play,2,0,voitl001,10,BX,53/G5
+play,2,0,myerw001,12,CBSX,8/F8XD
+play,2,0,hosme001,22,CFFBBX,D9/L9LS
+play,2,0,profj001,12,FFBS,K
+play,2,1,smitp002,32,CBCBBX,63/G4
+play,2,1,kellc002,10,BX,7/F78
+play,2,1,beers001,12,CBFS,K
+play,3,0,kim-h002,32,CFBBBFFFFFB,W
+play,3,0,grist001,10,BX,7/F78D
+play,3,0,nolaa002,01,C>B,SB2
+play,3,0,nolaa002,21,C>B.BX,63/G6M.2-3
+play,3,0,machm001,31,BBBCB,W
+play,3,0,cronj001,32,CBCFBFB>F>B,W.1-2
+play,3,0,voitl001,32,SSBBB>B,W.3-H;2-3;1-2
+play,3,0,myerw001,22,FFB*BC,K
+play,3,1,ellid002,22,CBFBX,63/G6
+play,3,1,perdg001,31,BBBCB,W
+play,3,1,varsd001,02,CSX,8/F78XD
+play,3,1,martk001,11,B11SX,43/G34D
+play,4,0,hosme001,00,,NP
+id,ARI202204120
+version,2
+info,visteam,HOU
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/04/12
+info,number,0
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,libkj901
+info,ump1b,reynj901
+info,ump2b,ticht901
+info,ump3b,muchm901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:24:08
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,rausg701
+info,temp,70
+info,winddir,ltor
+info,windspeed,17
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,200
+info,attendance,17674
+info,wp,nerih001
+info,lp,melam001
+info,save,presr001
+start,altuj001,"Jose Altuve",0,1,4
+start,branm003,"Michael Brantley",0,2,7
+start,brega001,"Alex Bregman",0,3,5
+start,gurry001,"Yuli Gurriel",0,4,3
+start,tuckk001,"Kyle Tucker",0,5,9
+start,diaza003,"Aledmys Diaz",0,6,10
+start,penaj004,"Jeremy Pena",0,7,6
+start,castj006,"Jason Castro",0,8,2
+start,sirij001,"Jose Siri",0,9,8
+start,garcl007,"Luis Garcia",0,0,1
+start,varsd001,"Daulton Varsho",1,1,8
+start,martk001,"Ketel Marte",1,2,4
+start,perad001,"David Peralta",1,3,7
+start,walkc002,"Christian Walker",1,4,3
+start,smitp002,"Pavin Smith",1,5,9
+start,beers001,"Seth Beer",1,6,10
+start,alcas002,"Sergio Alcantara",1,7,5
+start,perdg001,"Geraldo Perdomo",1,8,6
+start,herrj003,"Jose Herrera",1,9,2
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,altuj001,01,FX,E5/G7L.B-2
+play,1,0,branm003,21,BSBX,8/L8D+.2-3
+play,1,0,brega001,31,BCBBB,W
+play,1,0,gurry001,00,X,5/P5DF/FL
+play,1,0,tuckk001,22,FSBBX,8/L8D+
+play,1,1,varsd001,32,BBBCSFC,K
+play,1,1,martk001,32,CBBFFFBB,W
+play,1,1,perad001,21,FB1BX,2/P2F/FL
+play,1,1,walkc002,31,1BBSBX,8/F78XD
+play,2,0,diaza003,21,FBBX,3/P34S
+play,2,0,penaj004,22,BCFBX,9/L9D
+play,2,0,castj006,00,X,7/F78
+play,2,1,smitp002,21,CBBX,9/L89D+
+play,2,1,beers001,10,BX,8/F89D
+play,2,1,alcas002,32,CBFBFFBX,43/G34
+play,3,0,sirij001,32,BBBCSC,K
+play,3,0,altuj001,11,BCX,2/BP2F-/FL
+play,3,0,branm003,12,BCCX,8/F1S
+play,3,1,perdg001,21,BCBX,7/F7L
+play,3,1,herrj003,12,BCFX,63/G4
+play,3,1,varsd001,10,BX,S9/L9+
+play,3,1,martk001,11,BCX,8/F78XD+
+play,4,0,brega001,01,CX,S7/L56D
+play,4,0,gurry001,10,B1X,9/L9D
+play,4,0,tuckk001,11,BFX,9/F89XD
+play,4,0,diaza003,02,CFFX,S67/G56.1-2
+play,4,0,penaj004,01,CX,64(1)/FO/G6D.B-1
+play,4,1,perad001,02,CSX,D9/G3
+play,4,1,walkc002,12,BFFX,9/L9
+play,4,1,smitp002,10,BX,5/P5
+play,4,1,beers001,32,BBSFF*B*B,W
+play,4,1,alcas002,12,CBCX,7/F7LSF/FL
+play,5,0,castj006,22,FTFBBX,7/L7
+play,5,0,sirij001,10,BX,HR/F78XD
+play,5,0,altuj001,00,X,7/F7
+play,5,0,branm003,11,BCX,S8/L8
+play,5,0,brega001,12,BSCFS,K
+play,5,1,perdg001,00,,NP
+sub,abreb002,"Bryan Abreu",0,0,1
+play,5,1,perdg001,31,.BFBBX,6/P89S
+play,5,1,herrj003,02,CCS,K
+play,5,1,varsd001,31,BSBBB,W
+play,5,1,martk001,01,CX,63/G4
+play,6,0,gurry001,20,BBX,D8/L78XD
+play,6,0,tuckk001,30,BBB*B,W
+play,6,0,diaza003,00,,NP
+id,ARI202204240
+version,2
+info,visteam,NYN
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/04/24
+info,number,0
+info,starttime,1:10PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,gibsg901
+info,ump1b,mahrn901
+info,ump2b,drakr901
+info,ump3b,littw901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:24:23
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,magrj701
+info,temp,73
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,176
+info,attendance,23570
+info,wp,megit002
+info,lp,wendj001
+info,save,
+start,canhm001,"Mark Canha",0,1,7
+start,marts002,"Starling Marte",0,2,9
+start,lindf001,"Francisco Lindor",0,3,6
+start,alonp001,"Pete Alonso",0,4,3
+start,escoe001,"Eduardo Escobar",0,5,5
+start,davij006,"J.D. Davis",0,6,10
+start,guill001,"Luis Guillorme",0,7,4
+start,mccaj001,"James McCann",0,8,2
+start,jankt001,"Travis Jankowski",0,9,8
+start,megit002,"Tylor Megill",0,0,1
+start,varsd001,"Daulton Varsho",1,1,8
+start,alcas002,"Sergio Alcantara",1,2,5
+start,perad001,"David Peralta",1,3,7
+start,walkc002,"Christian Walker",1,4,3
+start,beers001,"Seth Beer",1,5,10
+start,mccaj003,"Jake McCarthy",1,6,9
+start,perdg001,"Geraldo Perdomo",1,7,4
+start,ahmen001,"Nick Ahmed",1,8,6
+start,herrj003,"Jose Herrera",1,9,2
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,canhm001,02,CCX,S5/G5S.B-2(E5/TH)
+play,1,0,marts002,00,X,63/G6
+play,1,0,lindf001,32,B*BBCC>X,S8/L8.2-H(UR)
+play,1,0,alonp001,22,CFBFBFS,K
+play,1,0,escoe001,21,1BBCX,54(1)/FO/G5.B-1
+play,1,1,varsd001,02,CCS,K
+play,1,1,alcas002,10,BX,7/F7L
+play,1,1,perad001,02,FCS,K
+play,2,0,davij006,32,BBCCBX,S8/L8D
+play,2,0,guill001,12,CFBS,K
+play,2,0,mccaj001,11,C*BX,64(1)3/GDP/G6
+play,2,1,walkc002,12,BCCC,K
+play,2,1,beers001,00,X,13/G1S
+play,2,1,mccaj003,02,CSS,K
+play,3,0,jankt001,22,BCCBX,43/G4+
+play,3,0,canhm001,02,CCC,K
+play,3,0,marts002,32,BBBCSFX,63/G56D
+play,3,1,perdg001,31,BBBCX,4/L4D
+play,3,1,ahmen001,02,FFFX,43/G6M
+play,3,1,herrj003,31,CBBBB,W
+play,3,1,varsd001,00,X,S9/L9D.1-2
+play,3,1,alcas002,12,CBSC,K
+play,4,0,lindf001,02,CCX,S3/G34
+play,4,0,alonp001,10,BX,54(1)/FO/G5.B-1
+play,4,0,escoe001,12,BFFX,8/F8
+play,4,0,davij006,22,CFBBC,K
+play,4,1,perad001,12,CSBFX,5/P1
+play,4,1,walkc002,21,BSBX,HR/F78XD
+play,4,1,beers001,20,BBX,3/G3S
+play,4,1,mccaj003,01,SX,7/F1S
+play,5,0,guill001,32,FCFBBFBFFX,163/G6M
+play,5,0,mccaj001,10,BX,9/F89D
+play,5,0,jankt001,11,CBX,63/G6M
+play,5,1,perdg001,12,CBFS,K
+play,5,1,ahmen001,10,BX,D7/L7LD+
+play,5,1,herrj003,02,SFX,8/F89
+play,5,1,varsd001,02,FFFX,9/F9D
+play,6,0,canhm001,00,,NP
+id,ARI202205100
+version,2
+info,visteam,MIA
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/05/10
+info,number,0
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,drecb901
+info,ump1b,mosce901
+info,ump2b,hobep901
+info,ump3b,emmep901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:24:40
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,rausg701
+info,temp,88
+info,winddir,ltor
+info,windspeed,10
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,197
+info,attendance,8855
+info,wp,bumgm001
+info,lp,luzaj001
+info,save,
+start,rojam002,"Miguel Rojas",0,1,6
+start,aguij001,"Jesus Aguilar",0,2,3
+start,solej001,"Jorge Soler",0,3,7
+start,coopg002,"Garrett Cooper",0,4,10
+start,garca003,"Avisail Garcia",0,5,9
+start,wendj002,"Joey Wendle",0,6,4
+start,gonze004,"Erik Gonzalez",0,7,5
+start,sancj003,"Jesus Sanchez",0,8,8
+start,henrp001,"Payton Henry",0,9,2
+start,luzaj001,"Jesus Luzardo",0,0,1
+start,hummc001,"Cooper Hummel",1,1,7
+start,luplj001,"Jordan Luplow",1,2,9
+start,martk001,"Ketel Marte",1,3,4
+start,walkc002,"Christian Walker",1,4,3
+start,rojaj001,"Josh Rojas",1,5,10
+start,ahmen001,"Nick Ahmed",1,6,6
+start,perdg001,"Geraldo Perdomo",1,7,5
+start,thoma004,"Alek Thomas",1,8,8
+start,herrj003,"Jose Herrera",1,9,2
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,rojam002,02,CCX,S7/L78D+
+play,1,0,aguij001,11,BFX,9/F9D
+play,1,0,solej001,02,SSX,HR/F7D.1-H
+play,1,0,coopg002,11,BCX,9/F9
+play,1,0,garca003,21,SBBX,S7/F7D+
+play,1,0,wendj002,01,CX,S4/G3.1-2
+play,1,0,gonze004,22,CSFBBC,K
+play,1,1,hummc001,31,CBBBB,W
+play,1,1,luplj001,11,BCX,HR/F7D.1-H
+play,1,1,martk001,32,BBSFFFBB,W
+play,1,1,walkc002,32,BBCSF*BX,D8/F8XD+.1-3
+play,1,1,rojaj001,22,B*BCCC,K
+play,1,1,ahmen001,12,SSBFFS,K
+play,1,1,perdg001,32,*BBSBFS,K
+play,2,0,sancj003,22,BBCTFFS,K
+play,2,0,henrp001,10,BX,63/G6+
+play,2,0,rojam002,32,FCFBBFBFFX,8/L8XD
+play,2,1,thoma004,00,X,43/G4
+play,2,1,herrj003,32,BBCSBFS,K
+play,2,1,hummc001,12,BCSS,K
+play,3,0,aguij001,02,CFX,8/L8XD
+play,3,0,solej001,22,BCCBC,K
+play,3,0,coopg002,21,BBCX,S8/G4M+
+play,3,0,garca003,10,BX,8/F78XD
+play,3,1,luplj001,32,CSBBBS,K
+play,3,1,martk001,32,FCBBBFF*B,W
+play,3,1,walkc002,32,FCBBBF1F*B,W.1-2
+play,3,1,rojaj001,21,BCBX,8/L8D
+play,3,1,ahmen001,00,,NP
+sub,headl001,"Louis Head",0,0,1
+play,3,1,ahmen001,32,.*BBCBC>X,S7/L56D.2-H;1-2
+play,3,1,perdg001,32,CFBBB>F>F>X,S8/L89.2-H;1-3
+play,3,1,thoma004,11,CBX,D7/F7LS.3-H;1-3
+play,3,1,herrj003,11,CBB,WP.3-H(NR);2-3
+play,3,1,herrj003,32,CBB.BFFX,31/G3
+play,4,0,wendj002,31,BBBCB,W
+play,4,0,gonze004,01,CX,54(1)/FO/G56.B-1
+play,4,0,sancj003,22,BFBFX,7/F78S
+play,4,0,henrp001,00,X,S8/G6+.1-2
+play,4,0,rojam002,02,CFC,K
+play,4,1,hummc001,00,,NP
+sub,potec001,"Cody Poteet",0,0,1
+play,4,1,hummc001,00,.X,S9/G4
+play,4,1,luplj001,12,FLBC+1,K
+play,4,1,martk001,12,SBF1FFX,65(1)3/GDP/G4
+play,5,0,aguij001,12,CBFX,4/L6MD
+play,5,0,solej001,11,BCX,53/G5
+play,5,0,coopg002,00,X,63/G6
+play,5,1,walkc002,01,CX,63/G6
+play,5,1,rojaj001,10,BX,3/G3
+play,5,1,ahmen001,32,BBCFB*B,W
+play,5,1,perdg001,11,CBX,3/G3
+play,6,0,garca003,12,TFBFX,63/G6+
+play,6,0,wendj002,12,SBFS,K
+play,6,0,gonze004,00,X,63/G6D
+play,6,1,thoma004,22,BCFBFX,43/G34+
+play,6,1,herrj003,11,SBX,7/L7D
+play,6,1,hummc001,32,SBBFBFS,K
+play,7,0,sancj003,31,BBBCX,7/F7
+play,7,0,henrp001,00,,NP
+id,ARI202205270
+version,2
+info,visteam,LAN
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/05/27
+info,number,0
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,reybd901
+info,ump1b,ortir901
+info,ump2b,hoyej901
+info,ump3b,riggj901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:24:58
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,rausg701
+info,temp,100
+info,winddir,ltor
+info,windspeed,13
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,191
+info,attendance,24865
+info,wp,gratb002
+info,lp,bumgm001
+info,save,
+start,bettm001,"Mookie Betts",0,1,9
+start,freef001,"Freddie Freeman",0,2,3
+start,turnt001,"Trea Turner",0,3,6
+start,smitw003,"Will Smith",0,4,2
+start,turnj001,"Justin Turner",0,5,5
+start,taylc001,"Chris Taylor",0,6,7
+start,bellc002,"Cody Bellinger",0,7,8
+start,albeh001,"Hanser Alberto",0,8,4
+start,riose001,"Edwin Rios",0,9,10
+start,pepir001,"Ryan Pepiot",0,0,1
+start,varsd001,"Daulton Varsho",1,1,10
+start,rojaj001,"Josh Rojas",1,2,5
+start,martk001,"Ketel Marte",1,3,4
+start,walkc002,"Christian Walker",1,4,3
+start,perad001,"David Peralta",1,5,7
+start,smitp002,"Pavin Smith",1,6,9
+start,thoma004,"Alek Thomas",1,7,8
+start,perdg001,"Geraldo Perdomo",1,8,6
+start,herrj003,"Jose Herrera",1,9,2
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,bettm001,11,CBX,63/G6
+play,1,0,freef001,22,BSBSX,S7/L7S
+play,1,0,turnt001,12,FFFBS,K
+play,1,0,smitw003,00,>C,SB2
+play,1,0,smitw003,21,>C.BBX,63/G6M
+play,1,1,varsd001,21,BCBH,HP
+play,1,1,rojaj001,21,BCBX,9/F9
+play,1,1,martk001,02,CSS,K
+play,1,1,walkc002,11,B1CX,43/G6M
+play,2,0,turnj001,31,BBFBB,W
+play,2,0,taylc001,32,BBCSBC,K
+play,2,0,bellc002,02,CFX,8/F8XD
+play,2,0,albeh001,10,BX,S8/L8.1-2
+play,2,0,riose001,12,*BFFX,HR/F9LD.2-H;1-H
+play,2,0,bettm001,10,BX,HR/F7LD
+play,2,0,freef001,11,CBX,43/G34D
+play,2,1,perad001,21,BCBX,6/L4MD
+play,2,1,smitp002,32,CBBSFBFFFFB,W
+play,2,1,thoma004,32,BBBCCFC,K
+play,2,1,perdg001,30,BBBB,W.1-2
+play,2,1,herrj003,22,CCBBS,K
+play,3,0,turnt001,01,CX,43/G4
+play,3,0,smitw003,01,CX,8/L8XD+
+play,3,0,turnj001,32,CBBFBC,K
+play,3,1,varsd001,11,CBX,5/P5F-/FL
+play,3,1,rojaj001,31,CBBBX,S6/BG56S-
+play,3,1,martk001,22,BBCFX,64(1)3/GDP/G6
+play,4,0,taylc001,22,BFBSFX,T8/L78XD+
+play,4,0,bellc002,01,C+3,PO3(25)
+play,4,0,bellc002,01,C+3.X,3/G3
+play,4,0,albeh001,02,FFX,9/L89XD
+play,4,1,walkc002,22,CSBBS,K
+play,4,1,perad001,00,X,9/F9LDF/FL
+play,4,1,smitp002,10,BX,5/P5F/FL
+play,5,0,riose001,00,X,31/G3
+play,5,0,bettm001,32,CBBBCX,43/G6
+play,5,0,freef001,02,CSX,9/F89XD
+play,5,1,thoma004,00,X,S9/G4+
+play,5,1,perdg001,32,CB1BBSC,K
+play,5,1,herrj003,11,C*BX,S8/G6M+.1-2
+play,5,1,varsd001,00,,NP
+sub,luplj001,"Jordan Luplow",1,1,11
+play,5,1,luplj001,32,.BCFBFFBB,W.2-3;1-2
+play,5,1,rojaj001,00,,NP
+sub,gratb002,"Brusdar Graterol",0,0,1
+play,5,1,rojaj001,21,.BBFX,8/SF/F78D.3-H
+play,5,1,martk001,32,BFBBC>X,63/G6M+
+play,6,0,turnt001,11,.SBX,HR/F7LD+
+play,6,0,smitw003,22,FBBCX,7/L78D+
+play,6,0,turnj001,10,BX,63/G6
+play,6,0,taylc001,31,CBBBB,W
+play,6,0,bellc002,00,11X,S8/L8+.1-2
+play,6,0,albeh001,11,B+1SX,7/F78D
+com,"$D-backs designated hitter Daulton Varsho left the game due to an injured shoulder."
+play,6,1,walkc002,00,.X,8/F89D
+play,6,1,perad001,12,CFBFFFX,D7/L7D+
+play,6,1,smitp002,01,FX,31/G3.2-3
+play,6,1,thoma004,10,BX,63/G6
+play,7,0,riose001,00,,NP
+id,ARI202206010
+version,2
+info,visteam,ATL
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/06/01
+info,number,0
+info,starttime,12:40PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,tosia901
+info,ump1b,ticht901
+info,ump2b,libkj901
+info,ump3b,reynj901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:25:06
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,rausg701
+info,temp,95
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,179
+info,attendance,12370
+info,wp,wrigk001
+info,lp,bumgm001
+info,save,
+start,albio001,"Ozzie Albies",0,1,4
+start,swand001,"Dansby Swanson",0,2,6
+start,ozunm001,"Marcell Ozuna",0,3,10
+start,rilea001,"Austin Riley",0,4,5
+start,contw002,"William Contreras",0,5,2
+start,olsom001,"Matt Olson",0,6,3
+start,duvaa001,"Adam Duvall",0,7,9
+start,hereg002,"Guillermo Heredia",0,8,7
+start,harrm004,"Michael Harris II",0,9,8
+start,wrigk001,"Kyle Wright",0,0,1
+start,varsd001,"Daulton Varsho",1,1,10
+start,rojaj001,"Josh Rojas",1,2,5
+start,martk001,"Ketel Marte",1,3,4
+start,walkc002,"Christian Walker",1,4,3
+start,perad001,"David Peralta",1,5,7
+start,smitp002,"Pavin Smith",1,6,9
+start,thoma004,"Alek Thomas",1,7,8
+start,hagej001,"Jake Hager",1,8,6
+start,herrj003,"Jose Herrera",1,9,2
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,albio001,21,FBBX,8/L78D
+play,1,0,swand001,02,CCX,S7/L7S
+play,1,0,ozunm001,32,BBCFB>B,W.1-2
+play,1,0,rilea001,12,SFBS,K
+play,1,0,contw002,12,C>FBX,D7/G6+.2-H;1-3
+play,1,0,olsom001,22,CBSBS,K
+play,1,1,varsd001,01,CX,9/L89D
+play,1,1,rojaj001,22,FBFFBX,7/F7D
+play,1,1,martk001,02,CCFX,S8/L8D
+play,1,1,walkc002,22,BSBSS,K
+play,2,0,duvaa001,12,CCBX,D7/L7LD+
+play,2,0,hereg002,00,X,8/F78XD
+play,2,0,harrm004,31,BB*BCX,D8/L8XD+.2-H
+play,2,0,albio001,00,X,63/G56
+play,2,0,swand001,21,FBBX,13/G1S
+play,2,1,perad001,32,BCFBBB,W
+play,2,1,smitp002,12,F*BFC,K
+play,2,1,thoma004,00,X,46(1)/FO/G34.B-1
+play,2,1,hagej001,12,CBCX,64(1)/FO/G6.B-1
+play,3,0,ozunm001,11,CBX,3/G34
+play,3,0,rilea001,10,BX,3/P4-
+play,3,0,contw002,20,BBX,D7/L7LD+
+play,3,0,olsom001,12,BFFS,K
+play,3,1,herrj003,12,CFBS,K
+play,3,1,varsd001,12,BSCFX,63/G6M
+play,3,1,rojaj001,02,CCX,S6/G6MS.B-2(E6/TH)
+play,3,1,martk001,30,BBBB,W
+play,3,1,walkc002,22,BCFBC,K
+play,4,0,duvaa001,12,BFFX,63/G6
+play,4,0,hereg002,01,LX,D8/L8XD+
+play,4,0,harrm004,31,BBCBB,W
+play,4,0,albio001,30,BB*BX,8/F8D+
+play,4,0,swand001,02,CFS,K
+play,4,1,perad001,00,X,D9/L89XD+
+play,4,1,smitp002,01,FX,FC/G6.2X3(65);B-1
+play,4,1,thoma004,12,CCFBC,K
+play,4,1,hagej001,01,CB,WP.1-2
+play,4,1,hagej001,32,CB.SFBBB,W
+play,4,1,herrj003,12,FBCX,43/G34D
+play,5,0,ozunm001,32,BFFFFBBS,K
+play,5,0,rilea001,21,FBBX,53/G56
+play,5,0,contw002,22,BCCFBX,S7/G6+
+play,5,0,olsom001,00,X,63/G4
+play,5,1,varsd001,22,CBFBX,4/F9S
+play,5,1,rojaj001,31,BCBBB,W
+play,5,1,martk001,32,BBFBCB,W.1-2
+play,5,1,walkc002,12,SCBFX,54(1)3/GDP/G56
+play,6,0,duvaa001,22,FBBFX,5/L5
+play,6,0,hereg002,22,CFBBS,K
+play,6,0,harrm004,11,BCX,63/G6S-
+play,6,1,perad001,01,CX,7/F7D
+play,6,1,smitp002,11,CBX,43/G4D+
+play,6,1,thoma004,11,BCX,63/G6
+play,7,0,albio001,00,,NP
+id,ARI202206170
+version,2
+info,visteam,MIN
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/06/17
+info,number,0
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,diazl901
+info,ump1b,gibsh902
+info,ump2b,hicke901
+info,ump3b,marqa901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:25:24
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,rausg701
+info,temp,106
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,160
+info,attendance,26351
+info,wp,bumgm001
+info,lp,smeld001
+info,save,
+start,buxtb001,"Byron Buxton",0,1,10
+start,corrc001,"Carlos Correa",0,2,6
+start,urshg001,"Gio Urshela",0,3,5
+start,sancg002,"Gary Sanchez",0,4,2
+start,arral001,"Luis Arraez",0,5,4
+start,miraj002,"Jose Miranda",0,6,3
+start,keplm001,"Max Kepler",0,7,9
+start,celeg001,"Gilberto Celestino",0,8,8
+start,larnt001,"Trevor Larnach",0,9,7
+start,smeld001,"Devin Smeltzer",0,0,1
+start,kellc002,"Carson Kelly",1,1,2
+start,rojaj001,"Josh Rojas",1,2,5
+start,luplj001,"Jordan Luplow",1,3,7
+start,walkc002,"Christian Walker",1,4,3
+start,varsd001,"Daulton Varsho",1,5,9
+start,kennb002,"Buddy Kennedy",1,6,10
+start,thoma004,"Alek Thomas",1,7,8
+start,hagej001,"Jake Hager",1,8,4
+start,perdg001,"Geraldo Perdomo",1,9,6
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,buxtb001,10,BX,HR/F7D
+play,1,0,corrc001,21,CBBX,7/F7LD
+play,1,0,urshg001,10,BX,63/G56D+
+play,1,0,sancg002,32,BBFFBX,S6/G6+
+play,1,0,arral001,32,FBCFBB>X,DGR/L78XD+.1-3
+play,1,0,miraj002,22,SBSBFX,8/L8
+play,1,1,kellc002,01,CX,S9/L89
+play,1,1,rojaj001,20,BB1X,7/F78S
+play,1,1,luplj001,01,CX,HR/F7D+.1-H
+play,1,1,walkc002,21,SBBX,63/G6
+play,1,1,varsd001,20,BBX,53/G56
+play,2,0,keplm001,00,X,S8/L8
+play,2,0,celeg001,02,CCC,K
+play,2,0,larnt001,12,B1SFX,7/F7L
+play,2,0,buxtb001,00,X,D7/L7LD+.1-3
+play,2,0,corrc001,02,SSFFF*S,K
+play,2,1,kennb002,11,BCX,8/F78XD
+play,2,1,thoma004,12,BSF*S,K
+play,2,1,hagej001,02,CSX,S8/G6M
+play,2,1,perdg001,22,C*BBCFX,43/G4M
+play,3,0,urshg001,20,BBX,D8/L8XD+
+play,3,0,sancg002,10,BX,9/F9L.2-3
+play,3,0,arral001,11,BCX,S4/L34.3-3
+play,3,0,miraj002,00,X,S7/L7.3-H;1-2
+play,3,0,keplm001,32,SBBBSB,W.2-3;1-2
+play,3,0,celeg001,02,SCX,64(1)3/GDP/G6+
+play,3,1,kellc002,11,CBX,7/F78
+play,3,1,rojaj001,12,BCCFS,K
+play,3,1,luplj001,12,CBSX,HR/F7LD
+play,3,1,walkc002,31,BBCBB,W
+play,3,1,varsd001,12,CBCX,1/P1S-
+play,4,0,larnt001,21,SBBX,9/F9D+
+play,4,0,buxtb001,01,SX,63/G6D+
+play,4,0,corrc001,21,CBBX,4/F8S
+play,4,1,kennb002,32,BCSFBBFB,W
+play,4,1,thoma004,12,1CBFX,S8/L8.1-2
+play,4,1,hagej001,21,B*BFX,S1/BG25.2-H(E1/TH)(NR);1-H(NR);B-2
+play,4,1,perdg001,00,X,53/SH/BG25.2-3
+play,4,1,kellc002,12,BFCFX,S9/F9S.3-H(UR)
+play,4,1,rojaj001,22,CCBFBS,K
+play,4,1,luplj001,12,FCBX,53/G56
+play,5,0,urshg001,01,CX,53/G2
+play,5,0,sancg002,12,BCSX,DGR/L78XD+
+play,5,0,arral001,22,CBFBX,43/G4S.2-3
+play,5,0,miraj002,02,CF*S,K
+play,5,1,walkc002,32,BSBBFX,7/F7LD
+play,5,1,varsd001,00,X,S3/BG34S
+play,5,1,kennb002,11,FBX,S9/G34.1-2
+play,5,1,thoma004,11,FBX,FC5/G56S.2-3;1-2(E5);B-1
+play,5,1,hagej001,00,,NP
+sub,thort001,"Tyler Thornburg",0,0,1
+play,5,1,hagej001,20,.B*BX,S7/L7+.3-H;2-3;1-2
+play,5,1,perdg001,31,BBFBX,6/F78S
+play,5,1,kellc002,10,BX,8/F89S
+play,6,0,keplm001,22,CBFBFX,43/G34D
+play,6,0,celeg001,32,BBFFFBFX,53/G6
+play,6,0,larnt001,31,BBSBX,7/F78XD
+play,6,1,rojaj001,00,X,8/F89XD+
+play,6,1,luplj001,22,BFBSX,53/G5D
+play,6,1,walkc002,32,BBSCFBX,63/G6+
+play,7,0,buxtb001,00,,NP
+id,ARI202206290
+version,2
+info,visteam,SDN
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/06/29
+info,number,0
+info,starttime,12:40PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,fleta901
+info,ump1b,welkb901
+info,ump2b,valej901
+info,ump3b,morag901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:25:38
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,rausg701
+info,temp,73
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,192
+info,attendance,20109
+info,wp,clevm001
+info,lp,bumgm001
+info,save,martn002
+start,profj001,"Jurickson Profar",0,1,7
+start,nolaa002,"Austin Nola",0,2,2
+start,cronj001,"Jake Cronenworth",0,3,4
+start,voitl001,"Luke Voit",0,4,10
+start,hosme001,"Eric Hosmer",0,5,3
+start,kim-h002,"Ha-Seong Kim",0,6,5
+start,grist001,"Trent Grisham",0,7,8
+start,azocj001,"Jose Azocar",0,8,9
+start,abrac001,"C.J. Abrams",0,9,6
+start,clevm001,"Mike Clevinger",0,0,1
+start,rojaj001,"Josh Rojas",1,1,5
+start,thoma004,"Alek Thomas",1,2,8
+start,martk001,"Ketel Marte",1,3,10
+start,walkc002,"Christian Walker",1,4,3
+start,perad001,"David Peralta",1,5,7
+start,varsd001,"Daulton Varsho",1,6,9
+start,kennb002,"Buddy Kennedy",1,7,4
+start,perdg001,"Geraldo Perdomo",1,8,6
+start,herrj003,"Jose Herrera",1,9,2
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,profj001,01,CX,7/F7D
+play,1,0,nolaa002,22,BCBFFFX,63/G6
+play,1,0,cronj001,11,BCX,2/BP2F/FL
+play,1,1,rojaj001,01,CX,5/P5F/FL
+play,1,1,thoma004,22,BSSBS,K
+play,1,1,martk001,20,BBX,9/F9D
+play,2,0,voitl001,32,BFBBFX,8/L8XD+
+play,2,0,hosme001,12,CSB*S,K
+play,2,0,kim-h002,12,SBFX,8/F8
+play,2,1,walkc002,12,CSBS,K
+play,2,1,perad001,31,BFBBB,W
+play,2,1,varsd001,02,CFX,35(1)/FO/G34.B-1
+play,2,1,kennb002,22,1CC*BBC,K
+play,3,0,grist001,02,CCX,7/F7D
+play,3,0,azocj001,12,FFBX,4/L4M
+play,3,0,abrac001,00,X,D9/L9L+
+play,3,0,profj001,31,CBBBB,W
+play,3,0,nolaa002,00,X,5(2)/FO/G5.B-1
+play,3,1,perdg001,10,BX,S4/G34+
+play,3,1,herrj003,11,BC1X,23/SH/BG2.1-2
+play,3,1,rojaj001,02,SCFX,43/G4.2-3
+play,3,1,thoma004,12,FBSS,K
+play,4,0,cronj001,12,CFFFBS,K
+play,4,0,voitl001,32,FBBBSS,K
+play,4,0,hosme001,22,FBBFFX,S8/G6M
+play,4,0,kim-h002,32,BFFBB>F>F>F>B,W.1-2
+play,4,0,grist001,32,CBBFB>S,K
+play,4,1,martk001,32,CBCBBFFX,63/G4
+play,4,1,walkc002,22,SBCBFS,K
+play,4,1,perad001,11,BCX,4/L9S+
+play,5,0,azocj001,01,CX,8/L8XD
+play,5,0,abrac001,22,BBSFFFFX,3/G3
+play,5,0,profj001,31,BBBCB,W
+play,5,0,nolaa002,11,CBX,S7/G6+.1-2
+play,5,0,cronj001,32,BCBBC>X,S9/L9L.2-H;1-3
+play,5,0,voitl001,22,SFBFBFFX,7/F7D
+play,5,1,varsd001,12,CFBX,13/G34S-
+play,5,1,kennb002,02,SSX,8/F89
+play,5,1,perdg001,02,FFX,S4/G34
+play,5,1,herrj003,00,X,7/L7
+play,6,0,hosme001,00,,NP
+id,ARI202207040
+version,2
+info,visteam,SFN
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/07/04
+info,number,0
+info,starttime,3:10PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,iassd901
+info,ump1b,morag901
+info,ump2b,barrs901
+info,ump3b,ramoc901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:25:44
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,rausg701
+info,temp,103
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,193
+info,attendance,27752
+info,wp,bumgm001
+info,lp,rodoc001
+info,save,
+start,slata001,"Austin Slater",0,1,8
+start,florw001,"Wilmer Flores",0,2,3
+start,ruf-d001,"Darin Ruf",0,3,7
+start,longe001,"Evan Longoria",0,4,5
+start,wadel001,"LaMonte Wade Jr.",0,5,9
+start,mercy001,"Yermin Mercedes",0,6,10
+start,villd001,"David Villar",0,7,4
+start,casac001,"Curt Casali",0,8,2
+start,waltd002,"Donovan Walton",0,9,6
+start,rodoc001,"Carlos Rodon",0,0,1
+start,luplj001,"Jordan Luplow",1,1,9
+start,hummc001,"Cooper Hummel",1,2,7
+start,martk001,"Ketel Marte",1,3,10
+start,walkc002,"Christian Walker",1,4,3
+start,kennb002,"Buddy Kennedy",1,5,4
+start,rojaj001,"Josh Rojas",1,6,5
+start,kellc002,"Carson Kelly",1,7,2
+start,varsd001,"Daulton Varsho",1,8,8
+start,perdg001,"Geraldo Perdomo",1,9,6
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,slata001,02,FFX,63/G6
+play,1,0,florw001,10,BH,HP
+play,1,0,ruf-d001,32,CBBF*BB,W.1-2
+play,1,0,longe001,32,BBFBSB,W.2-3;1-2
+play,1,0,wadel001,02,CTX,S9/L9S.3-H;2-H;1-2
+play,1,0,mercy001,11,CBX,64(1)3/GDP/G6
+play,1,1,luplj001,22,CBBSX,D8/L78XD+
+play,1,1,hummc001,32,BC*BFBB,W
+play,1,1,martk001,12,*SBSFC,K
+play,1,1,walkc002,32,BCBFB*B,W.2-3;1-2
+play,1,1,kennb002,11,BCX,S9/G34+.3-H;2-H;1-2
+play,1,1,rojaj001,22,BBCCFS,K
+play,1,1,kellc002,22,*BCBCS,K
+play,2,0,villd001,00,X,D9/F9D+
+play,2,0,casac001,32,BSFBBS,K
+play,2,0,waltd002,22,BBFCFX,9/L9D.2-3
+play,2,0,slata001,32,FBFBBB,W
+play,2,0,florw001,11,BF>B,SB2
+play,2,0,florw001,32,BF>B.CFBS,K
+play,2,1,varsd001,12,CFBX,S3/G3
+play,2,1,perdg001,00,X,53/SH/BG2.1-H(E3/TH)(NR)
+play,2,1,luplj001,12,CBCX,8/L8D+
+play,2,1,hummc001,00,X,S9/L9+
+play,2,1,martk001,11,1*SB>C,SB2.1-3(E2/TH)
+play,2,1,martk001,12,1*SB>C.FX,DGR/F9LD.3-H
+play,2,1,walkc002,22,*BFBFX,53/G56
+play,3,0,ruf-d001,22,BFCFBC,K
+play,3,0,longe001,22,SFBFBX,S7/L7LD+
+play,3,0,wadel001,02,LSFX,7/F7
+play,3,0,mercy001,22,FBSFBX,S8/L78D+.1-2
+play,3,0,villd001,11,C*BX,S9/G4.2-H;1-2
+play,3,0,casac001,21,CBBX,3/P3F/FL
+play,3,1,kennb002,11,CBX,8/F8XD
+play,3,1,rojaj001,12,SFBFS,K
+play,3,1,kellc002,10,BX,63/G6+
+play,4,0,waltd002,00,X,6/P6
+play,4,0,slata001,22,FCBBT,K
+play,4,0,florw001,01,FX,7/F78D
+play,4,1,varsd001,12,LCBFS,K
+play,4,1,perdg001,32,BCBCFFBFX,3/P3F/FL
+play,4,1,luplj001,32,BCCBBS,K
+play,5,0,ruf-d001,00,H,HP
+play,5,0,longe001,22,FBCB1X,9/F9D
+play,5,0,wadel001,10,BX,6/F8S
+play,5,0,mercy001,22,BBFFFX,8/F8XD
+play,5,1,hummc001,32,BCTBBFC,K
+play,5,1,martk001,22,BCCBX,9/L9D
+play,5,1,walkc002,20,BBX,63/G6M
+play,6,0,villd001,00,,NP
+id,ARI202207090
+version,2
+info,visteam,COL
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/07/09
+info,number,0
+info,starttime,1:10PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,drecb901
+info,ump1b,emmep901
+info,ump2b,hobep901
+info,ump3b,ballb901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:25:51
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,johnj701
+info,temp,109
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,183
+info,attendance,21819
+info,wp,bumgm001
+info,lp,freek001
+info,save,
+start,joe-c001,"Connor Joe",0,1,3
+start,bryak001,"Kris Bryant",0,2,10
+start,blacc001,"Charlie Blackmon",0,3,9
+start,rodgb002,"Brendan Rodgers",0,4,4
+start,gricr001,"Randal Grichuk",0,5,8
+start,dazay001,"Yonathan Daza",0,6,7
+start,diaze005,"Elias Diaz",0,7,2
+start,monte001,"Elehuris Montero",0,8,5
+start,hampg001,"Garrett Hampson",0,9,6
+start,freek001,"Kyle Freeland",0,0,1
+start,kellc002,"Carson Kelly",1,1,2
+start,rojaj001,"Josh Rojas",1,2,5
+start,martk001,"Ketel Marte",1,3,10
+start,walkc002,"Christian Walker",1,4,3
+start,luplj001,"Jordan Luplow",1,5,9
+start,kennb002,"Buddy Kennedy",1,6,4
+start,hummc001,"Cooper Hummel",1,7,7
+start,thoma004,"Alek Thomas",1,8,8
+start,perdg001,"Geraldo Perdomo",1,9,6
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,joe-c001,32,CCFBBBX,53/G25
+play,1,0,bryak001,21,BSBX,HR/F7LD
+play,1,0,blacc001,01,CX,43/G4D+
+play,1,0,rodgb002,11,BSX,S9/G4
+play,1,0,gricr001,12,CF*BX,53/G56
+play,1,1,kellc002,00,X,D7/L7LD+
+play,1,1,rojaj001,01,SX,S1/BG2.2-3
+play,1,1,martk001,32,B1FBBFB,W.1-2
+play,1,1,walkc002,31,*BB*BCX,9/SF/L9D.3-H;2-3
+play,1,1,luplj001,11,FBX,S8/L8D.3-H;1-2
+play,1,1,kennb002,20,BB+1X,S1/G25.2-3;1-2
+play,1,1,hummc001,01,CX,63/G6.3-H;2-3;1-2
+play,1,1,thoma004,20,BBX,63/G4
+play,2,0,dazay001,01,CX,63/G6
+play,2,0,diaze005,22,CBBFX,53/G56
+play,2,0,monte001,31,CBBBX,9/F9S
+play,2,1,perdg001,31,BCBBB,W
+play,2,1,kellc002,12,B1SF1S,K
+play,2,1,rojaj001,00,1>B,CS2(26)
+play,2,1,rojaj001,11,1>B.SX,7/F7S
+play,3,0,hampg001,21,FBBX,43/BG34S
+play,3,0,joe-c001,02,TCFX,D7/L7L
+play,3,0,bryak001,32,CBBBFX,8/F8D
+play,3,0,blacc001,02,FCX,S9/L9.2-H
+play,3,0,rodgb002,22,>FB111BFT,K
+play,3,1,martk001,20,BBX,8/F8
+play,3,1,walkc002,32,BBSSBS,K
+play,3,1,luplj001,31,FBBBX,53/G56
+play,4,0,gricr001,22,FFBBX,7/F78XD
+play,4,0,dazay001,01,CX,S57/G56
+play,4,0,diaze005,11,TB1X,46(1)/FO/G4.B-1
+play,4,0,monte001,22,BFCBX,8/F8XD
+play,4,1,kennb002,22,BBCCX,53/G5
+play,4,1,hummc001,10,BX,53/G56
+play,4,1,thoma004,01,FX,43/G4
+play,5,0,hampg001,22,BBCFX,D8/F78XD+
+play,5,0,joe-c001,22,BFFBX,63/G6
+play,5,0,bryak001,01,SX,13/G1S-.2-3
+play,5,0,blacc001,00,X,8/F78XD
+play,5,1,perdg001,32,BCBCBX,63/G6
+play,5,1,kellc002,22,BBCCX,43/G4MD
+play,5,1,rojaj001,21,BCBX,43/G34
+play,6,0,rodgb002,12,BCCX,4/L6MD-
+play,6,0,gricr001,22,CBBFFS,K
+play,6,0,dazay001,01,CX,43/G4D
+play,6,1,martk001,22,BFBCFS,K
+play,6,1,walkc002,00,X,63/G56
+play,6,1,luplj001,32,BBBCCX,HR/F7LD
+play,6,1,kennb002,11,BCX,43/G4MS
+play,7,0,diaze005,12,CBCS,K
+play,7,0,monte001,12,CFFBC,K
+play,7,0,hampg001,12,CCBS,K
+play,7,1,hummc001,31,BBCBX,63/G6
+play,7,1,thoma004,00,X,S3/G34
+play,7,1,perdg001,10,BX,S1/BG25.1-2
+play,7,1,kellc002,00,,NP
+sub,estec001,"Carlos Estevez",0,0,1
+play,7,1,kellc002,10,.BX,8/F8D
+play,7,1,rojaj001,00,X,D8/L78XD+.2-H;1-H
+play,7,1,martk001,31,*BCBBB,W
+play,7,1,walkc002,12,SFFBS,K
+play,8,0,joe-c001,00,,NP
+sub,luplj001,"Jordan Luplow",1,5,7
+play,8,0,joe-c001,00,.,NP
+sub,varsd001,"Daulton Varsho",1,7,9
+play,8,0,joe-c001,00,..,NP
+id,ARI202207230
+version,2
+info,visteam,WAS
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/07/23
+info,number,0
+info,starttime,5:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,fleta901
+info,ump1b,welkb901
+info,ump2b,valej901
+info,ump3b,segac901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:26:05
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,johnj701
+info,temp,73
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,164
+info,attendance,37802
+info,wp,bumgm001
+info,lp,sanca004
+info,save,
+start,hernc005,"Cesar Hernandez",0,1,4
+start,thoml002,"Lane Thomas",0,2,7
+start,sotoj001,"Juan Soto",0,3,9
+start,bellj005,"Josh Bell",0,4,3
+start,cruzn002,"Nelson Cruz",0,5,10
+start,franm004,"Maikel Franco",0,6,5
+start,adrie001,"Ehire Adrianza",0,7,6
+start,barrt004,"Tres Barrera",0,8,2
+start,roblv001,"Victor Robles",0,9,8
+start,sanca004,"Anibal Sanchez",0,0,1
+start,rojaj001,"Josh Rojas",1,1,5
+start,thoma004,"Alek Thomas",1,2,8
+start,martk001,"Ketel Marte",1,3,4
+start,walkc002,"Christian Walker",1,4,3
+start,perad001,"David Peralta",1,5,7
+start,varsd001,"Daulton Varsho",1,6,9
+start,kellc002,"Carson Kelly",1,7,2
+start,mccaj003,"Jake McCarthy",1,8,10
+start,perdg001,"Geraldo Perdomo",1,9,6
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,hernc005,10,BX,9/F9L
+play,1,0,thoml002,22,BFCBC,K
+play,1,0,sotoj001,11,FBX,8/F8XD
+play,1,1,rojaj001,32,BCSBBX,5/P56S
+play,1,1,thoma004,31,BBBCX,S6/G6
+play,1,1,martk001,31,B1B1C1B1>B,W.1-2
+play,1,1,walkc002,32,C2BBBCX,S8/L89S-.2-3;1-2
+play,1,1,perad001,22,SBFBX,7/SF/F7D.3-H
+play,1,1,varsd001,32,CBTBB>S,K
+play,2,0,bellj005,11,BCX,3/P3F/FL
+play,2,0,cruzn002,00,X,4/P4D
+play,2,0,franm004,01,CX,S9/L89
+play,2,0,adrie001,30,BBBH,HP.1-2
+play,2,0,barrt004,01,FX,6/P1S
+play,2,1,kellc002,22,CBCBX,HR/F7LD
+play,2,1,mccaj003,21,BFBX,43/G34
+play,2,1,perdg001,02,CFFS,K
+play,2,1,rojaj001,00,X,43/G34
+play,3,0,roblv001,00,X,S1/BG1S-
+play,3,0,hernc005,01,C1,SB2
+play,3,0,hernc005,11,C1.BB,WP.2-3
+play,3,0,hernc005,22,C1.BB.F3T,K
+play,3,0,thoml002,02,FSX,53/G56.3-H
+play,3,0,sotoj001,12,SSBT,K
+play,3,1,thoma004,10,BX,53/G4
+play,3,1,martk001,11,BFX,8/F8
+play,3,1,walkc002,01,FX,S4/G6M
+play,3,1,perad001,22,BSSFBT,K
+play,4,0,bellj005,00,X,7/F78S
+play,4,0,cruzn002,01,CX,63/G6
+play,4,0,franm004,12,BSSS,K
+play,4,1,varsd001,12,BFFS,K
+play,4,1,kellc002,32,BBBCCB,W
+play,4,1,mccaj003,22,LFBFF*BX,D8/L78.1-3
+play,4,1,perdg001,10,BX,3/G3.3-H;2-3
+play,4,1,rojaj001,22,CFBBX,8/F8XD
+play,5,0,adrie001,12,CFBS,K
+play,5,0,barrt004,22,BCFBC,K
+play,5,0,roblv001,32,SFFFBBFFBX,3/P3SF/FL
+play,5,1,thoma004,10,BX,S7/L78
+play,5,1,martk001,22,F1B1BFX,8/F8D
+play,5,1,walkc002,01,1FX,64(1)3/GDP/G6
+play,6,0,hernc005,02,FCX,7/L7D
+play,6,0,thoml002,10,BX,S7/L7
+play,6,0,sotoj001,02,CFS,K
+play,6,0,bellj005,21,BBCX,4(1)/FO/G4.B-1
+play,6,1,perad001,00,,NP
+sub,macha003,"Andres Machado",0,0,1
+play,6,1,perad001,22,.CBFBX,S3/G34
+play,6,1,varsd001,00,X,4(1)/FO/G4.B-1
+play,6,1,kellc002,22,1BCB1FX,13/G23-.1-2
+play,6,1,mccaj003,00,B,WP.2-3
+play,6,1,mccaj003,11,B.FX,S7/G6.3-H
+play,6,1,perdg001,00,>B,SB2
+play,6,1,perdg001,10,>B.X,S9/L9+.2-H
+play,6,1,rojaj001,20,1BB>B,SB2
+play,6,1,rojaj001,30,1BB>B.B,W
+play,6,1,thoma004,12,BCFX,D7/L7D.2-H;1-H
+play,6,1,martk001,00,,NP
+sub,ramie004,"Erasmo Ramirez",0,0,1
+play,6,1,martk001,00,.X,63/G4
+play,7,0,cruzn002,22,CSBBFH,HP
+play,7,0,franm004,02,SFX,14(1)3/GDP/G13
+play,7,0,adrie001,22,FCBBT,K
+play,7,1,walkc002,32,CFBBBX,3/P3DF/FL
+play,7,1,perad001,22,SBFBFX,7/F78D
+play,7,1,varsd001,12,FBSC,K
+play,8,0,barrt004,02,CFC,K
+play,8,0,roblv001,10,BX,HR/F7D
+play,8,0,hernc005,00,X,3/G34
+play,8,0,thoml002,22,BBFCX,4/P4
+play,8,1,kellc002,00,,NP
+sub,cishs001,"Steve Cishek",0,0,1
+play,8,1,kellc002,22,.CCBBS,K
+play,8,1,mccaj003,22,SBBSX,43/G4S
+play,8,1,perdg001,32,CSBBFBFFS,K
+play,9,0,sotoj001,00,,NP
+id,ARI202208050
+version,2
+info,visteam,COL
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/08/05
+info,number,0
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,rippm901
+info,ump1b,bacce901
+info,ump2b,blasc901
+info,ump3b,belld901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:26:19
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,black701
+info,temp,74
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,182
+info,attendance,17720
+info,wp,devec001
+info,lp,coloa001
+info,save,kenni001
+start,blacc001,"Charlie Blackmon",0,1,10
+start,iglej001,"Jose Iglesias",0,2,6
+start,cronc002,"C.J. Cron",0,3,3
+start,rodgb002,"Brendan Rodgers",0,4,4
+start,gricr001,"Randal Grichuk",0,5,9
+start,diaze005,"Elias Diaz",0,6,2
+start,dazay001,"Yonathan Daza",0,7,8
+start,joe-c001,"Connor Joe",0,8,7
+start,monte001,"Elehuris Montero",0,9,5
+start,marqg001,"German Marquez",0,0,1
+start,rojaj001,"Josh Rojas",1,1,5
+start,thoma004,"Alek Thomas",1,2,8
+start,martk001,"Ketel Marte",1,3,4
+start,walkc002,"Christian Walker",1,4,10
+start,varsd001,"Daulton Varsho",1,5,9
+start,mccaj003,"Jake McCarthy",1,6,7
+start,beers001,"Seth Beer",1,7,3
+start,kellc002,"Carson Kelly",1,8,2
+start,perdg001,"Geraldo Perdomo",1,9,6
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,blacc001,21,CBBX,8/L78D
+play,1,0,iglej001,11,FBX,4/L4D
+play,1,0,cronc002,11,CBX,8/L8D
+play,1,1,rojaj001,32,BBFBTB,W
+play,1,1,thoma004,22,FF1FBFBX,6/L6M
+play,1,1,martk001,10,BN,BK.1-2
+play,1,1,martk001,32,BN.*BCBCX,D7/L7L.2-H
+play,1,1,walkc002,01,CX,43/G6M.2-3
+play,1,1,varsd001,32,SSBFF*BFFF*BB,W
+play,1,1,mccaj003,01,CX,43/G34
+play,2,0,rodgb002,02,CCX,9/F9LD
+play,2,0,gricr001,11,BSX,HR/F7D
+play,2,0,diaze005,32,FBBBFFX,8/F78D
+play,2,0,dazay001,00,X,D7/L7L+
+play,2,0,joe-c001,12,CBCFX,8/F78
+play,2,1,beers001,12,CBCS,K
+play,2,1,kellc002,22,CBBFX,63/G6
+play,2,1,perdg001,22,CBFFBX,8/F89D
+play,3,0,monte001,01,SX,D7/L7L
+play,3,0,blacc001,02,FFFS,K
+play,3,0,iglej001,02,CFX,D9/L9LS.2-H
+play,3,0,cronc002,01,SX,S67/G5.2-3
+play,3,0,rodgb002,11,BCX,64(1)3/GDP/G6
+play,3,1,rojaj001,22,FBCBC,K
+play,3,1,thoma004,00,X,S7/G56
+play,3,1,martk001,22,FF1*BF1BF1X,6/P6D
+play,3,1,walkc002,02,SFS,K
+play,4,0,gricr001,21,BBCX,53/G56
+play,4,0,diaze005,00,X,D8/F8XD+
+play,4,0,dazay001,11,CBX,53/G56
+play,4,0,joe-c001,01,SX,3/P3F/FL
+play,4,1,varsd001,20,BBX,HR/F89XD
+play,4,1,mccaj003,02,SFX,63/G6M
+play,4,1,beers001,00,X,S9/L9+
+play,4,1,kellc002,22,BFCFBX,8/F8XD+
+play,4,1,perdg001,12,CTBX,7/L7D
+play,5,0,monte001,00,X,63/G6S
+play,5,0,blacc001,10,BX,S9/L9L+
+play,5,0,iglej001,12,SF1FFB11>B,SB2
+play,5,0,iglej001,22,SF1FFB11>B.FS,K
+play,5,0,cronc002,01,SX,9/F9LSF/FL
+play,5,1,rojaj001,00,X,9/F89S
+play,5,1,thoma004,12,FBSFFX,5/P5D
+play,5,1,martk001,00,X,43/G4
+play,6,0,rodgb002,32,CBFBBB,W
+play,6,0,gricr001,10,BX,S7/L7+.1-2
+play,6,0,diaze005,12,CF*BX,9/L89XD.2-3
+play,6,0,dazay001,21,B*BCX,S8/G6.3-H;1-2
+play,6,0,joe-c001,32,FBCB*BX,FC5/G5.2-3;1-2(E5/TH);B-1
+play,6,0,monte001,00,X,S7/L7S.3-H;2-H(UR);1-2
+play,6,0,blacc001,00,X,9/F89XD.2-3
+play,6,0,iglej001,00,,NP
+id,ARI202208100
+version,2
+info,visteam,PIT
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/08/10
+info,number,0
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,wolfj901
+info,ump1b,bacce901
+info,ump2b,hamaa901
+info,ump3b,wendh902
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:26:25
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,rausg701
+info,temp,78
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,192
+info,attendance,12714
+info,wp,kellm003
+info,lp,bumgm001
+info,save,stoue001
+start,newmk001,"Kevin Newman",0,1,6
+start,reynb001,"Bryan Reynolds",0,2,10
+start,hayek001,"Ke'Bryan Hayes",0,3,5
+start,gameb001,"Ben Gamel",0,4,9
+start,chavm001,"Michael Chavis",0,5,3
+start,castr006,"Rodolfo Castro",0,6,4
+start,alleg002,"Greg Allen",0,7,8
+start,marct001,"Tucupita Marcano",0,8,7
+start,delaj004,"Jason Delay",0,9,2
+start,kellm003,"Mitch Keller",0,0,1
+start,mccaj003,"Jake McCarthy",1,1,7
+start,thoma004,"Alek Thomas",1,2,8
+start,martk001,"Ketel Marte",1,3,4
+start,walkc002,"Christian Walker",1,4,3
+start,varsd001,"Daulton Varsho",1,5,9
+start,rivee001,"Emmanuel Rivera",1,6,5
+start,beers001,"Seth Beer",1,7,10
+start,kellc002,"Carson Kelly",1,8,2
+start,perdg001,"Geraldo Perdomo",1,9,6
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,newmk001,12,FSFBX,S7/L7
+play,1,0,reynb001,32,CFBFB1FFFB>X,53/G56.1-2
+play,1,0,hayek001,32,CFBFBFBB,W
+play,1,0,gameb001,01,CX,46(1)3/GDP/G34
+play,1,1,mccaj003,12,FSBX,S7/L78D
+play,1,1,thoma004,02,1CCX,16(1)3/GDP/G1S-
+play,1,1,martk001,32,CFFBBBX,4/L34D+
+play,2,0,chavm001,10,BX,13/G1-
+play,2,0,castr006,02,CFX,S8/L8S
+play,2,0,alleg002,02,CSFFS,K
+play,2,0,marct001,12,CFBX,8/F8
+play,2,1,walkc002,02,FSC,K
+play,2,1,varsd001,12,CCBX,8/F8
+play,2,1,rivee001,32,CBFBFBS,K
+play,3,0,delaj004,31,BBBCB,W
+play,3,0,newmk001,00,X,S5/BG25-.1-2
+play,3,0,reynb001,12,BFSFT,K
+play,3,0,hayek001,11,BCX,9/F9D.2-3
+play,3,0,gameb001,10,B>C,SB2
+play,3,0,gameb001,11,B>C.X,D8/L89XD+.3-H;2-H
+play,3,0,chavm001,12,CFBC,K
+play,3,1,beers001,11,CBX,3/G3
+play,3,1,kellc002,10,BX,4/L6M-
+play,3,1,perdg001,12,CCBFFC,K
+play,4,0,castr006,02,FCC,K
+play,4,0,alleg002,00,X,8/L8XD+
+play,4,0,marct001,02,CFH,HP
+play,4,0,delaj004,12,CBCF>X,S8/G4.1-3
+play,4,0,newmk001,11,FB1,POCS2(1346).3-H(NR)
+play,4,1,mccaj003,12,CFFFFBH,HP
+play,4,1,thoma004,22,1BBCFFX,S9/G3.1-3
+play,4,1,martk001,30,BBBX,S9/G34+.3-H;1-3
+play,4,1,walkc002,22,FFB*BX,7/SF/L7D.3-H
+play,4,1,varsd001,11,FBX,46(1)/FO/G34.B-1
+play,4,1,rivee001,10,BX,43/G4S
+play,5,0,newmk001,12,CCBS,K
+play,5,0,reynb001,00,X,7/F78XD+
+play,5,0,hayek001,12,CBCS,K
+play,5,1,beers001,31,BSBBB,W
+play,5,1,kellc002,22,BCFBX,8/F8D
+play,5,1,perdg001,02,FFFX,9/L89XD
+play,5,1,mccaj003,10,BX,7/L7
+play,6,0,gameb001,21,BBSX,7/F7D
+play,6,0,chavm001,22,CBFB*S,K
+play,6,0,castr006,10,BX,T9/F9D
+play,6,0,alleg002,31,BBBCX,D8/F89XD+.3-H
+play,6,0,marct001,00,X,S9/G34.2-H;B-2
+play,6,0,delaj004,01,C>S,SB3
+play,6,0,delaj004,12,C>S.BS,K
+play,6,1,thoma004,11,CBX,S6/G6
+play,6,1,martk001,22,BFFFBX,8/F8XD
+play,6,1,walkc002,32,CBFBB>X,S9/G34.1-3
+play,6,1,varsd001,00,,NP
+sub,holdc001,"Colin Holderman",0,0,1
+play,6,1,varsd001,00,.X,8/SF/F78.3-H
+play,6,1,rivee001,10,BX,53/G56
+play,7,0,newmk001,00,,NP
+id,ARI202208200
+version,2
+info,visteam,SLN
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/08/20
+info,number,0
+info,starttime,5:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,nelsj901
+info,ump1b,buckc901
+info,ump2b,tosia901
+info,ump3b,sches901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:26:38
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,johnj701
+info,temp,72
+info,winddir,unknown
+info,windspeed,1
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,223
+info,attendance,34248
+info,wp,cabrg001
+info,lp,bumgm001
+info,save,
+start,carld002,"Dylan Carlson",0,1,8
+start,oneit001,"Tyler O'Neill",0,2,7
+start,goldp001,"Paul Goldschmidt",0,3,3
+start,arenn001,"Nolan Arenado",0,4,5
+start,pujoa001,"Albert Pujols",0,5,10
+start,edmat001,"Tommy Edman",0,6,4
+start,dejop001,"Paul DeJong",0,7,6
+start,kniza001,"Andrew Knizner",0,8,2
+start,nootl001,"Lars Nootbaar",0,9,9
+start,hudsd002,"Dakota Hudson",0,0,1
+start,varsd001,"Daulton Varsho",1,1,9
+start,rivee001,"Emmanuel Rivera",1,2,10
+start,rojaj001,"Josh Rojas",1,3,4
+start,walkc002,"Christian Walker",1,4,3
+start,mccaj003,"Jake McCarthy",1,5,7
+start,kellc002,"Carson Kelly",1,6,2
+start,alcas002,"Sergio Alcantara",1,7,5
+start,thoma004,"Alek Thomas",1,8,8
+start,perdg001,"Geraldo Perdomo",1,9,6
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,carld002,00,X,8/F8
+play,1,0,oneit001,11,CBX,53/G56
+play,1,0,goldp001,00,X,8/F78D+
+play,1,1,varsd001,32,BBCFBFX,43/G4+
+play,1,1,rivee001,31,BBCBB,W
+play,1,1,rojaj001,11,CBX,S9/G34.1-3
+play,1,1,walkc002,00,X,8/SF/F8XD+.3-H;1-2
+play,1,1,mccaj003,32,BSFBBFB,W
+play,1,1,kellc002,10,BX,S9/L9+.2-H;1-3
+play,1,1,alcas002,02,CS>B,SB2
+play,1,1,alcas002,12,CS>B.C,K
+play,2,0,arenn001,11,CBX,53/G5+
+play,2,0,pujoa001,00,X,HR/F78XD
+play,2,0,edmat001,00,X,63/G6
+play,2,0,dejop001,21,BCBX,53/G5
+play,2,1,thoma004,11,CBX,43/G4
+play,2,1,perdg001,02,CCC,K
+play,2,1,varsd001,00,X,23/G2-
+play,3,0,kniza001,22,BFFBS,K
+play,3,0,nootl001,32,BBBCSB,W
+play,3,0,carld002,12,CB1SC,K
+play,3,0,oneit001,11,CBX,S8/L78S+.1-3
+play,3,0,goldp001,22,BCC*BFX,S9/G3+.3-H;1-2
+play,3,0,arenn001,22,BS*SBX,9/F9
+play,3,1,rivee001,32,BCBBFB,W
+play,3,1,rojaj001,12,CBFX,65(1)/FO/G4.B-1
+com,"$D-backs challenged (force play), call on the field was upheld."
+play,3,1,walkc002,00,1H,HP.1-2
+play,3,1,mccaj003,20,BBX,43/G3.2-3;1-2
+play,3,1,kellc002,00,X,S8/L78D.3-H;2-H
+play,3,1,alcas002,12,*SBFFS,K
+play,4,0,pujoa001,32,BBSBFFFX,HR/F78XD
+play,4,0,edmat001,32,BBSSFFBX,53/G56
+play,4,0,dejop001,22,FBFBFS,K
+play,4,0,kniza001,21,BCBX,D7/L7L+
+play,4,0,nootl001,00,X,S9/G34+.2-H
+play,4,0,carld002,32,BF1BBC>X,9/F89D
+play,4,1,thoma004,01,CX,S8/G4M
+play,4,1,perdg001,00,1X,53/SH/BG56S.1-2
+play,4,1,varsd001,32,BSBFBFFS,K
+play,4,1,rivee001,10,BX,13/G1S-
+play,5,0,oneit001,10,BX,53/G56
+play,5,0,goldp001,10,BX,8/F8XD+
+play,5,0,arenn001,31,BBFBX,5/L5D+
+play,5,1,rojaj001,21,CBBX,D9/L9LD
+play,5,1,walkc002,21,SBBX,4/P34D
+play,5,1,mccaj003,00,,NP
+sub,cabrg001,"Genesis Cabrera",0,0,1
+play,5,1,mccaj003,12,.CFF*BX,8/F8XD.2-3
+play,5,1,kellc002,32,*BBC*BCX,63/G6+
+play,6,0,pujoa001,01,FX,S7/L78XD+
+play,6,0,edmat001,30,BBB>C,CS2(24)
+play,6,0,edmat001,32,BBB>C.FB,W
+play,6,0,dejop001,00,,NP
+id,ARI202208290
+version,2
+info,visteam,PHI
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/08/29
+info,number,0
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,dejer901
+info,ump1b,merzd901
+info,ump2b,barrl901
+info,ump3b,marqa901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:26:48
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,rausg701
+info,temp,73
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,215
+info,attendance,18594
+info,wp,frial001
+info,lp,sancc002
+info,save,
+start,schwk001,"Kyle Schwarber",0,1,7
+start,hoskr001,"Rhys Hoskins",0,2,3
+start,bohma001,"Alec Bohm",0,3,5
+start,harpb003,"Bryce Harper",0,4,10
+start,realj001,"J.T. Realmuto",0,5,2
+start,seguj002,"Jean Segura",0,6,4
+start,stotb001,"Bryson Stott",0,7,6
+start,vierm001,"Matt Vierling",0,8,9
+start,marsb002,"Brandon Marsh",0,9,8
+start,suarr001,"Ranger Suarez",0,0,1
+start,kellc002,"Carson Kelly",1,1,2
+start,rojaj001,"Josh Rojas",1,2,10
+start,martk001,"Ketel Marte",1,3,4
+start,walkc002,"Christian Walker",1,4,3
+start,rivee001,"Emmanuel Rivera",1,5,5
+start,garrs003,"Stone Garrett",1,6,7
+start,mccaj003,"Jake McCarthy",1,7,8
+start,carrc005,"Corbin Carroll",1,8,9
+start,perdg001,"Geraldo Perdomo",1,9,6
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,schwk001,01,CX,9/F9D+
+play,1,0,hoskr001,21,BBCX,S8/G6+
+play,1,0,bohma001,12,FBFX,S7/L7S+.1-2
+play,1,0,harpb003,00,X,D9/L9+.2-H;1-3
+play,1,0,realj001,11,BSX,FC6/G56.3-H;2-3(E6);B-1
+play,1,0,seguj002,01,F>S,SB2
+play,1,0,seguj002,22,F>S.*BBFX,FC/G3S.3XH(32);2-3;B-1
+play,1,0,stotb001,00,>C,CS2(26)
+play,1,1,kellc002,22,CBBF*S,K.BX1(23)
+play,1,1,rojaj001,22,BBCFS,K
+play,1,1,martk001,00,X,4/P4S
+play,2,0,stotb001,02,CSFX,S7/G56
+play,2,0,vierm001,21,1BBFX,S7/L78+.1-2
+play,2,0,marsb002,10,BX,7/F7LD
+play,2,0,schwk001,01,CX,S9/G34+.2-H;1-2
+play,2,0,hoskr001,02,SFX,14(1)3/GDP/G1S-
+play,2,1,walkc002,32,BBBCF*B,W
+play,2,1,rivee001,01,CX,54(1)/FO/G5.B-1
+play,2,1,garrs003,11,BFX,46(1)/FO/G34.B-1
+play,2,1,mccaj003,01,CX,3/G3S
+play,3,0,bohma001,32,CFBBBX,D8/F8XD+
+play,3,0,harpb003,12,LCBFX,43/G34.2-3
+play,3,0,realj001,11,BSX,7/SF/L78.3-H
+play,3,0,seguj002,22,BBSFX,7/L7D
+play,3,1,carrc005,12,CBCX,43/G4
+play,3,1,perdg001,12,CCBX,43/G4
+play,3,1,kellc002,32,CBBBCC,K
+play,4,0,stotb001,22,CCBFBFFFT,K
+play,4,0,vierm001,30,BBBH,HP
+play,4,0,marsb002,00,X,S8/L78.1-2
+play,4,0,schwk001,01,CX,HR/F9D.2-H;1-H
+play,4,0,hoskr001,11,BCX,S8/L78
+play,4,0,bohma001,12,C1FBC,K
+play,4,0,harpb003,00,1X,D9/L9LD+.1-3
+play,4,0,realj001,00,.,NP
+id,ARI202209030
+version,2
+info,visteam,MIL
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/09/03
+info,number,0
+info,starttime,5:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,porta901
+info,ump1b,addir901
+info,ump2b,riggj901
+info,ump3b,wolcq901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/10/09 09:01:55
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,black701
+info,temp,74
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,252
+info,attendance,22138
+info,wp,willd004
+info,lp,mantj002
+info,save,roget001
+start,mccua001,"Andrew McCutchen",0,1,10
+start,adamw002,"Willy Adames",0,2,6
+start,renfh001,"Hunter Renfroe",0,3,9
+start,urial001,"Luis Urias",0,4,4
+start,hiurk001,"Keston Hiura",0,5,3
+start,ruize001,"Esteury Ruiz",0,6,7
+start,taylt002,"Tyrone Taylor",0,7,8
+start,carav001,"Victor Caratini",0,8,2
+start,petej002,"Jace Peterson",0,9,5
+start,burnc002,"Corbin Burnes",0,0,1
+start,rojaj001,"Josh Rojas",1,1,4
+start,varsd001,"Daulton Varsho",1,2,9
+start,martk001,"Ketel Marte",1,3,10
+start,walkc002,"Christian Walker",1,4,3
+start,carrc005,"Corbin Carroll",1,5,7
+start,rivee001,"Emmanuel Rivera",1,6,5
+start,thoma004,"Alek Thomas",1,7,8
+start,hummc001,"Cooper Hummel",1,8,2
+start,perdg001,"Geraldo Perdomo",1,9,6
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,mccua001,21,FBBX,63/G6
+play,1,0,adamw002,32,BCBFBX,5/L56D
+play,1,0,renfh001,31,BBCBX,7/F78D
+play,1,1,rojaj001,32,BBBCCX,S6/BG1S
+play,1,1,varsd001,10,B1,PO1(E3).1-2
+play,1,1,varsd001,32,B1.SFFFB*BB,W
+play,1,1,martk001,12,*BCSFX,5/P5F/FL
+play,1,1,walkc002,31,.BBBCX,8/F89
+play,1,1,carrc005,10,2BX,S9/L9.2-H;1-3
+play,1,1,rivee001,12,CSB>*S,K
+play,2,0,urial001,31,CBBBX,D8/F78XD+
+play,2,0,hiurk001,22,SBBSFC,K
+play,2,0,ruize001,32,BFLBBB,W
+play,2,0,taylt002,02,SSX,5(2)/FO/G5S.1-2;B-1
+play,2,0,carav001,01,CX,D7/L7L.2-H;1-H
+play,2,0,petej002,22,CBSBX,3/G3
+play,2,1,thoma004,10,BX,31/G3
+play,2,1,hummc001,11,CBX,D9/F89XD
+play,2,1,perdg001,22,CB*BFFX,S9/L9.2-3
+play,2,1,rojaj001,32,STBBB>B,W.1-2
+play,2,1,varsd001,01,.SX,9/SF/F9D.3-H;2-3
+play,2,1,martk001,12,C*BCC,K
+play,3,0,mccua001,02,CFFS,K
+play,3,0,adamw002,10,BX,63/G6
+play,3,0,renfh001,00,X,S7/L7L
+play,3,0,urial001,31,B1BBCB,W.1-2
+play,3,0,hiurk001,11,BCX,64(1)/FO/G6.B-1
+play,3,1,walkc002,10,BX,9/F89S
+play,3,1,carrc005,02,CSS,K
+play,3,1,rivee001,10,BX,3/G3
+play,4,0,ruize001,01,CX,63/G6
+play,4,0,taylt002,21,BFBX,D7/L7LD
+play,4,0,carav001,11,CB>C,SB3
+play,4,0,carav001,12,CB>C.FS,K
+play,4,0,petej002,22,CBBSC,K
+play,4,1,thoma004,02,CFX,5/P56
+play,4,1,hummc001,22,BBCFC,K
+play,4,1,perdg001,22,BBCCX,63/G6
+play,5,0,mccua001,12,CBFX,S9/L9+
+play,5,0,adamw002,01,CX,D7/L7LD+.1XH(762);B-3
+com,"$Brewers challenged (tag play), call on the field was upheld."
+play,5,0,renfh001,20,BBX,2/P2F/FL
+play,5,0,urial001,32,*BCBSBH,HP
+play,5,0,hiurk001,22,FBFFBX,E4/G34.3-H(NR)(UR);1-2;B-1
+play,5,0,ruize001,00,X,7/L78
+play,5,1,rojaj001,01,CX,8/L8D
+play,5,1,varsd001,22,CBSBFX,HR/F89XD+
+play,5,1,martk001,31,BBSBB,W
+play,5,1,walkc002,11,.BC1X,4/P9LS/DP.1X1(43)
+play,6,0,taylt002,00,,NP
+id,ARI202209160
+version,2
+info,visteam,SDN
+info,hometeam,ARI
+info,site,PHO01
+info,date,2022/09/16
+info,number,0
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,millb901
+info,ump1b,eddid901
+info,ump2b,macka901
+info,ump3b,ortir901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/27 09:03:22
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,magrj701
+info,temp,78
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,178
+info,attendance,19945
+info,wp,snelb001
+info,lp,bumgm001
+info,save,
+start,myerw001,"Wil Myers",0,1,7
+start,sotoj001,"Juan Soto",0,2,9
+start,machm001,"Manny Machado",0,3,5
+start,drurb001,"Brandon Drury",0,4,3
+start,kim-h002,"Ha-Seong Kim",0,5,6
+start,alfaj002,"Jorge Alfaro",0,6,10
+start,cronj001,"Jake Cronenworth",0,7,4
+start,nolaa002,"Austin Nola",0,8,2
+start,azocj001,"Jose Azocar",0,9,8
+start,snelb001,"Blake Snell",0,0,1
+start,garrs003,"Stone Garrett",1,1,7
+start,rivee001,"Emmanuel Rivera",1,2,10
+start,martk001,"Ketel Marte",1,3,4
+start,walkc002,"Christian Walker",1,4,3
+start,kellc002,"Carson Kelly",1,5,2
+start,varsd001,"Daulton Varsho",1,6,9
+start,alcas002,"Sergio Alcantara",1,7,5
+start,carrc005,"Corbin Carroll",1,8,8
+start,perdg001,"Geraldo Perdomo",1,9,6
+start,bumgm001,"Madison Bumgarner",1,0,1
+play,1,0,myerw001,01,CX,43/G6M
+play,1,0,sotoj001,12,FSBX,6/L4D
+play,1,0,machm001,11,BFX,S7/L7
+play,1,0,drurb001,32,FTBBB>F>X,HR/F7D+.1-H
+play,1,0,kim-h002,12,CBFFX,8/F89D
+play,1,1,garrs003,00,X,D7/G5
+play,1,1,rivee001,11,BFX,E5/G5.B-1
+play,1,1,martk001,21,*B*B.S2,POCS3(145)
+play,1,1,martk001,31,*B*B.S2.BX,5/L56+
+play,1,1,walkc002,31,FBBBX,4/F3D
+play,2,0,alfaj002,12,FBTS,K
+play,2,0,cronj001,22,BCCFBX,3/G3+
+play,2,0,nolaa002,01,CX,HR/L7D+
+play,2,0,azocj001,21,BCBX,8/F8D
+play,2,1,kellc002,22,CCBB*S,K
+play,2,1,varsd001,11,CBX,8/F8
+play,2,1,alcas002,01,CX,7/L78
+play,3,0,myerw001,12,FSFBFX,9/F9LD
+play,3,0,sotoj001,22,CBFFFBX,31/G34
+play,3,0,machm001,11,BFX,13/G1S
+play,3,1,carrc005,01,CX,43/G34D
+play,3,1,perdg001,12,CBFX,9/L9L
+play,3,1,garrs003,22,FBSB*S,K.BX1(23)
+play,4,0,drurb001,00,X,HR/F78XD
+play,4,0,kim-h002,01,CX,43/G1S
+play,4,0,alfaj002,32,FBBBSFFX,S7/G6+
+play,4,0,cronj001,32,BS1BBCX,15(1)3/GDP/G1S
+play,4,1,rivee001,32,BBFFBS,K
+play,4,1,martk001,31,BBCBX,53/G5
+play,4,1,walkc002,00,X,HR/L7LD+
+play,4,1,kellc002,02,CCT,K
+play,5,0,nolaa002,01,CX,D7/L7LD
+play,5,0,azocj001,10,BX,S9/L89.2-3
+play,5,0,myerw001,12,1BFS11FT,K
+play,5,0,sotoj001,32,F*BBSBX,S9/L89D+.3-H;1-2
+play,5,0,machm001,00,.X,36(1)/FO/G4-.2-3;B-1
+play,5,0,drurb001,20,*BBX,7/L78D+
+play,5,1,varsd001,12,BCCS,K
+play,5,1,alcas002,22,CBBFS,K
+play,5,1,carrc005,22,BBFFX,D7/G5
+play,5,1,perdg001,32,BBBCSX,53/G56
+play,6,0,kim-h002,00,,NP

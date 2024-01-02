@@ -1,0 +1,94 @@
+id,MIA202204170
+version,2
+info,visteam,PHI
+info,hometeam,MIA
+info,site,MIA02
+info,date,2022/04/17
+info,number,0
+info,starttime,1:40PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,wegnm901
+info,ump1b,porta901
+info,ump2b,wolcq901
+info,ump3b,rehaj901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:24:15
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,mccac701
+info,temp,72
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,212
+info,attendance,11476
+info,wp,herne002
+info,lp,wheez001
+info,save,
+start,realj001,"J.T. Realmuto",0,1,2
+start,harpb003,"Bryce Harper",0,2,10
+start,castn001,"Nick Castellanos",0,3,9
+start,hoskr001,"Rhys Hoskins",0,4,3
+start,schwk001,"Kyle Schwarber",0,5,7
+start,seguj002,"Jean Segura",0,6,4
+start,gregd001,"Didi Gregorius",0,7,6
+start,camaj001,"Johan Camargo",0,8,5
+start,muzzs001,"Simon Muzziotti",0,9,8
+start,wheez001,"Zack Wheeler",0,0,1
+start,solej001,"Jorge Soler",1,1,10
+start,sancj003,"Jesus Sanchez",1,2,8
+start,aguij001,"Jesus Aguilar",1,3,3
+start,wendj002,"Joey Wendle",1,4,5
+start,andeb006,"Brian Anderson",1,5,7
+start,chisj001,"Jazz Chisholm Jr.",1,6,4
+start,delab001,"Bryan De La Cruz",1,7,9
+start,rojam002,"Miguel Rojas",1,8,6
+start,henrp001,"Payton Henry",1,9,2
+start,herne002,"Elieser Hernandez",1,0,1
+play,1,0,realj001,01,TX,13/G1-
+play,1,0,harpb003,12,SFBX,43/G34
+play,1,0,castn001,01,CH,HP
+play,1,0,hoskr001,22,BFCBX,63/G6
+play,1,1,solej001,32,TBBBCX,S6/G56
+play,1,1,sancj003,12,FBSC,K
+play,1,1,aguij001,00,X,7/F7LD
+play,1,1,wendj002,00,X,7/F7S
+play,2,0,schwk001,01,CX,S5/G5
+play,2,0,seguj002,00,X,3/P3F/FL
+play,2,0,gregd001,02,CTX,7/F7LSF/FL
+play,2,0,camaj001,32,SBB1BT>F>F>F>*B,W.1-2
+play,2,0,muzzs001,00,X,7/F7LS
+play,2,1,andeb006,31,BBBCB,W
+play,2,1,chisj001,00,X,T9/G3.1-H
+play,2,1,delab001,12,FFBX,S7/G6.3-H
+play,2,1,rojam002,22,BC*B11CX,T9/L9LS.1-H
+play,2,1,henrp001,01,CX,13/G4MS
+play,2,1,solej001,00,X,3/G34
+play,2,1,sancj003,20,BBX,S9/L9.3-H
+play,2,1,aguij001,12,C*BS*S,K
+play,3,0,realj001,12,BFTFFFFS,K
+play,3,0,harpb003,11,BCX,S7/L7L
+play,3,0,castn001,10,BX,53/G5.1-2
+play,3,0,hoskr001,02,CFS,K
+play,3,1,wendj002,02,CFX,13/G13
+play,3,1,andeb006,32,BBCCBB,W
+play,3,1,chisj001,02,CCS,K
+play,3,1,delab001,21,BFBX,S8/L8.1-2
+play,3,1,rojam002,00,X,S7/L7.2-H;1-2
+play,3,1,henrp001,01,FX,9/F9
+play,4,0,schwk001,32,BFBBCS,K
+play,4,0,seguj002,01,CX,8/F8D
+play,4,0,gregd001,02,CFX,S5/G56
+com,"$Marlins challenged (play at 1st), call on the field was upheld."
+play,4,0,camaj001,11,BFX,7/F7LS
+play,4,1,solej001,00,H,HP
+com,"$Phillies challenged (hit by pitch), call on the field was upheld."
+play,4,1,sancj003,01,S1X,S9/L9S.1-3
+play,4,1,aguij001,32,BF*BF1FBB,W.1-2
+play,4,1,wendj002,00,,NP

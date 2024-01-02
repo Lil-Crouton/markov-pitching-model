@@ -1,0 +1,363 @@
+id,SFN202206110
+version,2
+info,visteam,LAN
+info,hometeam,SFN
+info,site,SFO03
+info,date,2022/06/11
+info,number,0
+info,starttime,4:15PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,torrc901
+info,ump1b,blakr901
+info,ump2b,ramoc901
+info,ump3b,conrc901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/27 09:03:18
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,younj701
+info,temp,70
+info,winddir,tocf
+info,windspeed,14
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,212
+info,attendance,41236
+info,wp,dovac001
+info,lp,kersc001
+info,save,alvaj003
+start,bettm001,"Mookie Betts",0,1,9
+start,freef001,"Freddie Freeman",0,2,3
+start,turnt001,"Trea Turner",0,3,6
+start,muncm001,"Max Muncy",0,4,10
+start,smitw003,"Will Smith",0,5,2
+start,turnj001,"Justin Turner",0,6,5
+start,bellc002,"Cody Bellinger",0,7,8
+start,taylc001,"Chris Taylor",0,8,7
+start,lux-g001,"Gavin Lux",0,9,4
+start,kersc001,"Clayton Kershaw",0,0,1
+start,slata001,"Austin Slater",1,1,8
+start,ruf-d001,"Darin Ruf",1,2,3
+start,ramoh002,"Heliot Ramos",1,3,9
+start,florw001,"Wilmer Flores",1,4,5
+start,estrt001,"Thairo Estrada",1,5,4
+start,crawb001,"Brandon Crawford",1,6,6
+start,wynna001,"Austin Wynns",1,7,10
+start,casac001,"Curt Casali",1,8,2
+start,gonzl005,"Luis Gonzalez",1,9,7
+start,longs002,"Sam Long",1,0,1
+play,1,0,bettm001,11,BCX,6/P6MS
+play,1,0,freef001,01,FX,S7/L7L
+play,1,0,turnt001,22,CBFBX,8/F8XD
+play,1,0,muncm001,31,CBBBX,FC5/G4.1X2(5);B-1
+play,1,1,slata001,32,FBBBSS,K
+play,1,1,ruf-d001,21,BBSX,63/G56D
+play,1,1,ramoh002,00,X,7/L78D
+play,2,0,smitw003,12,BCFFX,S8/L8
+play,2,0,turnj001,31,BBCBX,8/L89D
+play,2,0,bellc002,22,FCBBX,8/F78D
+play,2,0,taylc001,22,BCBCS,K
+play,2,1,florw001,20,BBX,6/P5DF/FL
+play,2,1,estrt001,12,FFFBFFX,HR/F7D
+play,2,1,crawb001,30,BBBB,W
+play,2,1,wynna001,11,BCX,S8/L8S.1-2
+play,2,1,casac001,32,SSBBF*BC,K
+play,2,1,gonzl005,12,LBCX,S9/L89D.2-H;1-3
+play,2,1,slata001,00,1,SB2
+play,2,1,slata001,02,1.C*SS,K
+play,3,0,lux-g001,21,CBBX,S1/G1S
+play,3,0,bettm001,10,BX,9/L9D+
+play,3,0,freef001,31,FBBBX,3/G3.1-2
+play,3,0,turnt001,01,FX,43/G4
+com,"$Giants challenged (play at 1st), call on the field was overturned."
+play,3,1,ruf-d001,02,CCX,63/G6-
+play,3,1,ramoh002,20,BBX,63/G56+
+play,3,1,florw001,31,BBBCX,7/F78
+play,4,0,muncm001,00,,NP
+sub,roget002,"Tyler Rogers",1,0,1
+play,4,0,muncm001,12,.CCBX,S7/G5
+play,4,0,smitw003,02,CFX,4/P3DF/FL
+play,4,0,turnj001,02,FCX,9/F9
+play,4,0,bellc002,12,CSFBX,S8/L8.1-2
+play,4,0,taylc001,32,BCFBFB>X,3/L34
+play,4,1,estrt001,01,SX,E4/G4D.B-1
+play,4,1,crawb001,32,S*BB1*BFB,W.1-2
+play,4,1,wynna001,11,CBX,8/F8D.2-3
+play,4,1,casac001,12,LMBL,K
+play,4,1,gonzl005,02,CSX,13/G1S-
+play,5,0,lux-g001,00,X,31/G3
+play,5,0,bettm001,31,CBBBB,W
+play,5,0,freef001,00,X,31/G34S.1-2
+play,5,0,turnt001,10,*BX,9/F9D
+play,5,1,slata001,00,,NP
+sub,almoy001,"Yency Almonte",0,0,1
+play,5,1,slata001,00,.,NP
+sub,yastm001,"Mike Yastrzemski",1,1,11
+play,5,1,yastm001,31,..BBBCX,6/L4MD
+play,5,1,ruf-d001,12,BCSX,E1/G1.B-1
+play,5,1,ramoh002,00,,NP
+sub,pedej001,"Joc Pederson",1,3,11
+play,5,1,pedej001,32,.CBF1BBT,K
+play,5,1,florw001,02,SSX,64(1)/FO/G6.B-1
+play,6,0,muncm001,00,,NP
+sub,yastm001,"Mike Yastrzemski",1,1,8
+play,6,0,muncm001,00,.,NP
+sub,pedej001,"Joc Pederson",1,3,7
+play,6,0,muncm001,00,..,NP
+sub,gonzl005,"Luis Gonzalez",1,9,9
+play,6,0,muncm001,00,...,NP
+sub,leond003,"Dominic Leone",1,0,1
+play,6,0,muncm001,10,....BX,9/F89XD
+play,6,0,smitw003,12,CBSX,S8/L89D
+play,6,0,turnj001,11,C1BX,9/L9
+play,6,0,bellc002,02,F*SFFX,13/G4MS
+play,6,1,estrt001,10,BX,43/G4M
+play,6,1,crawb001,00,,NP
+sub,vesia001,"Alex Vesia",0,0,1
+play,6,1,crawb001,22,.BBSSFS,K
+play,6,1,wynna001,01,CX,S9/G4
+play,6,1,casac001,00,X,8/F8S
+play,7,0,taylc001,00,,NP
+sub,littz001,"Zack Littell",1,0,1
+play,7,0,taylc001,32,.BBSCBB,W
+play,7,0,lux-g001,32,CBBSFBX,S8/G6.1-2
+play,7,0,bettm001,22,SBSBFX,S6/G56.2-3;1-2
+play,7,0,freef001,00,,NP
+sub,garcj006,"Jarlin Garcia",1,0,1
+play,7,0,freef001,32,.BFBBCS,K
+play,7,0,turnt001,00,X,4(1)3/GDP/G4
+play,7,1,gonzl005,00,,NP
+sub,fergc001,"Caleb Ferguson",0,0,1
+play,7,1,gonzl005,32,.BBTLBFB,W
+play,7,1,yastm001,12,1BCFX,56(1)/FO/G4.B-1
+play,7,1,ruf-d001,22,BSS1FBX,54(1)3/GDP/G5
+play,8,0,muncm001,00,X,3/G3
+play,8,0,smitw003,31,BCBBX,S7/L78S
+play,8,0,turnj001,11,*BSX,FC4/G4.1-3(E4);B-1
+play,8,0,bellc002,01,CX,DGR/F78XD.3-H(UR);1-3
+play,8,0,taylc001,00,,NP
+sub,alvae001,"Eddy Alvarez",0,6,12
+play,8,0,taylc001,00,.,NP
+sub,dovac001,"Camilo Doval",1,0,1
+play,8,0,taylc001,32,..BBSBCFB,W
+play,8,0,lux-g001,22,BBSCS,K
+play,8,0,bettm001,32,B*BBCS>S,K
+play,8,1,pedej001,00,,NP
+sub,alvae001,"Eddy Alvarez",0,6,5
+play,8,1,pedej001,00,.,NP
+sub,kimbc001,"Craig Kimbrel",0,0,1
+play,8,1,pedej001,01,..CX,S8/G6M
+play,8,1,florw001,21,F*BBB,WP.1-2
+play,8,1,florw001,31,F*BBB.B,W
+play,8,1,estrt001,30,BB*B*B,W.2-3;1-2
+play,8,1,crawb001,11,FBS,WP.3-H(NR);2-3;1-2
+play,8,1,crawb001,32,FBS.B*BFC,K
+play,8,1,wynna001,00,,NP
+sub,phile001,"Evan Phillips",0,0,1
+play,8,1,wynna001,22,.CSBBS,K
+play,8,1,casac001,32,BBCSBS,K
+play,9,0,freef001,00,,NP
+sub,alvaj003,"Jose Alvarez",1,0,1
+play,9,0,freef001,21,.BBSX,HR/F89XD
+play,9,0,turnt001,21,BBCX,S7/L7
+play,9,0,muncm001,02,1F1CS,K
+play,9,0,smitw003,10,1BX,54(1)/FO/G56.B-1
+play,9,0,alvae001,00,,NP
+sub,albeh001,"Hanser Alberto",0,6,11
+play,9,0,albeh001,11,.FBX,S5/G15-.1-2
+play,9,0,bellc002,01,FX,43/G34
+data,er,vesia001,0
+data,er,fergc001,0
+data,er,almoy001,0
+data,er,phile001,0
+data,er,kersc001,2
+data,er,kimbc001,1
+data,er,longs002,0
+data,er,garcj006,0
+data,er,alvaj003,1
+data,er,roget002,0
+data,er,littz001,0
+data,er,dovac001,0
+data,er,leond003,0
+id,SFN202208040
+version,2
+info,visteam,LAN
+info,hometeam,SFN
+info,site,SFO03
+info,date,2022/08/04
+info,number,0
+info,starttime,12:45PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,belld901
+info,ump1b,cuzzp901
+info,ump2b,rippm901
+info,ump3b,blasc901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2022/09/26 06:26:18
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,irvia701
+info,temp,67
+info,winddir,tocf
+info,windspeed,12
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,188
+info,attendance,34640
+info,wp,martc007
+info,lp,junij001
+info,save,kimbc001
+start,bettm001,"Mookie Betts",0,1,9
+start,turnt001,"Trea Turner",0,2,6
+start,freef001,"Freddie Freeman",0,3,3
+start,smitw003,"Will Smith",0,4,2
+start,muncm001,"Max Muncy",0,5,5
+start,gallj002,"Joey Gallo",0,6,7
+start,lux-g001,"Gavin Lux",0,7,4
+start,bellc002,"Cody Bellinger",0,8,8
+start,outmj002,"James Outman",0,9,10
+start,kersc001,"Clayton Kershaw",0,0,1
+start,slata001,"Austin Slater",1,1,7
+start,florw001,"Wilmer Flores",1,2,4
+start,yastm001,"Mike Yastrzemski",1,3,9
+start,mercy001,"Yermin Mercedes",1,4,10
+start,davij006,"J.D. Davis",1,5,5
+start,villd001,"David Villar",1,6,3
+start,wynna001,"Austin Wynns",1,7,2
+start,johnb005,"Bryce Johnson",1,8,8
+start,machd001,"Dixon Machado",1,9,6
+start,junij001,"Jakob Junis",1,0,1
+play,1,0,bettm001,12,CBSX,9/F9D
+play,1,0,turnt001,12,FBFX,8/L89
+play,1,0,freef001,10,BX,8/F78XD
+play,1,1,slata001,22,BCFBFX,4/L4MD+
+play,1,1,florw001,12,CSBFX,8/F8
+play,1,1,yastm001,12,BCFS,K
+play,2,0,smitw003,22,FBFBC,K
+play,2,0,muncm001,21,CBBX,D8/F78XD+
+play,2,0,gallj002,22,BCFBC,K
+play,2,0,lux-g001,02,CFX,S8/L8D+.2-H
+play,2,0,bellc002,00,11X,E1/G1S.1-2;B-1
+play,2,0,outmj002,22,FBBFS,K
+play,2,1,mercy001,12,CBFX,E5/G56.B-1
+play,2,1,davij006,22,1BC1BCX,HR/F9D.1-H(UR)
+play,2,1,villd001,00,X,7/F78D
+play,2,1,wynna001,12,CBFS,K
+play,2,1,johnb005,22,FBCFBT,K
+play,3,0,bettm001,22,CBBFFC,K
+play,3,0,turnt001,01,CX,7/F78XD
+play,3,0,freef001,22,FBBFFFX,S8/F78
+play,3,0,smitw003,32,BC1BFB>B,W.1-2
+play,3,0,muncm001,12,FF*BX,3/P1S
+play,3,1,machd001,12,BCCX,S8/L8
+play,3,1,slata001,02,CSX,54(1)3/GDP/G5
+play,3,1,florw001,31,BFBB*B,W
+play,3,1,yastm001,32,BMFBB>F>F>X,8/F8S
+play,4,0,gallj002,21,BBSX,S7/G56
+play,4,0,lux-g001,22,BBCF1X,D9/L9LD.1XH(942)
+play,4,0,bellc002,32,BSFBBS,K
+play,4,0,outmj002,32,BBBCFB,W
+play,4,0,bettm001,00,,NP
+sub,brebj001,"John Brebbia",1,0,1
+play,4,0,bettm001,11,.BFX,HR/F78XD.2-H;1-H
+play,4,0,turnt001,01,FX,63/G6
+play,4,1,mercy001,11,BCX,S9/L89D
+play,4,1,davij006,01,SX,64(1)3/GDP/G6
+play,4,1,villd001,22,CBCBFS,K
+play,5,0,freef001,00,,NP
+sub,roget002,"Tyler Rogers",1,0,1
+play,5,0,freef001,32,.BFFFFFFBBFFS,K
+play,5,0,smitw003,11,BCX,S8/L89D
+play,5,0,muncm001,22,SBCFBFS,K
+play,5,0,gallj002,11,CBX,3/G3S-
+play,5,1,wynna001,00,,NP
+sub,bickp001,"Phil Bickford",0,0,1
+play,5,1,wynna001,31,.BBBCB,W
+play,5,1,johnb005,00,,NP
+sub,gonzl005,"Luis Gonzalez",1,8,11
+play,5,1,gonzl005,10,.BX,7/F7S
+play,5,1,machd001,11,CBX,3/G3S-.1-2
+play,5,1,slata001,00,X,S5/BG56S.2-3
+play,5,1,florw001,12,CFB>B,SB2
+play,5,1,florw001,22,CFB>B.X,63/G56
+play,6,0,lux-g001,00,,NP
+sub,slata001,"Austin Slater",1,1,8
+play,6,0,lux-g001,00,.,NP
+sub,gonzl005,"Luis Gonzalez",1,8,7
+play,6,0,lux-g001,00,..,NP
+sub,garcj006,"Jarlin Garcia",1,0,1
+play,6,0,lux-g001,02,...CFX,43/G34
+play,6,0,bellc002,32,CBBCFFBS,K
+play,6,0,outmj002,12,CBFC,K
+com,"ej,garcj006,P,cuzzp901,Taunting"
+com,"$Giants pitcher Jarlin Garcia ejected by 1B umpire Phil Cuzzi"
+com,"for making taunting gesture towards opposing players after strikeout;"
+com,"ej,kaplg001,M,cuzzp901,Arguing umpire scolding"
+com,"$Giants manager Gabe Kapler ejected by 1B umpire Phil Cuzzi for arguing"
+com,"when Cuzzi walked to Giants dugout to scold Kapler about Garcia's taunting"
+play,6,1,yastm001,00,..,NP
+sub,martc007,"Chris Martin",0,0,1
+play,6,1,yastm001,00,...X,7/F7S
+play,6,1,mercy001,01,CX,8/F8XD
+play,6,1,davij006,22,BFBFS,K
+play,7,0,bettm001,00,,NP
+sub,marty001,"Yunior Marte",1,0,1
+play,7,0,bettm001,22,.FSBBX,63/G56D+
+play,7,0,turnt001,10,BX,HR/L8XD
+play,7,0,freef001,02,FCFX,13/G4MS
+play,7,0,smitw003,12,CFBS,K
+play,7,1,villd001,00,,NP
+sub,fergc001,"Caleb Ferguson",0,0,1
+play,7,1,villd001,22,.CBBFFFFX,7/L78D
+play,7,1,wynna001,21,BCBX,4/P34D
+play,7,1,gonzl005,10,BX,5/P1S
+play,8,0,muncm001,00,,NP
+sub,leond003,"Dominic Leone",1,0,1
+play,8,0,muncm001,12,.FSBS,K
+play,8,0,gallj002,12,LBSS,K
+play,8,0,lux-g001,32,BBCFBX,43/G34
+play,8,1,machd001,00,,NP
+sub,vesia001,"Alex Vesia",0,0,1
+play,8,1,machd001,22,.BCBFX,9/F89
+com,"$Dodgers pitcher Clayton Kershaw left the game due to an injured back."
+play,8,1,slata001,02,.SCFS,K
+play,8,1,florw001,02,CFFS,K
+play,9,0,bellc002,00,,NP
+sub,dovac001,"Camilo Doval",1,0,1
+play,9,0,bellc002,30,.BBBX,3/G3D+
+play,9,0,outmj002,22,FCBBFFFS,K
+play,9,0,bettm001,32,BSFBBC,K
+play,9,1,yastm001,00,,NP
+sub,kimbc001,"Craig Kimbrel",0,0,1
+play,9,1,yastm001,11,.CBX,63/G4
+play,9,1,mercy001,00,,NP
+sub,beltb001,"Brandon Belt",1,4,11
+play,9,1,beltb001,01,.FX,D9/L9LD+
+play,9,1,davij006,10,BX,8/F89XD+.2-3
+play,9,1,villd001,00,,NP
+sub,lastt001,"Tommy La Stella",1,6,11
+play,9,1,lastt001,00,.B,WP.3-H(NR)
+play,9,1,lastt001,32,.B.BBCFS,K
+data,er,bickp001,0
+data,er,vesia001,0
+data,er,fergc001,0
+data,er,kersc001,1
+data,er,kimbc001,1
+data,er,martc007,0
+data,er,marty001,1
+data,er,brebj001,1
+data,er,garcj006,0
+data,er,roget002,0
+data,er,dovac001,0
+data,er,junij001,3
+data,er,leond003,0

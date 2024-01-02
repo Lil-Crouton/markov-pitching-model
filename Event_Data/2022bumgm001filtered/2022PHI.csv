@@ -1,0 +1,27 @@
+Type,Inning,Visiting/Home (0/1),Retro PID,Count,Pitches,Event
+play,1,1,schwk001,22,BBFFS,K
+play,1,1,hoskr001,00,X,D7/F7LD
+play,1,1,harpb003,02,CCX,3/G3.2-3
+play,1,1,castn001,10,BX,S7/G56.3-H
+play,1,1,realj001,20,*BBX,7/F78
+play,2,1,bohma001,32,BBSBSX,53/G56
+play,2,1,herro001,22,BBCFX,E5/G56.B-1
+play,2,1,vierm001,12,CC1BX,54(1)/FO/G56.B-1
+play,2,1,stotb001,22,BBCFFX,HR/F9D.1-H(UR);B-H(UR)
+play,2,1,schwk001,11,BFX,43/G34D
+play,3,1,hoskr001,01,CX,S9/G4
+play,3,1,harpb003,02,SLFX,S8/L8.1-2
+play,3,1,castn001,01,SX,64(1)3/GDP/G6.2-3
+play,3,1,realj001,31,B*BF*BB,W
+play,3,1,bohma001,00,>B,SB2
+play,3,1,bohma001,10,>B.X,8/F8D
+play,4,1,herro001,22,FBBFX,8/F78D
+play,4,1,vierm001,00,X,8/F8S
+play,4,1,stotb001,12,CBCFC,K
+play,5,1,schwk001,22,CBBFX,S4/G34
+play,5,1,hoskr001,22,1B1CBCS,K
+play,5,1,harpb003,32,BFCFBBB,W.1-2
+play,5,1,castn001,10,B>C,SB3;SB2
+play,5,1,castn001,12,B>C.FX,53/G56S
+play,5,1,realj001,32,BFFBBC,K
+play,6,1,bohma001,00,,NP

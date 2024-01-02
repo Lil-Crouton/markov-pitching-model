@@ -1,0 +1,23 @@
+Type,Inning,Visiting/Home (0/1),Retro PID,Count,Pitches,Event
+play,1,1,buxtb001,32,CSBBBS,K
+play,1,1,arral001,02,FFF*S,K
+play,1,1,urshg001,10,BX,53/G6
+play,2,1,polaj001,31,BBCBX,3/P34
+play,2,1,sancg002,12,CBCS,K
+play,2,1,keplm001,22,SFBBS,K
+play,3,1,sanom001,01,SX,4/F8S
+play,3,1,celeg001,00,X,9/F9S
+play,3,1,gordn001,02,CSS,K
+play,4,1,buxtb001,32,BCCBBS,K
+play,4,1,arral001,22,CBBF*S,K
+play,4,1,urshg001,20,BBX,9/L9D
+play,5,1,polaj001,12,BSTS,K
+play,5,1,sancg002,02,SFS,K
+play,5,1,keplm001,00,X,7/F7S
+play,6,1,sanom001,32,CBFBBFS,K
+play,6,1,celeg001,02,CCS,K
+play,6,1,gordn001,12,FFBFC,K
+play,7,1,buxtb001,22,CBBSS,K
+play,7,1,arral001,21,BFBX,5/P6
+play,7,1,urshg001,10,BX,43/G4M
+play,8,1,polaj001,00,,NP

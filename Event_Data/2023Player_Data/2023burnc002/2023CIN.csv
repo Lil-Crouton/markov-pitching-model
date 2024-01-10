@@ -1,0 +1,365 @@
+id,CIN202306020
+version,2
+info,visteam,MIL
+info,hometeam,CIN
+info,site,CIN09
+info,date,2023/06/02
+info,number,0
+info,gametype,regular
+info,starttime,5:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,reybd901
+info,ump1b,libkj901
+info,ump2b,vondc901
+info,ump3b,hoyej901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/15 09:03:01
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,sherb701
+info,temp,92
+info,winddir,fromlf
+info,windspeed,8
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,211
+info,attendance,44073
+info,wp,pegue001
+info,lp,cruzf002
+info,save,wilsb003
+start,ruf-d001,"Darin Ruf",0,1,3
+start,millo002,"Owen Miller",0,2,4
+start,contw002,"William Contreras",0,3,10
+start,yelic001,"Christian Yelich",0,4,7
+start,andeb006,"Brian Anderson",0,5,9
+start,monaa001,"Andruw Monasterio",0,6,6
+start,wiemj001,"Joey Wiemer",0,7,8
+start,carav001,"Victor Caratini",0,8,2
+start,brosm001,"Mike Brosseau",0,9,5
+start,burnc002,"Corbin Burnes",0,0,1
+start,newmk001,"Kevin Newman",1,1,3
+start,mclam001,"Matt McLain",1,2,6
+start,indij001,"Jonathan India",1,3,4
+start,fralj001,"Jake Fraley",1,4,9
+start,stept001,"Tyler Stephenson",1,5,10
+start,senzn001,"Nick Senzel",1,6,5
+start,fairs001,"Stuart Fairchild",1,7,8
+start,bensw001,"Will Benson",1,8,7
+start,maill001,"Luke Maile",1,9,2
+start,willb003,"Brandon Williamson",1,0,1
+play,1,0,ruf-d001,31,CBBB.B,W
+play,1,0,millo002,01,CX,9/F89S
+play,1,0,contw002,10,BX,54(1)3/GDP/G5
+play,1,1,newmk001,11,BFX,7/F78S
+play,1,1,mclam001,00,X,7/L7
+play,1,1,indij001,22,SBCBX,63/G6
+play,2,0,yelic001,10,BX,S8/L8
+play,2,0,andeb006,11,T*BN,OA.1-2(E2)
+play,2,0,andeb006,12,T*BN.FS,K
+play,2,0,monaa001,22,CFBBX,53/G5
+play,2,0,wiemj001,00,X,HR/F78XD.2-H
+play,2,0,carav001,02,CFX,63/G6
+play,2,1,fralj001,31,BBBCB,W
+play,2,1,stept001,22,CB1BS1>B,SB2
+play,2,1,stept001,32,CB1BS1>B.X,43/G34.2-3
+play,2,1,senzn001,01,FX,FC4/G4.3-H;B-1
+play,2,1,fairs001,12,SCBS,K
+play,2,1,bensw001,12,BSCS,K
+play,3,0,brosm001,12,CSBX,9/F9LS
+play,3,0,ruf-d001,22,BBCF.F*S,K
+play,3,0,millo002,00,X,S9/L9
+play,3,0,contw002,21,1*BBCX,64(1)/FO/G6M.B-1
+play,3,1,maill001,31,BBFBB,W
+play,3,1,newmk001,11,*BF,NP
+sub,tellr001,"Rowdy Tellez",0,1,3
+play,3,1,newmk001,11,*BF.X,8/L8D
+play,3,1,mclam001,22,CBCBS,K
+play,3,1,indij001,00,X,HR/F9D.1-H
+play,3,1,fralj001,00,X,S7/F7LS
+play,3,1,stept001,32,BCB1SB1>B,W.1-2
+play,3,1,senzn001,32,BCBFB>S,K
+play,4,0,yelic001,01,CX,S9/G34
+play,4,0,andeb006,02,CCS,K
+play,4,0,monaa001,11,*BC1X,FC6/G6M.1-3(E6/TH);B-2
+play,4,0,wiemj001,31,*S*BBB*B,W
+play,4,0,carav001,00,X,3/G3.3-H(UR);2-3;1-2
+play,4,0,brosm001,12,BFS.T,K
+play,4,1,fairs001,02,CFT,K
+play,4,1,bensw001,32,BCCBFBB,W
+play,4,1,maill001,10,B>B,SB2
+play,4,1,maill001,32,B>B.CFBX,3/P3F/FL
+play,4,1,newmk001,01,C2X,9/F9LD
+play,5,0,tellr001,10,BX,13/G15
+play,5,0,millo002,12,CCFBS,K
+play,5,0,contw002,01,CX,53/G5
+play,5,1,mclam001,02,CS.X,9/F89S
+play,5,1,indij001,01,FX,53/G5
+play,5,1,fralj001,22,SBS.BC,K
+play,6,0,yelic001,12,BFFS,K
+play,6,0,andeb006,10,BX,9/F9LS
+play,6,0,monaa001,32,BCBCFBX,D7/L7D+
+play,6,0,wiemj001,11,CBX,53/G5
+play,6,1,stept001,32,BBBCFX,6/L6D
+play,6,1,senzn001,22,FFBBS,K
+play,6,1,fairs001,12,SBSX,1/P4S-
+com,"ej,burnc002,P,reybd901,Balls and strikes"
+com,"$Brewers pitcher Corbin Burnes ejected by HP umpire D. J. Reyburn"
+com,"for arguing balls and strikes"
+play,7,0,carav001,02,C.C.X,63/G6
+play,7,0,brosm001,10,BH,HP
+play,7,0,tellr001,00,,NP
+sub,turab002,"Brice Turang",0,9,12
+play,7,0,tellr001,11,.BSX,9/F9D
+play,7,0,millo002,00,,NP
+sub,farmb001,"Buck Farmer",1,0,1
+play,7,0,millo002,02,.C1S.1>B,SB2
+play,7,0,millo002,22,.C1S.1>B.F*BX,9/F9D
+play,7,1,bensw001,00,,NP
+sub,millo002,"Owen Miller",0,2,5
+play,7,1,bensw001,00,.,NP
+sub,monaa001,"Andruw Monasterio",0,6,4
+play,7,1,bensw001,00,..,NP
+sub,turab002,"Brice Turang",0,9,6
+play,7,1,bensw001,00,...,NP
+sub,payaj001,"Joel Payamps",0,0,1
+play,7,1,bensw001,12,....CBSS,K
+play,7,1,maill001,22,BCFB.S,K
+play,7,1,newmk001,32,CC.BVBB,W
+play,7,1,mclam001,02,C1CX,9/F9
+play,8,0,contw002,00,,NP
+sub,simsl001,"Lucas Sims",1,0,1
+play,8,0,contw002,11,.CBX,3/P34
+play,8,0,yelic001,22,CCBBS,K
+play,8,0,andeb006,32,CBBFBS,K
+play,8,1,indij001,00,,NP
+sub,strzp001,"Peter Strzelecki",0,0,1
+play,8,1,indij001,00,.H,HP
+play,8,1,fralj001,31,BBCB1>C,SB2
+play,8,1,fralj001,32,BBCB1>C.S,K
+play,8,1,stept001,32,BBFC.BS,K
+play,8,1,senzn001,00,X,4/P34
+play,9,0,monaa001,00,,NP
+sub,diaza004,"Alexis Diaz",1,0,1
+play,9,0,monaa001,32,.BBFBFB,W
+play,9,0,wiemj001,00,X,6/P6D
+play,9,0,carav001,10,B>X,5/P6
+play,9,0,turab002,00,>B,SB2
+play,9,0,turab002,21,>B.BLX,7/F7S
+play,9,1,fairs001,00,,NP
+sub,willd004,"Devin Williams",0,0,1
+play,9,1,fairs001,02,.S.CS,K
+play,9,1,bensw001,00,X,E5/G56S.B-1
+play,9,1,maill001,00,,NP
+sub,stees001,"Spencer Steer",1,9,11
+play,9,1,stees001,11,.*BC>S,SB2
+play,9,1,stees001,32,.*BC>S.BBX,4/P4MD
+play,9,1,newmk001,21,B*BCX,53/G56
+play,10,0,tellr001,00,,NP
+sub,newmk001,"Kevin Newman",1,1,5
+play,10,0,tellr001,00,.,NP
+sub,senzn001,"Nick Senzel",1,6,7
+play,10,0,tellr001,00,..,NP
+sub,casac001,"Curt Casali",1,8,2
+play,10,0,tellr001,00,...,NP
+sub,stees001,"Spencer Steer",1,9,3
+play,10,0,tellr001,00,....,NP
+sub,youna002,"Alex Young",1,0,1
+radj,turab002,2
+com,"Brice Turang starts inning at 2nd base."
+play,10,0,tellr001,02,......CFFFC,K
+play,10,0,millo002,12,SCBX,S7/L7.2-3
+play,10,0,contw002,02,SFT,K
+play,10,0,yelic001,30,BBBB,W.1-2
+play,10,0,andeb006,00,,NP
+sub,cruzf002,"Fernando Cruz",1,0,1
+play,10,0,andeb006,12,.FSBFX,2/P23F-/FL
+play,10,1,mclam001,00,,NP
+sub,pegue001,"Elvis Peguero",0,0,1
+radj,newmk001,2
+com,"Kevin Newman starts inning at 2nd base."
+play,10,1,mclam001,21,..BF*BX,8/L8
+play,10,1,indij001,32,CSBBFBH,HP
+play,10,1,fralj001,00,X,8/F78D
+play,10,1,stept001,00,>C,SB3;SB2
+play,10,1,stept001,12,>C.BFS,K
+radj,andeb006,2
+com,"Brian Anderson starts inning at 2nd base."
+play,11,0,monaa001,12,.CC*BX,S7/L78S.2-3
+play,11,0,wiemj001,31,BBBCB,W.1-2
+play,11,0,carav001,11,BCX,46(1)/FO/G34.3-H(UR);2-3;B-1
+play,11,0,turab002,20,BBX,16(1)/FO/G4MS.3-H;B-1
+play,11,0,tellr001,02,1CFS,K
+play,11,1,senzn001,00,,NP
+sub,wilsb003,"Bryse Wilson",0,0,1
+radj,stept001,2
+com,"Tyler Stephenson starts inning at 2nd base."
+play,11,1,senzn001,32,..FBBCBX,9/F9S
+play,11,1,fairs001,11,FBX,43/G4.2-3
+play,11,1,casac001,10,BX,D8/L78XD+.3-H(UR)
+play,11,1,stees001,00,,NP
+sub,garcj007,"Jose Barrero",1,8,12
+play,11,1,stees001,32,.BBFBC>X,43/G34
+data,er,payaj001,0
+data,er,willd004,0
+data,er,burnc002,3
+data,er,pegue001,0
+data,er,strzp001,0
+data,er,wilsb003,0
+data,er,willb003,2
+data,er,youna002,0
+data,er,cruzf002,1
+data,er,simsl001,0
+data,er,farmb001,0
+data,er,diaza004,0
+id,CIN202307140
+version,2
+info,visteam,MIL
+info,hometeam,CIN
+info,site,CIN09
+info,date,2023/07/14
+info,number,0
+info,gametype,regular
+info,starttime,7:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,cejan901
+info,ump1b,onorb901
+info,ump2b,jimee902
+info,ump3b,hobep901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/23 20:30:20
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,sherb701
+info,temp,91
+info,winddir,unknown
+info,windspeed,8
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,152
+info,attendance,41516
+info,wp,burnc002
+info,lp,ashcg001
+info,save,willd004
+start,yelic001,"Christian Yelich",0,1,7
+start,contw002,"William Contreras",0,2,10
+start,adamw002,"Willy Adames",0,3,6
+start,millo002,"Owen Miller",0,4,3
+start,carav001,"Victor Caratini",0,5,2
+start,monaa001,"Andruw Monasterio",0,6,5
+start,turab002,"Brice Turang",0,7,4
+start,taylt002,"Tyrone Taylor",0,8,9
+start,wiemj001,"Joey Wiemer",0,9,8
+start,burnc002,"Corbin Burnes",0,0,1
+start,friet001,"TJ Friedl",1,1,8
+start,mclam001,"Matt McLain",1,2,6
+start,fralj001,"Jake Fraley",1,3,10
+start,delae003,"Elly De La Cruz",1,4,5
+start,indij001,"Jonathan India",1,5,4
+start,vottj001,"Joey Votto",1,6,3
+start,stees001,"Spencer Steer",1,7,7
+start,stept001,"Tyler Stephenson",1,8,2
+start,bensw001,"Will Benson",1,9,9
+start,ashcg001,"Graham Ashcraft",1,0,1
+play,1,0,yelic001,12,CFBX,63/G6M
+play,1,0,contw002,10,BX,D7/G5
+play,1,0,adamw002,00,X,8/F89D.2-3
+play,1,0,millo002,12,BCSC,K
+play,1,1,friet001,12,CS.BX,6/L6D
+play,1,1,mclam001,32,CBBFBFFB,W
+play,1,1,fralj001,12,1CC*B*S,K
+play,1,1,delae003,01,FS,WP.1-2
+play,1,1,delae003,02,FS.*S,K
+play,2,0,carav001,31,FBBB.*B,W
+play,2,0,monaa001,02,CSX,46(1)3/GDP/G4
+play,2,0,turab002,01,CX,31/G3
+play,2,1,indij001,12,BCCS,K
+play,2,1,vottj001,32,SBSBBT,K
+play,2,1,stees001,30,BBBB,W
+play,2,1,stept001,10,BX,64(1)/FO/G6.B-1
+play,3,0,taylt002,00,X,9/F9S
+play,3,0,wiemj001,30,BBBB,W
+play,3,0,yelic001,10,1BX,3/G3.1-2
+play,3,0,contw002,31,*BBTB+2X,S7/G56.2XH(72)
+play,3,1,bensw001,32,BSBCBFS,K
+play,3,1,friet001,20,BBX,S8/F8S
+play,3,1,mclam001,22,1F1S*BFBC,K
+play,3,1,fralj001,12,FFBH,HP.1-2
+play,3,1,delae003,12,BFC*S,K
+play,4,0,adamw002,01,CX,4/P4M
+play,4,0,millo002,10,BX,63/G6
+play,4,0,carav001,21,.BSBX,6/L6MD
+play,4,1,indij001,00,X,4/P4D
+play,4,1,vottj001,22,CBSBFX,63/G6
+play,4,1,stees001,12,BSFS,K
+play,5,0,monaa001,12,BSFX,53/G56
+play,5,0,turab002,22,BBCCFX,8/F8XD
+play,5,0,taylt002,11,CBX,7/L7D
+play,5,1,stept001,02,CS.C,K
+play,5,1,bensw001,21,BCBX,S8/L8+
+play,5,1,friet001,12,FBFC,K
+play,5,1,mclam001,32,C>F*B*BB>X,6/P56D
+play,6,0,wiemj001,02,CS.FX,S7/G56
+play,6,0,yelic001,12,F1FBS,K
+play,6,0,contw002,11,C*BX,46(1)3/GDP/G4
+play,6,1,fralj001,12,STBS,K
+play,6,1,delae003,22,BCBFFF*S,K.BX1(23)
+play,6,1,indij001,12,CBCS,K
+play,7,0,adamw002,02,FFX,D8/L8XD+
+play,7,0,millo002,22,BBSFFX,S9/L9S.2-3
+play,7,0,carav001,00,,NP
+sub,simsl001,"Lucas Sims",1,0,1
+play,7,0,carav001,21,.BBC>B,SB2
+play,7,0,carav001,31,.BBC>B.X,S8/L8S.3-H;2-3
+play,7,0,monaa001,12,CBCT,K
+play,7,0,turab002,22,SSBBFS,K
+play,7,0,taylt002,00,,NP
+sub,winkj002,"Jesse Winker",0,8,11
+play,7,0,winkj002,31,.BFBBB,W.1-2
+play,7,0,wiemj001,00,,NP
+sub,perkb002,"Blake Perkins",0,8,12
+play,7,0,wiemj001,00,.X,3/P34
+play,7,1,vottj001,00,,NP
+sub,perkb002,"Blake Perkins",0,8,9
+play,7,1,vottj001,00,.,NP
+sub,pegue001,"Elvis Peguero",0,0,1
+play,7,1,vottj001,12,..SBC.FX,43/G34D
+play,7,1,stees001,21,BBCX,63/G6D
+play,7,1,stept001,12,CFBS,K
+play,8,0,yelic001,00,,NP
+sub,law-d001,"Derek Law",1,0,1
+play,8,0,yelic001,10,.BX,5/P6
+play,8,0,contw002,32,SSBBBFX,43/G34
+play,8,0,adamw002,02,CSF.S,K
+play,8,1,bensw001,00,,NP
+sub,payaj001,"Joel Payamps",0,0,1
+play,8,1,bensw001,00,.X,8/F8
+play,8,1,friet001,22,CBBFFS,K
+play,8,1,mclam001,12,CBS.FS,K
+play,9,0,millo002,00,,NP
+sub,cruzf002,"Fernando Cruz",1,0,1
+play,9,0,millo002,12,.CBFS,K
+play,9,0,carav001,21,BCBX,43/G4D
+play,9,0,monaa001,02,CCX,53/G5
+play,9,1,fralj001,00,,NP
+sub,willd004,"Devin Williams",0,0,1
+play,9,1,fralj001,32,.CBBBS.S,K
+play,9,1,delae003,01,FX,8/L8D+
+play,9,1,indij001,32,CBFBBS,K
+data,er,burnc002,0
+data,er,pegue001,0
+data,er,payaj001,0
+data,er,willd004,0
+data,er,ashcg001,1
+data,er,cruzf002,0
+data,er,simsl001,0
+data,er,law-d001,0

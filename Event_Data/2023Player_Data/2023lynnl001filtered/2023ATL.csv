@@ -1,0 +1,26 @@
+Type,Inning,Visiting/Home (0/1),Retro PID,Count,Pitches,Event
+play,1,1,acunr001,00,X,4/L4MD+
+play,1,1,albio001,02,CFX,43/G4S
+play,1,1,rilea001,02,STC,K
+play,2,1,olsom001,22,BFBFA,K
+play,2,1,murps001,12,BCSFS,K
+play,2,1,ozunm001,32,BBSBC.FFFFFT,K
+play,3,1,rosae001,10,BX,HR/F89XD
+play,3,1,arcio002,02,CS.FFS,K
+play,3,1,harrm004,32,CFBFFBBFB,W
+play,3,1,acunr001,32,TSBBB+1>X,HR/F89XD.1-H
+play,3,1,albio001,32,FBBBFB,W
+play,3,1,rilea001,21,FBBX,4/P4
+play,3,1,olsom001,00,X,S8/L8.1-3
+play,3,1,murps001,01,SX,9/F9LS
+play,4,1,ozunm001,32,CBCBBB,W
+play,4,1,rosae001,02,CSX,8/F89
+play,4,1,arcio002,20,BBX,54(1)3/GDP/G5
+play,5,1,harrm004,10,BX,6/P8S
+play,5,1,acunr001,00,X,9/L89D
+play,5,1,albio001,10,B.X,T8/F89D+
+play,5,1,rilea001,32,SBBTFBX,S7/G6.3-H
+play,5,1,olsom001,32,CSB*BB>S,K
+play,6,1,murps001,00,X,4/L4D
+play,6,1,ozunm001,21,BBCX,S8/G6M
+play,6,1,pillk001,00,,NP

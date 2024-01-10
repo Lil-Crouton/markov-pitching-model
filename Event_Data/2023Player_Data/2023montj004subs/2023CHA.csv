@@ -1,0 +1,100 @@
+id,CHA202307070
+version,2
+info,visteam,SLN
+info,hometeam,CHA
+info,site,CHI12
+info,date,2023/07/07
+info,number,0
+info,gametype,regular
+info,starttime,7:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,eddid901
+info,ump1b,barrl901
+info,ump2b,marqa901
+info,ump3b,whitc901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/10 07:14:29
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,seipb701
+info,temp,72
+info,winddir,fromlf
+info,windspeed,9
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,177
+info,attendance,27569
+info,wp,middk001
+info,lp,leahk001
+info,save,gravk001
+start,donob001,"Brendan Donovan",0,1,10
+start,goldp001,"Paul Goldschmidt",0,2,3
+start,nootl001,"Lars Nootbaar",0,3,7
+start,arenn001,"Nolan Arenado",0,4,5
+start,gormn001,"Nolan Gorman",0,5,4
+start,walkj003,"Jordan Walker",0,6,9
+start,dejop001,"Paul DeJong",0,7,6
+start,herri001,"Ivan Herrera",0,8,2
+start,carld002,"Dylan Carlson",0,9,8
+start,montj004,"Jordan Montgomery",0,0,1
+start,benia002,"Andrew Benintendi",1,1,7
+start,andet001,"Tim Anderson",1,2,6
+start,robel002,"Luis Robert Jr.",1,3,8
+start,jimee001,"Eloy Jimenez",1,4,10
+start,vauga001,"Andrew Vaughn",1,5,3
+start,grany001,"Yasmani Grandal",1,6,2
+start,burgj001,"Jake Burger",1,7,5
+start,remiz001,"Zach Remillard",1,8,9
+start,andre001,"Elvis Andrus",1,9,4
+start,ceasd001,"Dylan Cease",1,0,1
+play,1,0,donob001,00,X,8/F8D
+play,1,0,goldp001,12,CCBX,S8/L8
+play,1,0,nootl001,32,CSB*BBX,4/P4
+play,1,0,arenn001,12,CBC1F*S,K
+play,1,1,benia002,12,FSFB*S,K.BX1(23)
+play,1,1,andet001,00,X,63/G6
+play,1,1,robel002,22,BSSBS,K
+play,2,0,gormn001,22,BCBSS,K
+play,2,0,walkj003,21,BFBX,D7/L7D+
+play,2,0,dejop001,02,FCF2,PO2(E1/TH).2-3
+play,2,0,dejop001,12,FCF2.BS,K
+play,2,0,herri001,00,X,D8/L78D+.3-H
+play,2,0,carld002,12,CCF*BX,S7/L7L.2-H
+play,2,0,donob001,11,C*BX,S9/G3+.1-2
+play,2,0,goldp001,12,BC*SX,9/F9
+play,2,1,jimee001,02,CCX,13/G1
+play,2,1,vauga001,02,CFX,7/F7
+play,2,1,grany001,22,BCFBS,K
+play,3,0,nootl001,21,BBCX,S9/L89+.B-2(E9)
+play,3,0,arenn001,20,BBX,HR/L7LD.2-H
+play,3,0,gormn001,00,X,S9/L9S
+play,3,0,walkj003,22,FC*B*BC,K
+play,3,0,dejop001,01,S>*S,WP.1-2
+play,3,0,dejop001,02,S>*S.S,K
+play,3,0,herri001,02,CC.FB,WP.2-3
+play,3,0,herri001,12,CC.FB.X,S4/G6.3-H
+play,3,0,carld002,21,BCBX,8/L8XD
+play,3,1,burgj001,31,BBBCB,W
+play,3,1,remiz001,01,CX,5/P5SF/FL
+play,3,1,andre001,12,.BSC*S,K
+play,3,1,benia002,00,X,S9/F9.1-3
+play,3,1,andet001,22,C*BC*BX,8/F8XD
+play,4,0,donob001,11,BCX,53/G6S
+play,4,0,goldp001,00,X,S8/L8D
+play,4,0,nootl001,00,X,8/L8D
+play,4,0,arenn001,10,BX,9/F9D
+play,4,1,robel002,02,CSS,K
+play,4,1,jimee001,00,X,8/L89D
+play,4,1,vauga001,12,CBF.X,9/F9S
+play,5,0,gormn001,12,SBS.*S,K.BX1(23)
+play,5,0,walkj003,32,BCS.BFBX,9/F89
+play,5,0,dejop001,12,SCBX,53/G5
+play,5,1,grany001,31,BBCBX,63/G6
+play,5,1,burgj001,22,BCS.BX,HR/F89XD
+play,5,1,remiz001,32,CBBCBX,D57/G56
+play,5,1,andre001,21,CBB,NP

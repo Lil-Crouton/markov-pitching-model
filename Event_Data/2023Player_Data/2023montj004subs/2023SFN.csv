@@ -1,0 +1,107 @@
+id,SFN202304240
+version,2
+info,visteam,SLN
+info,hometeam,SFN
+info,site,SFO03
+info,date,2023/04/24
+info,number,0
+info,gametype,regular
+info,starttime,6:45PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,lentn901
+info,ump1b,rehaj901
+info,ump2b,emmep901
+info,ump3b,fairc901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/05/23 09:03:25
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,feldd701
+info,temp,58
+info,winddir,tocf
+info,windspeed,15
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,140
+info,attendance,20203
+info,wp,cobba001
+info,lp,montj004
+info,save,
+start,nootl001,"Lars Nootbaar",0,1,8
+start,goldp001,"Paul Goldschmidt",0,2,3
+start,gormn001,"Nolan Gorman",0,3,10
+start,contw001,"Willson Contreras",0,4,2
+start,burla001,"Alec Burleson",0,5,9
+start,oneit001,"Tyler O'Neill",0,6,7
+start,donob001,"Brendan Donovan",0,7,5
+start,dejop001,"Paul DeJong",0,8,6
+start,edmat001,"Tommy Edman",0,9,4
+start,montj004,"Jordan Montgomery",0,0,1
+start,slata001,"Austin Slater",1,1,10
+start,estrt001,"Thairo Estrada",1,2,6
+start,hanim001,"Mitch Haniger",1,3,7
+start,davij006,"J.D. Davis",1,4,5
+start,confm001,"Michael Conforto",1,5,9
+start,florw001,"Wilmer Flores",1,6,3
+start,villd001,"David Villar",1,7,4
+start,yastm001,"Mike Yastrzemski",1,8,8
+start,bartj003,"Joey Bart",1,9,2
+start,cobba001,"Alex Cobb",1,0,1
+play,1,0,nootl001,01,CX,31/G34
+play,1,0,goldp001,22,FCBB.S,K
+play,1,0,gormn001,11,CBX,53/G6
+play,1,1,slata001,31,FBBBX,S9/L89
+play,1,1,estrt001,32,LBFBFBF.FFFFFS,K
+play,1,1,hanim001,30,*BB*BB,W.1-2
+play,1,1,davij006,01,CX,S9/L9.2-3;1-2
+play,1,1,confm001,00,X,2/P2F-/FL
+play,1,1,florw001,32,CF*B*BB>T,K
+play,2,0,contw001,22,BCFB.S,K
+play,2,0,burla001,00,X,8/L8D+
+play,2,0,oneit001,11,BFX,9/F9L
+play,2,1,villd001,11,CBX,9/L9
+play,2,1,yastm001,21,CBBX,S9/L89
+play,2,1,bartj003,12,BFCS,K
+play,2,1,slata001,02,CSX,S9/L9L.1-2
+play,2,1,estrt001,22,CF*B*BX,43/G4
+play,3,0,donob001,02,FCX,43/G4D
+play,3,0,dejop001,21,BBFX,63/G6
+play,3,0,edmat001,10,BX,6/L6
+play,3,1,hanim001,12,SSBX,53/G5
+play,3,1,davij006,00,X,7/F78D
+play,3,1,confm001,10,BX,23/G2-
+play,4,0,nootl001,32,BBCFBFX,43/G4
+play,4,0,goldp001,02,CCX,D9/F9L
+play,4,0,gormn001,01,FX,43/G34.2-3
+play,4,0,contw001,00,X,53/G56
+play,4,1,florw001,22,SFBFBX,8/L8D
+play,4,1,villd001,21,BBCH,HP
+play,4,1,yastm001,21,C*BBX,S5/BG25-.1-2
+play,4,1,bartj003,22,*BBCC.*S,K
+play,4,1,slata001,01,CX,53/G6
+play,5,0,burla001,21,BCBX,13/BG2-
+play,5,0,oneit001,00,X,S16/G6
+play,5,0,donob001,10,BX,S7/G5.1-2
+play,5,0,dejop001,01,CX,53/G56.2-3;1-2
+play,5,0,edmat001,31,C*BBBB,W
+play,5,0,nootl001,00,X,53/G5S
+play,5,1,estrt001,21,CBBX,63/G6
+play,5,1,hanim001,32,SBBBS.S,K
+play,5,1,davij006,11,BSX,7/F78
+play,6,0,goldp001,21,FBBX,43/G4
+play,6,0,gormn001,32,BBSFFBX,S9/G34
+play,6,0,contw001,10,BX,14(1)3/GDP/G1
+play,6,1,confm001,22,BCF.BC,K
+play,6,1,florw001,12,FBCFX,53/G5S
+play,6,1,villd001,11,SBX,8/F8D
+play,7,0,burla001,00,X,43/G34
+play,7,0,oneit001,00,X,4/P4MD
+play,7,0,donob001,11,CBX,S7/L7
+play,7,0,dejop001,01,1FX,64(1)/FO/G6.B-1
+play,7,1,yastm001,20,BBX,E4/G34.B-1
+play,7,1,bartj003,00,,NP

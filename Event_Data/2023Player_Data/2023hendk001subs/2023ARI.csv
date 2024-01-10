@@ -1,0 +1,114 @@
+id,ARI202309160
+version,2
+info,visteam,CHN
+info,hometeam,ARI
+info,site,PHO01
+info,date,2023/09/16
+info,number,0
+info,gametype,regular
+info,starttime,5:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,rehaj901
+info,ump1b,valej901
+info,ump2b,lentn901
+info,ump3b,guccc901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/10/03 06:10:32
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,johnj701
+info,temp,79
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,264
+info,attendance,35193
+info,wp,mantj002
+info,lp,wesnh001
+info,save,
+start,happi001,"Ian Happ",0,1,7
+start,hoern001,"Nico Hoerner",0,2,4
+start,morec001,"Christopher Morel",0,3,10
+start,bellc002,"Cody Bellinger",0,4,3
+start,swand001,"Dansby Swanson",0,5,6
+start,suzus001,"Seiya Suzuki",0,6,9
+start,taucm001,"Mike Tauchman",0,7,8
+start,gomey001,"Yan Gomes",0,8,2
+start,madrn001,"Nick Madrigal",0,9,5
+start,hendk001,"Kyle Hendricks",0,0,1
+start,carrc005,"Corbin Carroll",1,1,9
+start,martk001,"Ketel Marte",1,2,4
+start,phamt001,"Tommy Pham",1,3,10
+start,walkc002,"Christian Walker",1,4,3
+start,thoma004,"Alek Thomas",1,5,8
+start,gurrl001,"Lourdes Gurriel Jr.",1,6,7
+start,petej002,"Jace Peterson",1,7,5
+start,moreg001,"Gabriel Moreno",1,8,2
+start,perdg001,"Geraldo Perdomo",1,9,6
+start,daviz001,"Zach Davies",1,0,1
+play,1,0,happi001,00,X,8/F8
+play,1,0,hoern001,12,CFBC,K
+play,1,0,morec001,32,CBBCBC,K
+play,1,1,carrc005,32,SBBTB.T,K
+play,1,1,martk001,30,BBBB,W
+play,1,1,phamt001,02,CC>X,63/G6.1-2
+play,1,1,walkc002,31,C*BBBX,3/L2
+play,2,0,bellc002,32,CS.BBBX,3/G3
+play,2,0,swand001,22,CBFBFFS,K
+play,2,0,suzus001,31,BBBFB,W
+play,2,0,taucm001,32,CB>FB*B>X,9/F89XD+
+play,2,1,thoma004,01,CX,13/G1S-
+play,2,1,gurrl001,12,CS.BX,8/F8
+play,2,1,petej002,22,FBSBX,8/F78XD
+play,3,0,gomey001,10,BX,13/G1S-
+play,3,0,madrn001,11,BCX,9/L6MD
+play,3,0,happi001,11,CBX,S8/G4M
+play,3,0,hoern001,32,1BBFBF>X,9/F9D
+play,3,1,moreg001,22,BBCFS,K
+play,3,1,perdg001,00,X,3/G3
+play,3,1,carrc005,02,FCX,43/G4D
+play,4,0,morec001,00,X,S8/L8
+play,4,0,bellc002,12,FF.1BFS,K
+play,4,0,swand001,22,1CSBBC,K
+play,4,0,suzus001,00,X,S5/G5.1-2
+com,"$Cubs challenged (play at 1st), call on the field was overturned."
+play,4,0,taucm001,22,BBCFX,64(1)/FO/G6.B-1
+play,4,1,martk001,00,X,9/L9+
+play,4,1,phamt001,10,BX,T8/F89XD+
+play,4,1,walkc002,10,BX,DGR/F78XD.3-H
+play,4,1,thoma004,10,BX,6/P56D
+play,4,1,gurrl001,10,BX,S87/F78.2-H
+play,4,1,petej002,00,X,43/G34
+play,5,0,gomey001,32,CBCBBX,D8/F78XD+
+play,5,0,madrn001,02,FCX,S6/G56.2-2
+play,5,0,happi001,32,BBBCCB,W.2-3;1-2
+play,5,0,hoern001,00,,NP
+sub,frial001,"Luis Frias",1,0,1
+play,5,0,hoern001,31,.BB*BCB,W.3-H;2-3;1-2
+play,5,0,morec001,11,SBX,64(1)3/GDP/G6.3-H(NR);2-3
+play,5,0,bellc002,12,FB.CFX,S9/G34.3-H
+play,5,0,swand001,00,X,53/G5
+play,5,1,moreg001,00,X,S8/L8+
+play,5,1,perdg001,12,CBL.X,8/F78XD
+play,5,1,carrc005,21,BBF1X,9/F89XD
+play,5,1,martk001,02,CS1F>B,SB2
+play,5,1,martk001,32,CS1F>B.*BBS,K
+play,6,0,suzus001,00,,NP
+sub,castm002,"Miguel Castro",1,0,1
+play,6,0,suzus001,12,.CCBC,K
+play,6,0,taucm001,22,BCS.BFX,43/G34
+play,6,0,gomey001,01,CX,S5/G5
+play,6,0,madrn001,00,X,53/G56S
+play,6,1,phamt001,00,,NP
+sub,crowp001,"Pete Crow-Armstrong",0,7,8
+play,6,1,phamt001,01,.CX,53/G5
+play,6,1,walkc002,01,CX,S9/G34
+play,6,1,thoma004,00,X,S8/L89S.1-3
+play,6,1,gurrl001,12,B1SFX,S7/G6.3-H;1-2
+play,6,1,petej002,00,,NP

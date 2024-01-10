@@ -1,0 +1,26 @@
+Type,Inning,Visiting/Home (0/1),Retro PID,Count,Pitches,Event
+play,1,1,hendg002,00,X,9/L89+
+play,1,1,rutsa001,22,BCBFX,4/L4D
+play,1,1,santa003,12,CSFBFX,7/F78S
+play,2,1,ohear001,22,CBFBX,163/G4MS
+play,2,1,mounr001,02,CCX,S8/L8D+
+play,2,1,fraza001,12,CB*SS,K
+play,2,1,haysa001,32,BFBFFB>F>F>F.>X,43/G4M
+play,3,1,cowsc001,22,BFSBF.C,K
+play,3,1,uriar001,31,BBBCX,63/G6
+play,3,1,hendg002,32,BBCFBX,43/G4D
+play,4,1,rutsa001,22,CF.BBX,S9/L9L+
+play,4,1,santa003,21,BSBX,9/F9D+
+play,4,1,ohear001,02,CC.X,36(1)/FO/G3S.B-1
+play,4,1,mounr001,00,X,64(1)/FO/G6.B-1
+play,5,1,fraza001,11,CBX,9/F9D
+play,5,1,haysa001,22,FBFBF.C,K
+play,5,1,cowsc001,22,BBSCS,K
+play,6,1,uriar001,12,BCFX,S9/L89D+
+play,6,1,hendg002,12,CF*BX,8/F8D
+play,6,1,rutsa001,32,BBCBC>F.>X,43/G3.1-2
+play,6,1,santa003,01,CX,43/G3
+play,7,1,ohear001,12,SBSFFS,K
+play,7,1,mounr001,21,CBBX,43/G4D
+play,7,1,fraza001,22,CSBBX,3/G3
+play,8,1,haysa001,00,,NP

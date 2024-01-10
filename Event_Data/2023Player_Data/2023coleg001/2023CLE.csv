@@ -1,0 +1,151 @@
+id,CLE202304110
+version,2
+info,visteam,NYA
+info,hometeam,CLE
+info,site,CLE08
+info,date,2023/04/11
+info,number,0
+info,gametype,regular
+info,starttime,6:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,mosce901
+info,ump1b,guccc901
+info,ump2b,rackd901
+info,ump3b,vanol901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/05 09:04:32
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,maveb701
+info,temp,59
+info,winddir,torf
+info,windspeed,5
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,144
+info,attendance,20164
+info,wp,coleg001
+info,lp,gaddh001
+info,save,
+start,lemad001,"DJ LeMahieu",0,1,5
+start,judga001,"Aaron Judge",0,2,8
+start,rizza001,"Anthony Rizzo",0,3,3
+start,torrg001,"Gleyber Torres",0,4,4
+start,calhw001,"Willie Calhoun",0,5,10
+start,cabro002,"Oswaldo Cabrera",0,6,6
+start,cordf003,"Franchy Cordero",0,7,9
+start,trevj001,"Jose Trevino",0,8,2
+start,hicka001,"Aaron Hicks",0,9,7
+start,coleg001,"Gerrit Cole",0,0,1
+start,kwans001,"Steven Kwan",1,1,7
+start,gimea001,"Andres Gimenez",1,2,4
+start,ramij003,"Jose Ramirez",1,3,5
+start,naylj001,"Josh Naylor",1,4,3
+start,bellj005,"Josh Bell",1,5,10
+start,brenw002,"Will Brennan",1,6,8
+start,gonzo001,"Oscar Gonzalez",1,7,9
+start,zunim001,"Mike Zunino",1,8,2
+start,ariag002,"Gabriel Arias",1,9,6
+start,gaddh001,"Hunter Gaddis",1,0,1
+play,1,0,lemad001,32,BBBCCB,W
+play,1,0,judga001,00,X,FC5/G5D.1-2(E5);B-1
+play,1,0,rizza001,01,FX,8/F8XD/DP.2-3;1X2(864)
+play,1,0,torrg001,12,CBCFS,K
+play,1,1,kwans001,02,CCX,S8/L8
+play,1,1,gimea001,10,BX,S4/G4.1-3
+play,1,1,ramij003,01,CX,D9/L9LD.3-H;1-3
+play,1,1,naylj001,21,*BBFX,9/SF/F9D.3-H;2-3
+play,1,1,bellj005,12,CS*BC,K
+play,1,1,brenw002,12,CBFX,43/G4
+play,2,0,calhw001,00,X,6/P6D
+play,2,0,cabro002,01,CX,S8/L8D
+play,2,0,cordf003,10,BX,53/G56.1-2
+play,2,0,trevj001,11,CBX,S9/G34.2-H
+play,2,0,hicka001,12,CBCX,13/G4MS-
+play,2,1,gonzo001,12,BFSFX,9/L89
+play,2,1,zunim001,32,CF.BBBB,W
+play,2,1,ariag002,22,BBFCS,K
+play,2,1,kwans001,01,CX,36(1)/FO/G34.B-1
+play,3,0,lemad001,00,X,D7/G5
+play,3,0,judga001,22,BFBFS,K
+play,3,0,rizza001,02,FFH,HP
+play,3,0,torrg001,32,BCBSFB.B,W.2-3;1-2
+play,3,0,calhw001,12,CFFBFFX,S8/L8D+.3-H;2-3;1-2
+play,3,0,cabro002,32,BBSSB.X,8/SF/F8D.3-H
+play,3,0,cordf003,00,X,HR/F9LD.2-H;1-H
+play,3,0,trevj001,12,CCBS,K
+play,3,1,gimea001,21,CBBX,3/G3S
+play,3,1,ramij003,01,CX,53/G25
+play,3,1,naylj001,00,X,43/G4D
+play,4,0,hicka001,00,X,S9/L89D
+play,4,0,lemad001,02,FC1X,S7/G56.1-2
+play,4,0,judga001,11,FBX,S8/L8D+.2-3;1-2
+play,4,0,rizza001,00,,NP
+sub,herrt002,"Tim Herrin",1,0,1
+play,4,0,rizza001,21,.BBCX,S8/L89+.3-H;2-3;1-2
+play,4,0,torrg001,02,CCX,64(1)3/GDP/G6.3-H(NR);2-3
+play,4,0,calhw001,02,CCFFX,13/G1-
+play,4,1,bellj005,22,CBBFFX,31/G3
+play,4,1,brenw002,00,X,D9/L9LD
+play,4,1,gonzo001,32,BFBBFX,63/G6D.2-3
+play,4,1,zunim001,22,SBSFBFS,K
+play,5,0,cabro002,10,BX,53/G56
+play,5,0,cordf003,02,CSC,K
+play,5,0,trevj001,02,CFX,43/G4
+play,5,1,ariag002,00,X,8/L8D
+play,5,1,kwans001,32,CBCBFFBFX,8/F8XD
+play,5,1,gimea001,12,CFBX,8/L78XD
+play,6,0,hicka001,00,,NP
+sub,currx001,"Xzavion Curry",1,0,1
+play,6,0,hicka001,11,.FBX,S9/G34
+play,6,0,lemad001,11,BF1X,8/F89D
+play,6,0,judga001,22,BFFBFFFX,S7/G56.1-2
+play,6,0,rizza001,00,X,S9/L9LD+.2-H;1-3
+play,6,0,torrg001,12,FBFS,K
+play,6,0,calhw001,12,CBSB,WP.3-H(NR);1-2
+play,6,0,calhw001,22,CBSB.FFX,5/L56D
+play,6,1,ramij003,22,BBCFX,S8/L89
+play,6,1,naylj001,11,FBX,6(1)3/GDP/G6M
+play,6,1,bellj005,11,CBX,8/F8
+play,7,0,cabro002,00,,NP
+sub,vilom001,"Meibrys Viloria",1,8,2
+play,7,0,cabro002,12,.BFCFX,13/G13
+play,7,0,cordf003,01,FX,31/G34
+play,7,0,trevj001,31,BSBBX,9/F9S
+play,7,1,brenw002,01,FX,5/P5
+play,7,1,gonzo001,31,BBBCB,W
+play,7,1,vilom001,00,X,54(1)3/GDP/G56
+play,8,0,hicka001,21,BBSX,6/F8S
+play,8,0,lemad001,22,FCBBC,K
+play,8,0,judga001,12,SBFX,4/L4MD
+play,8,1,ariag002,00,,NP
+sub,kinei001,"Isiah Kiner-Falefa",0,2,8
+play,8,1,ariag002,00,.,NP
+sub,abrea001,"Albert Abreu",0,0,1
+play,8,1,ariag002,32,..BFSBBFFT,K
+play,8,1,kwans001,21,BCBX,53/G56
+play,8,1,gimea001,32,BBCSB.X,S8/G4
+play,8,1,ramij003,00,B,WP.1-2
+play,8,1,ramij003,10,B.X,43/G34
+play,9,0,rizza001,31,BBBCB,W
+play,9,0,torrg001,00,X,S7/L78XD+.1-3
+play,9,0,calhw001,21,BFBX,64(1)3/GDP/G6.3-H(NR)
+play,9,0,cabro002,12,CFFBFS,K
+play,9,1,naylj001,00,,NP
+sub,volpa001,"Anthony Volpe",0,4,6
+play,9,1,naylj001,00,.,NP
+sub,cabro002,"Oswaldo Cabrera",0,6,4
+play,9,1,naylj001,10,..BX,5/P5DF/FL
+play,9,1,bellj005,02,FFX,D9/L9LD
+play,9,1,brenw002,22,BCBSFX,8/F8D
+play,9,1,gonzo001,01,CX,43/G34
+data,er,abrea001,0
+data,er,coleg001,2
+data,er,currx001,3
+data,er,gaddh001,8
+data,er,herrt002,0

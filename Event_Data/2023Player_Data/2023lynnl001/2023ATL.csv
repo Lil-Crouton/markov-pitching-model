@@ -1,0 +1,157 @@
+id,ATL202307150
+version,2
+info,visteam,CHA
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/07/15
+info,number,0
+info,gametype,regular
+info,starttime,7:15PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,merzd901
+info,ump1b,addir901
+info,ump2b,littw901
+info,ump3b,barkl901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/10/03 06:10:26
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,curtg701
+info,temp,86
+info,winddir,rtol
+info,windspeed,16
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,164
+info,attendance,43344
+info,wp,lynnl001
+info,lp,stris002
+info,save,gravk001
+start,benia002,"Andrew Benintendi",0,1,7
+start,andet001,"Tim Anderson",0,2,6
+start,robel002,"Luis Robert Jr.",0,3,8
+start,jimee001,"Eloy Jimenez",0,4,10
+start,vauga001,"Andrew Vaughn",0,5,3
+start,burgj001,"Jake Burger",0,6,5
+start,remiz001,"Zach Remillard",0,7,4
+start,colao001,"Oscar Colas",0,8,9
+start,zavas001,"Seby Zavala",0,9,2
+start,lynnl001,"Lance Lynn",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,albio001,"Ozzie Albies",1,2,4
+start,rilea001,"Austin Riley",1,3,5
+start,olsom001,"Matt Olson",1,4,3
+start,murps001,"Sean Murphy",1,5,2
+start,ozunm001,"Marcell Ozuna",1,6,10
+start,rosae001,"Eddie Rosario",1,7,7
+start,arcio002,"Orlando Arcia",1,8,6
+start,harrm004,"Michael Harris II",1,9,8
+start,stris002,"Spencer Strider",1,0,1
+play,1,0,benia002,12,CF.BFFFT,K
+play,1,0,andet001,02,FSS,K
+play,1,0,robel002,00,X,3/P3DF/FL
+play,1,1,acunr001,00,X,4/L4MD+
+play,1,1,albio001,02,CFX,43/G4S
+play,1,1,rilea001,02,STC,K
+play,2,0,jimee001,02,CCS,K
+play,2,0,vauga001,12,CFBFS,K
+play,2,0,burgj001,02,SCS,K
+play,2,1,olsom001,22,BFBFA,K
+play,2,1,murps001,12,BCSFS,K
+play,2,1,ozunm001,32,BBSBC.FFFFFT,K
+play,3,0,remiz001,02,CFX,S9/G34
+play,3,0,colao001,12,BSFX,S8/L78+.1-3
+play,3,0,zavas001,02,C>FT,K
+play,3,0,benia002,21,B*SBX,S7/F7S.3-H;1-2
+play,3,0,andet001,32,B*BBCS.X,63/G6.2-3;1-2
+play,3,0,robel002,00,X,D8/F78.3-H;2-H
+play,3,0,jimee001,22,TFB.*BFX,43/G4M
+play,3,1,rosae001,10,BX,HR/F89XD
+play,3,1,arcio002,02,CS.FFS,K
+play,3,1,harrm004,32,CFBFFBBFB,W
+play,3,1,acunr001,32,TSBBB+1>X,HR/F89XD.1-H
+play,3,1,albio001,32,FBBBFB,W
+play,3,1,rilea001,21,FBBX,4/P4
+play,3,1,olsom001,00,X,S8/L8.1-3
+play,3,1,murps001,01,SX,9/F9LS
+play,4,0,vauga001,20,BBX,3/P23F/FL
+play,4,0,burgj001,22,BSS.FBX,D7/L7LS+
+play,4,0,remiz001,02,C*SX,63/G6S.2-3
+play,4,0,colao001,22,CFB*BFS,K
+play,4,1,ozunm001,32,CBCBBB,W
+play,4,1,rosae001,02,CSX,8/F89
+play,4,1,arcio002,20,BBX,54(1)3/GDP/G5
+play,5,0,zavas001,32,SSBBB.X,S8/L89D+
+play,5,0,benia002,01,SX,D7/L7LS.1-H;BX3(75)
+play,5,0,andet001,12,BSCS,K
+play,5,0,robel002,32,SBBFBS,K
+play,5,1,harrm004,10,BX,6/P8S
+play,5,1,acunr001,00,X,9/L89D
+play,5,1,albio001,10,B.X,T8/F89D+
+play,5,1,rilea001,32,SBBTFBX,S7/G6.3-H
+play,5,1,olsom001,32,CSB*BB>S,K
+play,6,0,jimee001,00,,NP
+sub,pillk001,"Kevin Pillar",1,7,7
+play,6,0,jimee001,02,.FFX,8/F8D
+play,6,0,vauga001,00,X,43/G6M
+play,6,0,burgj001,02,SF.X,HR/F9LD
+play,6,0,remiz001,22,CBSBS,K
+play,6,1,murps001,00,X,4/L4D
+play,6,1,ozunm001,21,BBCX,S8/G6M
+play,6,1,pillk001,00,,NP
+sub,santg001,"Gregory Santos",0,0,1
+play,6,1,pillk001,02,.SST,K
+play,6,1,arcio002,12,FS.BX,23/G2-
+play,7,0,colao001,00,,NP
+sub,jimej003,"Joe Jimenez",1,0,1
+play,7,0,colao001,00,.X,D8/L89D+
+play,7,0,zavas001,00,X,54/SH/BG2-.2-3
+play,7,0,benia002,10,BX,S7/G56.3-H
+play,7,0,andet001,12,FF1PX,36(1)/FO/G3.B-1
+play,7,0,robel002,02,SFS,K
+play,7,1,harrm004,02,CSFFFS,K
+play,7,1,acunr001,00,X,S8/L8XD+
+play,7,1,albio001,20,B1B>C,SB2
+play,7,1,albio001,22,B1B>C.FX,3/G3.2-3
+play,7,1,rilea001,31,BBBCX,13/G13-
+play,8,0,jimee001,00,,NP
+sub,tonkm001,"Michael Tonkin",1,0,1
+play,8,0,jimee001,22,.BBFS.X,S6/G56
+play,8,0,vauga001,12,B>FFS,K
+play,8,0,burgj001,11,C1BX,3/P3F/FL
+play,8,0,remiz001,11,BCX,64(1)/FO/G6.B-1
+play,8,1,olsom001,00,,NP
+sub,middk001,"Keynan Middleton",0,0,1
+play,8,1,olsom001,12,.BFS.FX,D7/L7LS
+play,8,1,murps001,02,FFS,K
+play,8,1,ozunm001,31,BCBBB,W
+play,8,1,pillk001,00,,NP
+sub,darnt001,"Travis d'Arnaud",1,7,11
+play,8,1,darnt001,32,.CBB*BFS,K
+play,8,1,arcio002,32,BBCBS>B,W.2-3;1-2
+play,8,1,harrm004,21,CBBX,3/P34S
+play,9,0,colao001,00,,NP
+sub,hills005,"Sam Hilliard",1,7,7
+play,9,0,colao001,02,.CF.*S,K
+play,9,0,zavas001,10,BX,7/L7
+play,9,0,benia002,12,BCC.X,5/P56D
+play,9,1,acunr001,00,,NP
+sub,gravk001,"Kendall Graveman",0,0,1
+play,9,1,acunr001,01,.CX,HR/F9LD
+play,9,1,albio001,12,CBFX,S9/L89
+play,9,1,rilea001,01,T>B,SB2
+play,9,1,rilea001,12,T>B.S*S,K
+play,9,1,olsom001,20,BBX,S7/L7.2-3
+play,9,1,murps001,11,CBX,6(1)3/GDP/G6M
+data,er,lynnl001,4
+data,er,gravk001,1
+data,er,santg001,0
+data,er,middk001,0
+data,er,tonkm001,0
+data,er,stris002,5
+data,er,jimej003,1

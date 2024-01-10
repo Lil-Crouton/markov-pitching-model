@@ -1,0 +1,112 @@
+id,TBA202307080
+version,2
+info,visteam,ATL
+info,hometeam,TBA
+info,site,STP01
+info,date,2023/07/08
+info,number,0
+info,gametype,regular
+info,starttime,7:15PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,dejer901
+info,ump1b,ortir901
+info,ump2b,laynj901
+info,ump3b,carav901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/23 20:30:19
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,dabrj701
+info,temp,72
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,166
+info,attendance,25025
+info,wp,stris002
+info,lp,bradt002
+info,save,
+start,acunr001,"Ronald Acuna Jr.",0,1,9
+start,albio001,"Ozzie Albies",0,2,4
+start,rilea001,"Austin Riley",0,3,5
+start,olsom001,"Matt Olson",0,4,3
+start,murps001,"Sean Murphy",0,5,2
+start,ozunm001,"Marcell Ozuna",0,6,10
+start,rosae001,"Eddie Rosario",0,7,7
+start,arcio002,"Orlando Arcia",0,8,6
+start,harrm004,"Michael Harris II",0,9,8
+start,stris002,"Spencer Strider",0,0,1
+start,diazy001,"Yandy Diaz",1,1,3
+start,franw002,"Wander Franco",1,2,6
+start,ralel001,"Luke Raley",1,3,9
+start,arozr001,"Randy Arozarena",1,4,7
+start,loweb001,"Brandon Lowe",1,5,4
+start,wallt003,"Taylor Walls",1,6,5
+start,aranj001,"Jonathan Aranda",1,7,10
+start,margm001,"Manuel Margot",1,8,8
+start,mejif001,"Francisco Mejia",1,9,2
+start,bradt002,"Taj Bradley",1,0,1
+play,1,0,acunr001,11,CBX,8/F89D+
+play,1,0,albio001,22,BFSFBS,K
+play,1,0,rilea001,00,X,53/G56
+play,1,1,diazy001,21,BCBX,S9/L9LD+
+play,1,1,franw002,22,FBBFX,46(1)/FO/G34.B-1
+play,1,1,ralel001,00,1>X,D9/L9L.1-3
+play,1,1,arozr001,22,CSB*BFS,K
+play,1,1,loweb001,22,TSBBT,K
+play,2,0,olsom001,32,CCFBBFFFBS,K
+play,2,0,murps001,12,BFFF.S,K
+play,2,0,ozunm001,22,FBSBT,K
+play,2,1,wallt003,12,BCTT,K
+play,2,1,aranj001,02,CS.S,K
+play,2,1,margm001,12,CFBS,K
+play,3,0,rosae001,22,CBBFX,8/F8
+play,3,0,arcio002,02,FFX,9/F89
+play,3,0,harrm004,12,CCFBX,31/G3
+play,3,1,mejif001,12,SFFBS,K
+play,3,1,diazy001,12,CCBF*S,K
+play,3,1,franw002,12,CBFH,HP
+play,3,1,ralel001,21,BBC>X,8/F8XD+
+play,4,0,acunr001,02,CFFFX,D8/L78D+
+play,4,0,albio001,32,FBCBBB,W
+play,4,0,rilea001,31,BBBFX,3/P3
+play,4,0,olsom001,12,CFFBFX,S8/G4+.2-H;1-3
+play,4,0,murps001,10,BX,HR/F7LD.3-H;1-H
+play,4,0,ozunm001,02,STX,43/G4M+
+play,4,0,rosae001,31,BBBCB,W
+play,4,0,arcio002,22,*BCC*B+1X,S7/L7+.1-2
+play,4,0,harrm004,00,X,43/G34
+play,4,1,arozr001,02,FCS,K
+play,4,1,loweb001,11,S.BX,5/P5
+play,4,1,wallt003,02,.FTC,K
+play,5,0,acunr001,10,BX,9/F9LS
+play,5,0,albio001,21,FBBX,S9/G34+
+play,5,0,rilea001,02,CFB,WP.1-2
+play,5,0,rilea001,12,CFB.X,8/L78XD+
+play,5,0,olsom001,01,FX,43/G34+
+play,5,1,aranj001,22,CSBBS,K
+play,5,1,margm001,02,SF.X,3/P3SF/FL
+play,5,1,mejif001,11,CBX,9/F9
+play,6,0,murps001,00,,NP
+sub,guerj004,"Javy Guerra",1,0,1
+play,6,0,murps001,32,.BCBBCB,W
+play,6,0,ozunm001,31,CBBBX,64(1)3/GDP/G56+
+play,6,0,rosae001,01,FX,13/G1S-
+play,6,1,diazy001,00,X,S8/G4+
+play,6,1,franw002,20,*BBX,9/F89XD
+play,6,1,ralel001,12,CSBFFX,6/P6D
+play,6,1,arozr001,32,BCSBFFB>B,W.1-2
+play,6,1,loweb001,02,SFS,K
+play,7,0,arcio002,11,BCX,9/F89S
+play,7,0,harrm004,02,CSFC,K
+play,7,0,acunr001,32,CCFBFBFFBB,W
+play,7,0,albio001,00,X,8/F89XD
+play,7,1,wallt003,32,TBBBC.FX,S9/G3
+play,7,1,aranj001,22,BBCT.FX,9/F89XD
+play,7,1,margm001,00,,NP

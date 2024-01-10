@@ -1,0 +1,110 @@
+id,CLE202306250
+version,2
+info,visteam,MIL
+info,hometeam,CLE
+info,site,CLE08
+info,date,2023/06/25
+info,number,0
+info,gametype,regular
+info,starttime,1:40PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,barkl901
+info,ump1b,addir901
+info,ump2b,merzd901
+info,ump3b,littw901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/06/28 09:03:52
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,scotd701
+info,temp,86
+info,winddir,tocf
+info,windspeed,10
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,181
+info,attendance,24701
+info,wp,willd004
+info,lp,stept002
+info,save,pegue001
+start,yelic001,"Christian Yelich",0,1,10
+start,millo002,"Owen Miller",0,2,5
+start,adamw002,"Willy Adames",0,3,6
+start,tellr001,"Rowdy Tellez",0,4,3
+start,andeb006,"Brian Anderson",0,5,9
+start,carav001,"Victor Caratini",0,6,2
+start,monaa001,"Andruw Monasterio",0,7,4
+start,perkb002,"Blake Perkins",0,8,7
+start,wiemj001,"Joey Wiemer",0,9,8
+start,burnc002,"Corbin Burnes",0,0,1
+start,kwans001,"Steven Kwan",1,1,7
+start,rosaa003,"Amed Rosario",1,2,6
+start,ramij003,"Jose Ramirez",1,3,10
+start,naylj001,"Josh Naylor",1,4,3
+start,gimea001,"Andres Gimenez",1,5,4
+start,freet001,"Tyler Freeman",1,6,5
+start,brenw002,"Will Brennan",1,7,8
+start,ariag002,"Gabriel Arias",1,8,9
+start,naylb001,"Bo Naylor",1,9,2
+start,civaa001,"Aaron Civale",1,0,1
+play,1,0,yelic001,01,CX,S8/G4M
+play,1,0,millo002,01,CX,8/F89
+play,1,0,adamw002,00,X,8/F8
+play,1,0,tellr001,31,BBC*BB,W.1-2
+play,1,0,andeb006,12,SBCS,K
+play,1,1,kwans001,32,CBCBBX,31/G34
+play,1,1,rosaa003,01,SX,E4/F3D.BX2(46)
+play,1,1,ramij003,22,BFFBFX,8/F8S
+play,2,0,carav001,11,BFX,6/L6MD
+play,2,0,monaa001,12,BCCS,K
+play,2,0,perkb002,22,BFBC.*S,K
+play,2,1,naylj001,22,BFBF.FFFX,HR/F89XD
+play,2,1,gimea001,01,CX,S8/L8S
+play,2,1,freet001,11,BC1>X,53/G6S.1-2
+play,2,1,brenw002,12,TBFC,K
+play,2,1,ariag002,11,BFX,13/G1S
+play,3,0,wiemj001,31,BBCBX,S7/L7+
+play,3,0,yelic001,00,X,D8/L78D.1-H
+play,3,0,millo002,00,X,D9/L89XD+.2-H
+play,3,0,adamw002,31,CBBBX,4/P89S
+play,3,0,tellr001,02,F*SX,S9/L89+.2-H
+play,3,0,andeb006,22,BC*SBX,8/F8XD
+play,3,0,carav001,31,BBBCX,43/G34
+play,3,1,naylb001,12,CBS.C,K
+play,3,1,kwans001,22,CSFBBX,31/G34
+play,3,1,rosaa003,02,CFX,D7/L7L
+play,3,1,ramij003,01,CX,4/L4D
+play,4,0,monaa001,32,BFCBBB,W
+play,4,0,perkb002,01,C1X,S49/G4.1-3
+play,4,0,wiemj001,11,BF>S,CS2(24)
+com,"$Guardians challenged (tag play), call on the field was overturned."
+play,4,0,wiemj001,32,BF>S.BBX,7/SF/F7.3-H
+play,4,0,yelic001,22,CBFFBX,7/F7L
+play,4,1,naylj001,01,CX,5/P6S
+play,4,1,gimea001,22,BCBSX,3/G34
+play,4,1,freet001,02,CSX,D7/G5
+play,4,1,brenw002,02,SSX,31/G34
+play,5,0,millo002,12,CBFS,K
+play,5,0,adamw002,32,CBS.BBX,4/F3D
+play,5,0,tellr001,02,CC.X,63/G6M
+play,5,1,ariag002,31,CBBBX,43/G2
+play,5,1,naylb001,00,X,S8/L8
+play,5,1,kwans001,22,C*BBFS,K
+play,5,1,rosaa003,00,X,43/G4
+play,6,0,andeb006,12,CF.FFBFS,K
+play,6,0,carav001,01,C.X,43/G4
+play,6,0,monaa001,00,X,3/P3D
+play,6,1,ramij003,31,BBFBB,W
+play,6,1,naylj001,11,CB1X,4/P4
+play,6,1,gimea001,10,BX,T9/F89XD.1-H
+play,6,1,freet001,31,*BBFBB,W
+play,6,1,brenw002,00,B,WP.3-H(NR);1-3
+play,6,1,brenw002,11,B.TX,S7/F7S.3-H
+play,6,1,ariag002,11,SBX,6/P6MD
+play,6,1,naylb001,12,C>FBX,S9/L9.1-2
+play,6,1,kwans001,00,,NP

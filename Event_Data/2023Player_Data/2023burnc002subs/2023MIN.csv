@@ -1,0 +1,112 @@
+id,MIN202306130
+version,2
+info,visteam,MIL
+info,hometeam,MIN
+info,site,MIN04
+info,date,2023/06/13
+info,number,0
+info,gametype,regular
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,rippm901
+info,ump1b,belld901
+info,ump2b,cuzzp901
+info,ump3b,lives901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/12 09:02:26
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,johns701
+info,temp,84
+info,winddir,fromlf
+info,windspeed,10
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,173
+info,attendance,34514
+info,wp,windj002
+info,lp,willd004
+info,save,
+start,yelic001,"Christian Yelich",0,1,7
+start,adamw002,"Willy Adames",0,2,6
+start,tellr001,"Rowdy Tellez",0,3,3
+start,millo002,"Owen Miller",0,4,4
+start,singj001,"Jon Singleton",0,5,10
+start,andeb006,"Brian Anderson",0,6,9
+start,urial001,"Luis Urias",0,7,5
+start,carav001,"Victor Caratini",0,8,2
+start,wiemj001,"Joey Wiemer",0,9,8
+start,burnc002,"Corbin Burnes",0,0,1
+start,julie001,"Edouard Julien",1,1,10
+start,solad001,"Donovan Solano",1,2,3
+start,corrc001,"Carlos Correa",1,3,6
+start,kiria001,"Alex Kirilloff",1,4,9
+start,lewir003,"Royce Lewis",1,5,5
+start,jeffr002,"Ryan Jeffers",1,6,2
+start,farmk001,"Kyle Farmer",1,7,4
+start,gallj002,"Joey Gallo",1,8,7
+start,taylm002,"Michael A. Taylor",1,9,8
+start,lopep002,"Pablo Lopez",1,0,1
+play,1,0,yelic001,01,CX,7/F7L
+play,1,0,adamw002,12,CBFFFFS,K
+play,1,0,tellr001,21,BCBX,8/F78D
+play,1,1,julie001,10,BX,S7/L7S
+play,1,1,solad001,22,CF*B1BFFS,K
+play,1,1,corrc001,12,1CBFT,K
+play,1,1,kiria001,22,BBC1S.C,K
+play,2,0,millo002,12,CFBS,K
+play,2,0,singj001,32,CBSBFFBC,K
+play,2,0,andeb006,12,CCBFS,K
+play,2,1,lewir003,10,BX,S9/L9LS.BX2(96)
+play,2,1,jeffr002,12,BSFS,K
+play,2,1,farmk001,12,BCFFX,D7/L78
+play,2,1,gallj002,11,BFX,8/F8S
+play,3,0,urial001,31,BBBCB,W
+play,3,0,carav001,00,X,S9/G34.1-2
+play,3,0,wiemj001,22,BCCBS,K
+play,3,0,yelic001,32,SSB*BBX,D9/L89XD+.2-H;1-H
+play,3,0,adamw002,10,*BX,63/G6
+play,3,0,tellr001,11,CBX,S8/L89XD+.2-H
+play,3,0,millo002,00,X,8/F8D
+play,3,1,taylm002,02,SF.X,S8/G6+
+play,3,1,julie001,32,BT1BFB.F1X,D8/L9D.1-3
+play,3,1,solad001,01,CX,S9/L89S.3-H;2-3
+play,3,1,corrc001,11,BFX,54(1)/FO/G5.3-H;B-1
+play,3,1,kiria001,02,CCC,K
+play,3,1,lewir003,12,CBF*S,K
+play,4,0,singj001,02,CFFC,K
+play,4,0,andeb006,12,CFBS,K
+play,4,0,urial001,12,CFBX,13/G1S
+play,4,1,jeffr002,22,CS.BBS,K
+play,4,1,farmk001,12,CFBFX,4/L4D+
+play,4,1,gallj002,32,BSFBFFFB*B,W
+play,4,1,taylm002,11,CBX,5/L5+
+play,5,0,carav001,20,BBX,13/G13
+play,5,0,wiemj001,12,CBF.*S,K
+play,5,0,yelic001,32,BSBSBX,E5/G6.B-1
+play,5,0,adamw002,00,X,6/P5D
+play,5,1,julie001,02,CC*S,K
+play,5,1,solad001,11,CBX,5/L56+
+play,5,1,corrc001,21,BSBX,63/G6S
+play,6,0,tellr001,21,BCBX,S7/L78D+
+play,6,0,millo002,12,CCBX,46(1)/FO/G4.B-1
+play,6,0,singj001,32,CF*BB*BS,K
+play,6,0,andeb006,02,S*SFX,43/G4
+play,6,1,kiria001,01,CX,63/G4M
+play,6,1,lewir003,22,CBBFX,53/G5S
+play,6,1,jeffr002,01,TX,7/F78
+play,7,0,urial001,00,,NP
+sub,delej003,"Jose De Leon",1,0,1
+play,7,0,urial001,22,.CC.BBT,K
+play,7,0,carav001,12,S.CFFBX,S8/G4M+
+play,7,0,wiemj001,11,BCX,3/P3
+play,7,0,yelic001,31,BCBBX,HR/F7D.1-H
+play,7,0,adamw002,01,SX,S7/G5
+play,7,0,tellr001,11,CBX,5/P5SF/FL
+play,7,1,farmk001,21,BBCX,HR/F7D
+play,7,1,gallj002,00,,NP

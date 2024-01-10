@@ -1,0 +1,111 @@
+id,CIN202305220
+version,2
+info,visteam,SLN
+info,hometeam,CIN
+info,site,CIN09
+info,date,2023/05/22
+info,number,0
+info,gametype,regular
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,barkl901
+info,ump1b,littw901
+info,ump2b,addir901
+info,ump3b,merzd901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/06/16 09:05:20
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,oconj701
+info,temp,77
+info,winddir,fromlf
+info,windspeed,8
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,195
+info,attendance,9194
+info,wp,gibai001
+info,lp,helsr001
+info,save,
+start,edmat001,"Tommy Edman",0,1,9
+start,goldp001,"Paul Goldschmidt",0,2,3
+start,contw001,"Willson Contreras",0,3,10
+start,arenn001,"Nolan Arenado",0,4,5
+start,yepej001,"Juan Yepez",0,5,7
+start,gormn001,"Nolan Gorman",0,6,4
+start,dejop001,"Paul DeJong",0,7,6
+start,merco003,"Oscar Mercado",0,8,8
+start,kniza001,"Andrew Knizner",0,9,2
+start,montj004,"Jordan Montgomery",0,0,1
+start,indij001,"Jonathan India",1,1,4
+start,mclam001,"Matt McLain",1,2,6
+start,stees001,"Spencer Steer",1,3,3
+start,stept001,"Tyler Stephenson",1,4,10
+start,senzn001,"Nick Senzel",1,5,5
+start,fairs001,"Stuart Fairchild",1,6,7
+start,myerw001,"Wil Myers",1,7,9
+start,garcj007,"Jose Barrero",1,8,8
+start,casac001,"Curt Casali",1,9,2
+start,willb003,"Brandon Williamson",1,0,1
+play,1,0,edmat001,31,BBBCX,53/G56
+play,1,0,goldp001,02,CCX,7/F78
+play,1,0,contw001,22,BFBFX,8/F8XD+
+play,1,1,indij001,00,X,D7/L7D+
+play,1,1,mclam001,01,CX,D7/L7L.2-H
+play,1,1,stees001,12,CFBC,K
+play,1,1,stept001,01,FX,S7/L7LD.2-H
+play,1,1,senzn001,02,SSB,WP.1-2
+play,1,1,senzn001,12,SSB.X,6/L6
+play,1,1,fairs001,00,X,53/G5
+play,2,0,arenn001,12,CBS*S,K
+play,2,0,yepej001,12,CBS.X,S7/L7
+play,2,0,gormn001,32,CBBBFB,W.1-2
+play,2,0,dejop001,00,X,HR/F7D.2-H;1-H
+play,2,0,merco003,11,BFX,S8/L89D
+play,2,0,kniza001,31,B1*B1FBB,W.1-2
+play,2,0,edmat001,10,BX,8/F8XD
+play,2,0,goldp001,01,CX,53/G56
+play,2,1,myerw001,32,BSSBBS,K
+play,2,1,garcj007,32,SBBFB.B,W
+play,2,1,casac001,12,FFBFFX,46(1)3/GDP/G34
+play,3,0,contw001,22,BBFFFFS,K
+play,3,0,arenn001,22,BSCBX,53/G5
+play,3,0,yepej001,30,BBB*B,W
+play,3,0,gormn001,22,FCBFB1X,9/F9
+play,3,1,indij001,11,CBX,63/G6
+play,3,1,mclam001,00,X,S9/L89
+play,3,1,stees001,10,BX,HR/F7LD.1-H
+play,3,1,stept001,30,BBBB,W
+play,3,1,senzn001,01,FX,S9/G34.1-3
+play,3,1,fairs001,01,S>B,SB2
+play,3,1,fairs001,22,S>B.BSS,K
+play,3,1,myerw001,02,FSX,53/G56
+play,4,0,dejop001,12,CF.B*S,K
+play,4,0,merco003,01,C.X,9/F89D
+play,4,0,kniza001,01,CX,S9/L9
+play,4,0,edmat001,32,F*BBBF>X,43/G4
+play,4,1,garcj007,32,BBCSF.BFB,W
+play,4,1,casac001,22,CCFBBX,2/P2F/FL
+play,4,1,indij001,22,CFBBX,S67/L7S.1-2
+play,4,1,mclam001,32,CFBFFFBF*BFFFS,K
+play,4,1,stees001,21,BBS.>X,8/F78D
+play,5,0,goldp001,32,VCBS.BB,W
+play,5,0,contw001,00,1,PO1(E1/TH).1-2
+play,5,0,contw001,20,1.BBX,43/G4
+play,5,0,arenn001,00,,NP
+sub,farmb001,"Buck Farmer",1,0,1
+play,5,0,arenn001,02,.CCS,K
+play,5,0,yepej001,00,,NP
+sub,nootl001,"Lars Nootbaar",0,5,11
+play,5,0,nootl001,11,.CBX,D9/G3.2-H(UR)
+play,5,0,gormn001,02,FSX,53/G56
+play,5,1,stept001,00,,NP
+sub,nootl001,"Lars Nootbaar",0,5,8
+play,5,1,stept001,00,.,NP
+sub,merco003,"Oscar Mercado",0,8,7
+play,5,1,stept001,00,..,NP

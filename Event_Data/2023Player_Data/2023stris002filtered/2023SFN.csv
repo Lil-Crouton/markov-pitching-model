@@ -1,0 +1,27 @@
+Type,Inning,Visiting/Home (0/1),Retro PID,Count,Pitches,Event
+play,1,1,wadel001,11,CBX,13/G15-
+play,1,1,estrt001,11,FBX,9/F9S
+play,1,1,florw001,32,BCBFB.C,K
+play,2,1,pedej001,11,BFX,7/F78XD
+play,2,1,sabob001,02,SFS,K
+play,2,1,davij006,02,SS.FX,43/G6MD
+play,3,1,dejop001,02,CSC,K
+play,3,1,meckw001,31,*SBBBX,S8/G4
+play,3,1,matol002,10,BX,S7/L7D.1-2
+play,3,1,wadel001,02,FCFS,K
+play,3,1,estrt001,01,SX,9/L9D
+play,4,1,florw001,00,X,8/F8D
+play,4,1,pedej001,12,CFBX,9/F9D
+play,4,1,sabob001,12,SS.FBS,K
+play,5,1,davij006,22,BFBSFX,9/F9LD
+play,5,1,dejop001,02,*SCS,K
+play,5,1,meckw001,31,BBCBB,W
+play,5,1,matol002,12,BSC.FS,K
+play,6,1,wadel001,31,SBBBX,6/P56D
+play,6,1,estrt001,02,SFS,K
+play,6,1,florw001,32,CSBBB.FFX,7/F78XD
+play,7,1,pedej001,00,X,T9/F89XD+
+play,7,1,sabob001,02,FFS,K
+play,7,1,davij006,22,BSS.BX,53/G6S.3-H
+play,7,1,dejop001,01,SX,1/G34S-
+play,8,1,meckw001,00,,NP

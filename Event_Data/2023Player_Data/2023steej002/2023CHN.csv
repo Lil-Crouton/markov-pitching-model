@@ -1,0 +1,2959 @@
+id,CHN202304010
+version,2
+info,visteam,MIL
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/04/01
+info,number,0
+info,gametype,regular
+info,starttime,1:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,blasc901
+info,ump1b,torrc901
+info,ump2b,viscj901
+info,ump3b,kulpr901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/23 20:30:17
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,lissr701
+info,temp,39
+info,winddir,fromlf
+info,windspeed,23
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,152
+info,attendance,31363
+info,wp,strzp001
+info,lp,assaj001
+info,save,willd004
+start,brosm001,"Mike Brosseau",0,1,5
+start,adamw002,"Willy Adames",0,2,6
+start,yelic001,"Christian Yelich",0,3,7
+start,contw002,"William Contreras",0,4,2
+start,voitl001,"Luke Voit",0,5,10
+start,tellr001,"Rowdy Tellez",0,6,3
+start,andeb006,"Brian Anderson",0,7,9
+start,millo002,"Owen Miller",0,8,4
+start,wiemj001,"Joey Wiemer",0,9,8
+start,woodb005,"Brandon Woodruff",0,0,1
+start,hoern001,"Nico Hoerner",1,1,4
+start,swand001,"Dansby Swanson",1,2,6
+start,happi001,"Ian Happ",1,3,7
+start,bellc002,"Cody Bellinger",1,4,8
+start,manct001,"Trey Mancini",1,5,9
+start,riose001,"Edwin Rios",1,6,10
+start,hosme001,"Eric Hosmer",1,7,3
+start,madrn001,"Nick Madrigal",1,8,5
+start,barnt001,"Tucker Barnhart",1,9,2
+start,steej002,"Justin Steele",1,0,1
+play,1,0,brosm001,30,BBBB,W
+play,1,0,adamw002,32,BCBFFFBS,K
+play,1,0,yelic001,12,CS*BX,S7/G6.1-2
+play,1,0,contw002,20,BBX,64(1)3/GDP/G6+
+play,1,1,hoern001,11,CBX,63/G56
+play,1,1,swand001,02,CSX,S8/L8
+play,1,1,happi001,22,CC*BBS,K
+play,1,1,bellc002,32,CBB.BS>S,K
+play,2,0,voitl001,22,BFCBFS,K
+play,2,0,tellr001,12,CBSC,K
+play,2,0,andeb006,12,CSFBX,43/G4
+play,2,1,manct001,10,BX,63/G6
+play,2,1,riose001,12,CSBFS,K
+play,2,1,hosme001,12,SFBFFS,K
+play,3,0,millo002,01,CX,31/G4S
+play,3,0,wiemj001,00,X,D9/L9LS
+play,3,0,brosm001,11,BCX,5/L56
+play,3,0,adamw002,12,CFVX,53/G56
+play,3,1,madrn001,00,X,53/G5
+play,3,1,barnt001,32,CSBFBFBS,K
+play,3,1,hoern001,12,BCF.FX,4/F89S
+play,4,0,yelic001,02,CFFS,K
+play,4,0,contw002,11,BFX,63/G6
+play,4,0,voitl001,12,CBS*S,K
+play,4,1,swand001,12,CCFBX,D9/L9L+
+play,4,1,happi001,12,CSBFS,K
+play,4,1,bellc002,22,SSBFBC,K
+play,4,1,manct001,01,SX,63/G6
+play,5,0,tellr001,22,BBSS.S,K
+play,5,0,andeb006,22,BSS.BX,63/G6
+play,5,0,millo002,12,CFVFX,S6/G6
+play,5,0,wiemj001,00,1X,8/F89D
+play,5,1,riose001,32,BBCBF*B,W
+play,5,1,hosme001,12,SBFS,K
+play,5,1,madrn001,12,CBCX,64(1)/FO/G6.B-1
+play,5,1,barnt001,00,X,7/F7S
+play,6,0,brosm001,11,BCX,63/G6
+play,6,0,adamw002,32,BFFBBC,K
+play,6,0,yelic001,22,CBCBFT,K
+play,6,1,hoern001,02,CFFFX,3/G3
+play,6,1,swand001,11,CBX,63/G6
+play,6,1,happi001,32,CCBFBFFBX,HR/F9D
+play,6,1,bellc002,11,CBX,4/F89S
+play,7,0,contw002,00,,NP
+sub,assaj001,"Javier Assad",1,0,1
+play,7,0,contw002,02,.CCS,K
+play,7,0,voitl001,32,BBBCFX,53/G5
+play,7,0,tellr001,22,CBCBS,K
+play,7,1,manct001,00,,NP
+sub,strzp001,"Peter Strzelecki",0,0,1
+play,7,1,manct001,12,.BCF.T,K
+play,7,1,riose001,12,SBCX,8/F8S
+play,7,1,hosme001,32,CFFBFBFBX,3/G3
+play,8,0,andeb006,00,,NP
+sub,mastm001,"Miles Mastrobuoni",1,5,9
+play,8,0,andeb006,00,.X,S8/L8D+
+play,8,0,millo002,00,,NP
+sub,mitcg001,"Garrett Mitchell",0,8,11
+play,8,0,mitcg001,30,.BBBB,W.1-2
+play,8,0,wiemj001,00,,NP
+sub,winkj002,"Jesse Winker",0,9,11
+play,8,0,winkj002,32,.FBBBFX,S8/G4.2-H;1-3
+play,8,0,brosm001,00,,NP
+sub,turab002,"Brice Turang",0,9,12
+play,8,0,brosm001,00,.>C,SB2
+play,8,0,brosm001,11,.>C..*BX,63/G6S
+play,8,0,adamw002,00,,NP
+sub,fulmm001,"Michael Fulmer",1,0,1
+play,8,0,adamw002,31,.BBCBB,W
+play,8,0,yelic001,02,SFFS,K
+play,8,0,contw002,01,FX,S9/F9S.3-H;2-H;1-3
+play,8,0,voitl001,00,,NP
+sub,ruckm001,"Michael Rucker",1,0,1
+play,8,0,voitl001,00,.X,64(1)/FO/G6.B-1
+play,8,1,madrn001,00,,NP
+sub,mitcg001,"Garrett Mitchell",0,8,8
+play,8,1,madrn001,00,.,NP
+sub,turab002,"Brice Turang",0,9,4
+play,8,1,madrn001,00,..,NP
+sub,bushm001,"Matt Bush",0,0,1
+play,8,1,madrn001,02,...CFX,6/L6MD
+play,8,1,barnt001,00,,NP
+sub,torrl001,"Luis Torrens",1,9,11
+play,8,1,torrl001,31,.CBBBX,43/G4
+play,8,1,hoern001,22,CBSBX,13/G1S-
+play,9,0,tellr001,00,,NP
+sub,torrl001,"Luis Torrens",1,9,2
+play,9,0,tellr001,00,.,NP
+sub,leitm002,"Mark Leiter Jr.",1,0,1
+play,9,0,tellr001,02,..CFS,K
+play,9,0,andeb006,31,BFBBB,W
+play,9,0,mitcg001,32,CBBBC1>X,6/F8S
+play,9,0,turab002,32,C*B*BF*B>*S,K
+play,9,1,swand001,00,,NP
+sub,willd004,"Devin Williams",0,0,1
+play,9,1,swand001,31,.BBBCX,S14/L4
+play,9,1,happi001,11,S*BX,S9/G3.1-2
+play,9,1,bellc002,10,*BX,46(1)3/GDP/G34.2-3
+play,9,1,mastm001,32,BCC*B*BS,K
+data,er,willd004,0
+data,er,bushm001,0
+data,er,woodb005,1
+data,er,strzp001,0
+data,er,ruckm001,0
+data,er,assaj001,3
+data,er,leitm002,0
+data,er,fulmm001,0
+data,er,steej002,0
+id,CHN202304080
+version,2
+info,visteam,TEX
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/04/08
+info,number,0
+info,gametype,regular
+info,starttime,3:05PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,ramoc901
+info,ump1b,onorb901
+info,ump2b,hobep901
+info,ump3b,cejan901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/10/03 06:10:18
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,speaa701
+info,temp,57
+info,winddir,tolf
+info,windspeed,10
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,175
+info,attendance,33578
+info,wp,steej002
+info,lp,perem004
+info,save,
+start,semim001,"Marcus Semien",0,1,4
+start,seagc001,"Corey Seager",0,2,6
+start,lowen001,"Nathaniel Lowe",0,3,3
+start,garca005,"Adolis Garcia",0,4,8
+start,jungj001,"Josh Jung",0,5,5
+start,grosr001,"Robbie Grossman",0,6,9
+start,garvm001,"Mitch Garver",0,7,10
+start,heimj001,"Jonah Heim",0,8,2
+start,durae002,"Ezequiel Duran",0,9,7
+start,perem004,"Martin Perez",0,0,1
+start,hoern001,"Nico Hoerner",1,1,4
+start,swand001,"Dansby Swanson",1,2,6
+start,happi001,"Ian Happ",1,3,7
+start,manct001,"Trey Mancini",1,4,3
+start,wisdp001,"Patrick Wisdom",1,5,9
+start,torrl001,"Luis Torrens",1,6,10
+start,bellc002,"Cody Bellinger",1,7,8
+start,gomey001,"Yan Gomes",1,8,2
+start,madrn001,"Nick Madrigal",1,9,5
+start,steej002,"Justin Steele",1,0,1
+play,1,0,semim001,02,CSX,53/G5
+play,1,0,seagc001,00,X,S9/G4
+play,1,0,lowen001,32,BCS*BFBFB,W.1-2
+play,1,0,garca005,10,BX,6(1)/FO/G6.2-3;B-1
+play,1,0,jungj001,21,CBBX,13/G1-
+play,1,1,hoern001,02,CS.C,K
+play,1,1,swand001,10,BX,S6/G6.B-2(E6/TH)
+play,1,1,happi001,12,SSBFFN,BK.2-3
+play,1,1,happi001,22,SSBFFN.BX,3/G3S-.3-H(UR)
+play,1,1,manct001,11,FBX,4/P89S
+play,2,0,grosr001,21,BFBX,4/P4
+play,2,0,garvm001,31,BCBBB,W
+play,2,0,heimj001,12,BFCX,S4/G1S.1-2
+play,2,0,durae002,02,CFS,K
+play,2,0,semim001,11,SBX,4/P34D
+play,2,1,wisdp001,02,FSC,K
+play,2,1,torrl001,02,CFX,9/F9S
+play,2,1,bellc002,22,CBBCF.FX,E4/G34.B-1
+play,2,1,gomey001,00,>C,SB2.1-3(E2/TH)
+play,2,1,gomey001,01,>C.X,53/G25
+play,3,0,seagc001,00,X,D7/L78XD+
+play,3,0,lowen001,00,X,7/F78D+.2-3
+play,3,0,garca005,31,BBBCB,W
+play,3,0,jungj001,01,TX,S9/L9S.3-H;1-2
+play,3,0,grosr001,12,FBFX,4/P4MD
+play,3,0,garvm001,02,FFS,K
+play,3,1,madrn001,12,CCFBFFX,D98/L89S+
+play,3,1,hoern001,32,BBBCFFF.C,K
+play,3,1,swand001,31,BBT*BX,S9/L34D.2-H
+play,3,1,happi001,20,1BBX,36(1)/FO/G3S.B-1
+play,3,1,manct001,32,BCBFFB>X,S8/L8.1-3
+play,3,1,wisdp001,01,F>S,CSH(251)
+play,4,0,heimj001,12,BFS.FX,8/L8D
+play,4,0,durae002,32,BSS.BFBX,43/G4
+play,4,0,semim001,00,X,53/G5
+play,4,1,wisdp001,12,BFSX,HR/F78XD+
+play,4,1,torrl001,02,CFS,K
+play,4,1,bellc002,00,X,9/F9S
+play,4,1,gomey001,12,CBFX,8/F8
+play,5,0,seagc001,10,BX,7/F7
+play,5,0,lowen001,32,CBBCFBX,13/G23-
+play,5,0,garca005,12,BFSX,8/L8D
+play,5,1,madrn001,12,C.FFBFFX,13/G1S
+play,5,1,hoern001,32,FBBBC.X,8/L8D
+play,5,1,swand001,02,CS.S,K
+play,6,0,jungj001,10,BX,9/F9
+play,6,0,grosr001,12,SBSC,K
+play,6,0,garvm001,32,CBFFBBB,W
+play,6,0,heimj001,12,FBFX,54(1)/FO/G56.B-1
+play,6,1,happi001,00,,NP
+sub,kenni001,"Ian Kennedy",0,0,1
+play,6,1,happi001,32,.BSSBBS,K
+play,6,1,manct001,10,BX,S8/F89
+play,6,1,wisdp001,22,BSBTX,S6/G6.1-3(E6/TH);B-2
+play,6,1,torrl001,00,,NP
+sub,hosme001,"Eric Hosmer",1,6,11
+play,6,1,hosme001,00,.,NP
+sub,burkb001,"Brock Burke",0,0,1
+play,6,1,hosme001,01,..CX,S8/G4M.3-H;2-H(UR)
+play,6,1,bellc002,10,BX,3/P23
+play,6,1,gomey001,12,BSSFS,K
+play,7,0,durae002,00,.,NP
+sub,thomk002,"Keegan Thompson",1,0,1
+play,7,0,durae002,00,..,NP
+sub,smitj007,"Josh H. Smith",0,9,11
+play,7,0,smitj007,32,...CBCBF.BB,W
+play,7,0,semim001,02,SCX,9/L9D
+play,7,0,seagc001,32,CBBCBB,W.1-2
+play,7,0,lowen001,00,X,S8/G4.2-H;1-2
+play,7,0,garca005,32,CFBBFB.FX,9/F9LS
+play,7,0,jungj001,01,SS,WP.2-3;1-2
+play,7,0,jungj001,12,SS.BFS,K
+play,7,1,madrn001,00,,NP
+sub,smitj007,"Josh H. Smith",0,9,7
+play,7,1,madrn001,00,.,NP
+sub,heart001,"Taylor Hearn",0,0,1
+play,7,1,madrn001,21,..SBBX,53/G56
+play,7,1,hoern001,22,BBCFX,S8/L8+
+play,7,1,swand001,00,X,8/F8XD+
+play,7,1,happi001,00,1>B,SB2
+play,7,1,happi001,32,1>B.SFBBB,W
+play,7,1,manct001,10,BX,S9/L89D+.2-H;1-3
+play,7,1,wisdp001,12,CBCF>F1S,K
+play,8,0,grosr001,00,,NP
+sub,boxbb001,"Brad Boxberger",1,0,1
+play,8,0,grosr001,31,.BBBCX,7/F7
+play,8,0,garvm001,20,BBX,63/G6
+play,8,0,heimj001,22,CSBB.FX,9/F9D
+play,8,1,hosme001,22,CFBBS,K
+play,8,1,bellc002,32,BSCFFFBBFFX,9/L9D
+play,8,1,gomey001,10,BX,HR/F7LD+
+play,8,1,madrn001,11,CBX,S9/G34
+play,8,1,hoern001,21,BFBX,S9/L9.1-2
+play,8,1,swand001,00,,NP
+sub,dunnd001,"Dane Dunning",0,0,1
+play,8,1,swand001,32,.BBCBF.>B,W.2-3;1-2
+play,8,1,happi001,00,X,S8/G4.3-H;2-H;1-H(E8/TH)(NR)(UR)
+play,8,1,manct001,12,ABS.X,8/L89XD
+play,9,0,smitj007,00,,NP
+sub,ruckm001,"Michael Rucker",1,0,1
+play,9,0,smitj007,11,.BCX,43/G34
+play,9,0,semim001,31,BSBBX,D7/L7LD
+play,9,0,seagc001,12,CS.F*BC,K
+play,9,0,lowen001,21,BBCX,S7/L5D+.2-H
+play,9,0,garca005,11,*B>F>B,DI.1-2
+play,9,0,garca005,22,*B>F>B.F.*S,K.BX1(23)
+data,er,kenni001,1
+data,er,dunnd001,0
+data,er,heart001,4
+data,er,burkb001,0
+data,er,perem004,2
+data,er,thomk002,1
+data,er,ruckm001,1
+data,er,boxbb001,0
+data,er,steej002,1
+id,CHN202304250
+version,2
+info,visteam,SDN
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/04/25
+info,number,0
+info,gametype,regular
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,becka901
+info,ump1b,vondc901
+info,ump2b,morag901
+info,ump3b,barrs901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/05/20 17:39:13
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,speaa701
+info,temp,41
+info,winddir,fromlf
+info,windspeed,13
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,172
+info,attendance,27956
+info,wp,steej002
+info,lp,snelb001
+info,save,
+start,tatif002,"Fernando Tatis Jr.",0,1,9
+start,sotoj001,"Juan Soto",0,2,7
+start,machm001,"Manny Machado",0,3,5
+start,bogax001,"Xander Bogaerts",0,4,6
+start,cronj001,"Jake Cronenworth",0,5,3
+start,kim-h002,"Ha-Seong Kim",0,6,4
+start,carpm002,"Matt Carpenter",0,7,10
+start,nolaa002,"Austin Nola",0,8,2
+start,grist001,"Trent Grisham",0,9,8
+start,snelb001,"Blake Snell",0,0,1
+start,hoern001,"Nico Hoerner",1,1,4
+start,swand001,"Dansby Swanson",1,2,6
+start,happi001,"Ian Happ",1,3,7
+start,suzus001,"Seiya Suzuki",1,4,9
+start,wisdp001,"Patrick Wisdom",1,5,5
+start,hosme001,"Eric Hosmer",1,6,10
+start,manct001,"Trey Mancini",1,7,3
+start,gomey001,"Yan Gomes",1,8,2
+start,velan001,"Nelson Velazquez",1,9,8
+start,steej002,"Justin Steele",1,0,1
+play,1,0,tatif002,00,X,S61/G15-
+play,1,0,sotoj001,32,BBBCC.>S,K+CS2(26)/DP
+play,1,0,machm001,21,BCBX,9/F9S
+play,1,1,hoern001,32,CBBBCX,9/F89D
+play,1,1,swand001,32,CBS.BFBB,W
+play,1,1,happi001,32,B1CFBBB,W.1-2
+play,1,1,suzus001,11,C*BX,9/F9LS
+play,1,1,wisdp001,22,CBBSS,K
+play,2,0,bogax001,22,BCFB.X,S8/G6M
+play,2,0,cronj001,22,CFF*B*BFFX,4/P4S
+play,2,0,kim-h002,22,SCBBFB,WP.1-2
+play,2,0,kim-h002,32,SCBBFB.FX,63/G6
+play,2,0,carpm002,22,CFBBS,K
+play,2,1,hosme001,32,BBCBFFS,K
+play,2,1,manct001,21,BSBX,S7/L7S
+play,2,1,gomey001,02,FFX,HR/F8XD+.1-H
+play,2,1,velan001,20,BBX,S7/L7+
+play,2,1,hoern001,12,BCSB,WP.1-2
+play,2,1,hoern001,22,BCSB.X,7/L78
+play,2,1,swand001,00,X,53/G5
+play,3,0,nolaa002,01,CX,63/G6
+play,3,0,grist001,32,BCBBS.FFB,W
+play,3,0,tatif002,31,CBBBB,W.1-2
+play,3,0,sotoj001,22,FF*BBC,K
+play,3,0,machm001,00,X,4/P34D
+play,3,1,happi001,32,CBCFBBFFC,K
+play,3,1,suzus001,12,BCSX,63/G56D+
+play,3,1,wisdp001,32,BBBCFFB,W
+play,3,1,hosme001,02,1>FTT,K
+play,4,0,bogax001,21,BBCX,9/L9D+
+play,4,0,cronj001,22,BCFFBX,43/G4
+play,4,0,kim-h002,10,BX,8/F8XD
+play,4,1,manct001,32,CBFBFBB,W
+play,4,1,gomey001,10,*BX,S8/G6M.1-2
+play,4,1,velan001,01,SX,64(1)3/GDP/G6.2-3
+play,4,1,hoern001,32,BBFBCX,6/P56D
+play,5,0,carpm002,22,CCFBBFS,K
+play,5,0,nolaa002,32,CBBSBX,S8/L8
+play,5,0,grist001,02,SCS,K
+play,5,0,tatif002,32,BCBC*B>F>X,53/G5+
+play,5,1,swand001,31,BBCBB,W
+play,5,1,happi001,00,X,5/L56D
+play,5,1,suzus001,11,CBX,9/L89
+play,5,1,wisdp001,32,*B1FBCB>S,K
+play,6,0,sotoj001,22,AC.FBBX,7/F7LS
+play,6,0,machm001,00,,NP
+sub,alzoa001,"Adbert Alzolay",1,0,1
+play,6,0,machm001,12,.CFFBFFS,K
+play,6,0,bogax001,12,CS.FBC,K
+play,6,1,hosme001,00,,NP
+sub,garcl005,"Luis Garcia",0,0,1
+play,6,1,hosme001,02,.CFX,3/G3
+play,6,1,manct001,01,CX,63/G6D
+play,6,1,gomey001,12,SBCX,S9/L9L
+play,6,1,velan001,10,BX,64(1)/FO/G6.B-1
+play,7,0,cronj001,00,,NP
+sub,leitm002,"Mark Leiter Jr.",1,0,1
+play,7,0,cronj001,02,.CS.*S,K
+play,7,0,kim-h002,22,FBFFFBX,53/G56
+play,7,0,carpm002,11,BTX,DGR/L7L
+play,7,0,nolaa002,12,LBCFH,HP
+play,7,0,grist001,21,*BBTX,5/L6
+play,7,1,hoern001,00,,NP
+sub,weatr001,"Ryan Weathers",0,0,1
+play,7,1,hoern001,11,.CBX,9/F89
+play,7,1,swand001,20,BBX,8/F8XD
+play,7,1,happi001,21,CBBX,13/G6MS
+play,8,0,tatif002,00,,NP
+sub,thomk002,"Keegan Thompson",1,0,1
+play,8,0,tatif002,02,.FSC,K
+play,8,0,sotoj001,10,.BX,5/P5SF/FL
+play,8,0,machm001,30,BBBB,W
+play,8,0,bogax001,32,CBF*BB>F>B,W.1-2
+play,8,0,cronj001,10,BX,9/F89D
+play,8,1,suzus001,00,,NP
+sub,wilss002,"Steven Wilson",0,0,1
+play,8,1,suzus001,21,.BSBX,63/G6
+play,8,1,wisdp001,32,BBSC.BB,W
+play,8,1,hosme001,12,CS*BX,7/F7S
+play,8,1,manct001,32,F1B*BBC>F>B,W.1-2
+play,8,1,gomey001,22,BCSFFFBX,S9/L9L.2-H;1-3
+play,8,1,velan001,32,BCBSB>B,W.1-2
+play,8,1,hoern001,00,,NP
+sub,kerrr001,"Ray Kerr",0,0,1
+play,8,1,hoern001,21,.BBCX,T7/G5.3-H;2-H;1-H
+play,8,1,swand001,10,VX,53/G56
+play,9,0,kim-h002,00,,NP
+sub,ruckm001,"Michael Rucker",1,0,1
+play,9,0,kim-h002,12,.BFCX,S8/L8
+play,9,0,carpm002,00,X,4/P9S
+play,9,0,nolaa002,32,BFBFBFB,W.1-2
+play,9,0,grist001,20,BBX,2/P2
+play,9,0,tatif002,02,ASS,K
+data,er,wilss002,4
+data,er,weatr001,0
+data,er,kerrr001,0
+data,er,snelb001,2
+data,er,garcl005,0
+data,er,alzoa001,0
+data,er,thomk002,0
+data,er,ruckm001,0
+data,er,leitm002,0
+data,er,steej002,0
+id,CHN202305050
+version,2
+info,visteam,MIA
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/05/05
+info,number,0
+info,gametype,regular
+info,starttime,1:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,barbs901
+info,ump1b,wolfj901
+info,ump2b,porta901
+info,ump3b,tomln901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/06/10 09:05:41
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,seipb701
+info,temp,69
+info,winddir,tolf
+info,windspeed,17
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,129
+info,attendance,31181
+info,wp,steej002
+info,lp,cabre003
+info,save,leitm002
+start,bertj001,"Jon Berti",0,1,6
+start,solej001,"Jorge Soler",0,2,10
+start,arral001,"Luis Arraez",0,3,4
+start,gurry001,"Yuli Gurriel",0,4,3
+start,seguj002,"Jean Segura",0,5,5
+start,chisj001,"Jazz Chisholm Jr.",0,6,8
+start,delab001,"Bryan De La Cruz",0,7,7
+start,stalj001,"Jacob Stallings",0,8,2
+start,hampg001,"Garrett Hampson",0,9,9
+start,cabre003,"Edward Cabrera",0,0,1
+start,hoern001,"Nico Hoerner",1,1,4
+start,swand001,"Dansby Swanson",1,2,6
+start,happi001,"Ian Happ",1,3,7
+start,suzus001,"Seiya Suzuki",1,4,9
+start,bellc002,"Cody Bellinger",1,5,8
+start,manct001,"Trey Mancini",1,6,10
+start,mervm001,"Matt Mervis",1,7,3
+start,wisdp001,"Patrick Wisdom",1,8,5
+start,amaym001,"Miguel Amaya",1,9,2
+start,steej002,"Justin Steele",1,0,1
+play,1,0,bertj001,11,CBX,4/P4D
+play,1,0,solej001,32,BCBBSC,K
+play,1,0,arral001,12,FFB*S,K
+play,1,1,hoern001,22,BCBF.X,S7/G56
+play,1,1,swand001,10,BX,8/L8D
+play,1,1,happi001,21,1BCB1,BK.1-2
+play,1,1,happi001,21,1BCB1.X,8/L8XD
+play,1,1,suzus001,10,BB,PB.2-3
+play,1,1,suzus001,22,BB.FCX,S7/L7.3-H
+play,1,1,bellc002,01,CX,3/G3S
+play,2,0,gurry001,12,CSFFBX,2/P2F/FL
+play,2,0,seguj002,01,FX,43/G4M
+play,2,0,chisj001,12,CCBS,K
+play,2,1,manct001,31,BBSBX,S9/L9
+play,2,1,mervm001,12,CCBFS,K
+play,2,1,wisdp001,02,CFS,K
+play,2,1,amaym001,12,TBFFH,HP.1-2
+play,2,1,hoern001,22,BCBFFFS,K
+play,3,0,delab001,00,X,63/G56
+play,3,0,stalj001,02,CCX,9/F9D
+play,3,0,hampg001,20,BBX,S7/L7S+
+play,3,0,bertj001,02,CC.N,BK.1-2
+play,3,0,bertj001,02,CC.N.S,K.BX1(23)
+play,3,1,swand001,12,BCCT,K
+play,3,1,happi001,30,BBBB,W
+play,3,1,suzus001,10,BX,3/P3F-/FL
+play,3,1,bellc002,22,CB1BSFS,K
+play,4,0,solej001,22,FCBFFBFX,4/P4
+play,4,0,arral001,12,BFFX,S8/G4M
+play,4,0,gurry001,00,X,S9/L9L.1-2
+play,4,0,seguj002,12,CBSX,5(2)/FO/G5.1-2;B-1
+play,4,0,chisj001,01,CX,7/F7LD+
+play,4,1,manct001,31,BBCBX,5/P5F/FL
+play,4,1,mervm001,11,CBX,43/G4
+play,4,1,wisdp001,32,SBFBBFC,K
+play,5,0,delab001,22,FSBBX,S8/G6M
+play,5,0,stalj001,00,1X,23/SH/BG2.1-2
+play,5,0,hampg001,01,CX,4/L4D/DP.2X2(46)
+play,5,1,amaym001,12,CFBFX,8/F8XD+
+play,5,1,hoern001,22,BCBCS,K
+play,5,1,swand001,11,CBX,S7/L7+
+play,5,1,happi001,10,BX,HR/F89XD+.1-H
+play,5,1,suzus001,32,BBFBSS,K
+play,6,0,bertj001,01,SX,S5/G25-
+play,6,0,solej001,00,X,8/F8
+play,6,0,arral001,31,BFBBX,S7/G6.1-3
+play,6,0,gurry001,12,SFF*BX,7/SF/F78.3-H
+play,6,0,seguj002,01,FX,53/G5
+play,6,1,bellc002,00,,NP
+sub,okers001,"Steven Okert",0,0,1
+play,6,1,bellc002,12,.CCBS,K
+play,6,1,manct001,22,CFBBS,K
+play,6,1,mervm001,02,CSS,K
+play,7,0,chisj001,11,S.BX,13/G1
+play,7,0,delab001,10,BX,9/L9
+play,7,0,stalj001,12,BFT.X,53/G56S
+play,7,1,wisdp001,00,,NP
+sub,barnm001,"Matt Barnes",0,0,1
+play,7,1,wisdp001,12,.CBF.S,K
+play,7,1,amaym001,22,CS.BBX,5/L5D+
+play,7,1,hoern001,02,CFX,D9/G3
+play,7,1,swand001,22,BCS*BFC,K
+play,8,0,hampg001,00,,NP
+sub,fulmm001,"Michael Fulmer",1,0,1
+play,8,0,hampg001,00,.X,63/G6
+play,8,0,bertj001,22,BBCFX,S9/G34
+play,8,0,solej001,00,X,54(1)3/GDP/G56
+play,8,1,happi001,00,,NP
+sub,scott003,"Tanner Scott",0,0,1
+play,8,1,happi001,02,.CFFC,K
+play,8,1,suzus001,01,CX,9/L89
+play,8,1,bellc002,12,SF.FFBX,D9/F89
+play,8,1,manct001,30,VVVV,IW
+play,8,1,mervm001,21,BSBX,S8/L89D+.2-H;1-3
+play,8,1,wisdp001,12,FFBS,K
+play,9,0,arral001,00,,NP
+sub,leitm002,"Mark Leiter Jr.",1,0,1
+play,9,0,arral001,22,.CBFBX,S9/G34
+play,9,0,gurry001,11,BCX,64(1)3/GDP/G6
+play,9,0,seguj002,10,BH,HP
+play,9,0,chisj001,20,BB>C,DI.1-2
+play,9,0,chisj001,32,BB>C.S*BS,K
+data,er,cabre003,3
+data,er,okers001,0
+data,er,scott003,1
+data,er,barnm001,0
+data,er,leitm002,0
+data,er,fulmm001,0
+data,er,steej002,1
+id,CHN202305100
+version,2
+info,visteam,SLN
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/05/10
+info,number,0
+info,gametype,regular
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,may-b901
+info,ump1b,nelsj901
+info,ump2b,bakej902
+info,ump3b,willr901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/12 09:02:25
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,lissr701
+info,temp,65
+info,winddir,fromrf
+info,windspeed,9
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,151
+info,attendance,36413
+info,wp,steej002
+info,lp,montj004
+info,save,
+start,edmat001,"Tommy Edman",0,1,4
+start,goldp001,"Paul Goldschmidt",0,2,3
+start,contw001,"Willson Contreras",0,3,10
+start,arenn001,"Nolan Arenado",0,4,5
+start,carld002,"Dylan Carlson",0,5,8
+start,yepej001,"Juan Yepez",0,6,7
+start,dejop001,"Paul DeJong",0,7,6
+start,nootl001,"Lars Nootbaar",0,8,9
+start,kniza001,"Andrew Knizner",0,9,2
+start,montj004,"Jordan Montgomery",0,0,1
+start,madrn001,"Nick Madrigal",1,1,4
+start,swand001,"Dansby Swanson",1,2,6
+start,happi001,"Ian Happ",1,3,7
+start,suzus001,"Seiya Suzuki",1,4,9
+start,wisdp001,"Patrick Wisdom",1,5,5
+start,bellc002,"Cody Bellinger",1,6,8
+start,manct001,"Trey Mancini",1,7,3
+start,gomey001,"Yan Gomes",1,8,2
+start,morec001,"Christopher Morel",1,9,10
+start,steej002,"Justin Steele",1,0,1
+play,1,0,edmat001,10,BX,63/G6
+play,1,0,goldp001,11,FBX,S7/L7L
+play,1,0,contw001,00,X,7/L78D
+play,1,0,arenn001,10,BX,T9/L89D.1-H
+play,1,0,carld002,00,X,31/G34
+play,1,1,madrn001,10,BX,43/G4
+play,1,1,swand001,02,FC.FX,7/F7D
+play,1,1,happi001,12,BCFFX,2/P2F/FL
+play,2,0,yepej001,10,BX,43/G4
+play,2,0,dejop001,12,CBS.S,K
+play,2,0,nootl001,32,CBBFF.BX,63/G4M
+play,2,1,suzus001,20,BBX,63/G6
+play,2,1,wisdp001,31,BCBBX,8/F89XD+
+play,2,1,bellc002,22,CBCBX,S3/G34
+play,2,1,manct001,32,BBFS1B>B,W.1-2
+play,2,1,gomey001,31,BSBBB,W.2-3;1-2
+play,2,1,morec001,12,BFFC,K
+play,3,0,kniza001,12,.CBFX,S6/G56
+play,3,0,edmat001,10,BX,3/SH/BG3S-.1-2
+play,3,0,goldp001,32,BSBBT.C,K
+play,3,0,contw001,00,X,S9/G34.2-H
+play,3,0,arenn001,32,*BFCF*BB.>B,W.1-2
+play,3,0,carld002,00,X,63/G6
+play,3,1,madrn001,01,C.X,9/L9L
+play,3,1,swand001,10,BX,DGR/L7L
+play,3,1,happi001,10,BX,13/G4MS
+play,3,1,suzus001,32,CBFBBFX,D9/L9L.2-H
+play,3,1,wisdp001,20,BBX,HR/F78XD.2-H
+play,3,1,bellc002,02,CF.S,K
+play,4,0,yepej001,10,BX,S7/F78S
+play,4,0,dejop001,00,X,4/F34D
+play,4,0,nootl001,32,CF*BBFBFB,W.1-2
+play,4,0,kniza001,00,X,9/L89
+play,4,0,edmat001,01,FX,5/P56
+play,4,1,manct001,32,CBBFB*B,W
+play,4,1,gomey001,00,X,HR/F7D.1-H
+play,4,1,morec001,21,BCBX,9/F9L
+play,4,1,madrn001,02,CC.X,13/G1S
+play,4,1,swand001,12,CBFS,K
+play,5,0,goldp001,11,BCX,63/G6
+play,5,0,contw001,12,FFFBS,K
+play,5,0,arenn001,32,BCBFFFB.FX,6/P6
+play,5,1,happi001,12,FBFX,D7/L7LD+
+play,5,1,suzus001,12,CFBX,S7/L7D+.2-3
+play,5,1,wisdp001,01,FX,64(1)3/GDP/G6.3-H(NR)
+play,5,1,bellc002,01,FX,3/P3F/FL
+play,6,0,carld002,01,CX,9/F34D
+play,6,0,yepej001,31,C.BBBB,W
+play,6,0,dejop001,12,CBFX,S7/L7S.1-2
+play,6,0,nootl001,22,CFBBX,S8/L8+.2-H;1-2
+play,6,0,kniza001,00,X,64(1)3/GDP/G6
+play,6,1,manct001,00,,NP
+sub,verhd001,"Drew VerHagen",0,0,1
+play,6,1,manct001,00,.X,S9/L89D+
+play,6,1,gomey001,12,CS.BX,S7/F7.1-2
+play,6,1,morec001,10,BX,D9/L89XD.2-H;1-3
+play,6,1,madrn001,11,CBX,FC/G6.3XH(62);2-3;B-1
+play,6,1,swand001,00,.X,D7/L7LS.3-H;1-H
+play,6,1,happi001,21,BCBX,7/F7LS
+play,6,1,suzus001,32,BBBCFFFFFB,W
+play,6,1,wisdp001,01,SX,5/P56S
+play,7,0,edmat001,00,,NP
+sub,fulmm001,"Michael Fulmer",1,0,1
+play,7,0,edmat001,01,.CX,43/G4
+play,7,0,goldp001,10,BX,63/G6
+play,7,0,contw001,12,CBCS,K
+play,7,1,bellc002,00,,NP
+sub,nailj001,"James Naile",0,0,1
+play,7,1,bellc002,22,.CBBFX,41/G34
+play,7,1,manct001,32,FBBS.BB,W
+play,7,1,gomey001,00,X,S6/G56.1-2
+play,7,1,morec001,11,SBX,S8/G6M.2-H;1-2
+play,7,1,madrn001,12,CCBFFFFX,5(2)3/GDP/G56
+play,8,0,arenn001,00,,NP
+sub,boxbb001,"Brad Boxberger",1,0,1
+play,8,0,arenn001,02,.CCFS,K.BX1(23)
+play,8,0,carld002,11,FBX,63/G6
+play,8,0,yepej001,00,,NP
+sub,burla001,"Alec Burleson",0,6,11
+play,8,0,burla001,01,.TX,8/L78D
+play,8,1,swand001,00,,NP
+sub,donob001,"Brendan Donovan",0,2,3
+play,8,1,swand001,00,.,NP
+sub,burla001,"Alec Burleson",0,6,7
+play,8,1,swand001,01,..CX,63/G6D
+play,8,1,happi001,01,CX,S9/G34
+play,8,1,suzus001,22,CCBBX,64(1)/FO/G6MS.B-1
+play,8,1,wisdp001,32,BS*BBF>B,W.1-2
+play,8,1,bellc002,01,SX,23/G2
+play,9,0,dejop001,00,,NP
+sub,thomk002,"Keegan Thompson",1,0,1
+play,9,0,dejop001,22,.CBFBX,S9/G3+
+play,9,0,nootl001,12,CCBX,31/G34.1-2
+play,9,0,kniza001,10,BX,3/G3S-.2-3
+play,9,0,edmat001,00,X,S8/L89+.3-H
+play,9,0,donob001,01,F>B,DI.1-2
+play,9,0,donob001,11,F>B.X,S9/L9+.2-3
+play,9,0,contw001,20,B*B>B,DI.1-2
+play,9,0,contw001,30,B*B>B.B,W
+play,9,0,arenn001,21,BBFX,4/P4D
+data,er,nailj001,1
+data,er,verhd001,3
+data,er,montj004,6
+data,er,thomk002,1
+data,er,fulmm001,0
+data,er,boxbb001,0
+data,er,steej002,3
+id,CHN202305260
+version,2
+info,visteam,CIN
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/05/26
+info,number,0
+info,gametype,regular
+info,starttime,1:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,johna901
+info,ump1b,gonzm901
+info,ump2b,wolcq901
+info,ump3b,valej901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/10/03 06:10:24
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,seipb701
+info,temp,59
+info,winddir,fromcf
+info,windspeed,10
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,161
+info,attendance,31946
+info,wp,greeh001
+info,lp,steej002
+info,save,
+start,indij001,"Jonathan India",0,1,4
+start,mclam001,"Matt McLain",0,2,6
+start,stees001,"Spencer Steer",0,3,3
+start,stept001,"Tyler Stephenson",0,4,10
+start,senzn001,"Nick Senzel",0,5,7
+start,fairs001,"Stuart Fairchild",0,6,9
+start,newmk001,"Kevin Newman",0,7,5
+start,garcj007,"Jose Barrero",0,8,8
+start,casac001,"Curt Casali",0,9,2
+start,greeh001,"Hunter Greene",0,0,1
+start,hoern001,"Nico Hoerner",1,1,4
+start,swand001,"Dansby Swanson",1,2,6
+start,taucm001,"Mike Tauchman",1,3,8
+start,happi001,"Ian Happ",1,4,7
+start,manct001,"Trey Mancini",1,5,10
+start,morec001,"Christopher Morel",1,6,9
+start,mervm001,"Matt Mervis",1,7,3
+start,mastm001,"Miles Mastrobuoni",1,8,5
+start,barnt001,"Tucker Barnhart",1,9,2
+start,steej002,"Justin Steele",1,0,1
+play,1,0,indij001,22,CBFBX,3/P3F/FL
+play,1,0,mclam001,22,CSBBFX,S5/G5
+play,1,0,stees001,22,BFSBX,T9/L89XD+.1-H
+play,1,0,stept001,11,FBX,S7/L78S.3-H
+play,1,0,senzn001,02,CFS,K
+play,1,0,fairs001,00,X,S6/G6M.1-2
+play,1,0,newmk001,02,CFT,K
+play,1,1,hoern001,22,CBFF.BFX,6/L6
+play,1,1,swand001,32,BBCBFS,K
+play,1,1,taucm001,32,BBBCT.B,W
+play,1,1,happi001,32,BSB*BS>X,2/P2F/FL
+play,2,0,garcj007,00,X,6/F56D
+play,2,0,casac001,00,X,63/G6
+play,2,0,indij001,22,CFBBFX,43/G4
+play,2,1,manct001,22,BBFSC,K
+play,2,1,morec001,22,CBSBX,63/G56
+play,2,1,mervm001,32,CBSBFBFS,K
+play,3,0,mclam001,21,BFBX,63/G56
+play,3,0,stees001,02,CFS,K
+play,3,0,stept001,10,BX,D9/F9D
+play,3,0,senzn001,21,BF.BX,S8/G4M.2-H;B-2(E8)
+play,3,0,fairs001,02,FFFFS,K
+play,3,1,mastm001,32,CBBBS.S,K
+play,3,1,barnt001,22,FTFBBC,K
+play,3,1,hoern001,12,CCFFFBX,43/G4
+play,4,0,newmk001,01,FX,D7/L7D+
+play,4,0,garcj007,10,BX,S7/F7LS.2-H;B-2
+play,4,0,casac001,10,BX,3E1/SH/BG23-.2-3
+play,4,0,indij001,00,X,9/SF/F9D.3-H
+play,4,0,mclam001,11,BFX,8/F8XD+
+play,4,0,stees001,02,FFFX,S49/L89.1-2
+play,4,0,stept001,21,S*BBX,S8/L89S.2-H(UR);1-3
+play,4,0,senzn001,00,,NP
+sub,merrj001,"Julian Merryweather",1,0,1
+play,4,0,senzn001,12,.CBSS,K
+play,4,1,swand001,32,BFS.BBFS,K
+play,4,1,taucm001,22,CBBF.C,K
+play,4,1,happi001,31,BBFBB,W
+play,4,1,manct001,22,FFBFFBS,K
+play,5,0,fairs001,02,FCX,D7/L7LD
+play,5,0,newmk001,22,CFFBBX,D7/L7LD.2-H
+play,5,0,garcj007,12,CS.*BFS,K
+play,5,0,casac001,22,BT*BFC,K
+play,5,0,indij001,00,X,7/L7LD
+play,5,1,morec001,02,FFC,K
+play,5,1,mervm001,12,BFF.S,K
+play,5,1,mastm001,22,CBFBC,K
+play,6,0,mclam001,00,,NP
+sub,assaj001,"Javier Assad",1,0,1
+play,6,0,mclam001,12,.CFBX,S7/G56
+play,6,0,stees001,10,BX,D9/F9LD.1-3
+play,6,0,stept001,02,TSS,K
+play,6,0,senzn001,00,X,9/F9LS/DP.3XH(92)
+play,6,1,barnt001,12,FBSF.X,43/G34D
+play,6,1,hoern001,21,CBBX,7/L78D
+play,6,1,swand001,11,BFX,7/F7+
+play,7,0,fairs001,21,BBFX,D7/L7L+
+play,7,0,newmk001,31,BBSBB,W
+play,7,0,garcj007,12,FFBX,7/F78XD+.2-3
+play,7,0,casac001,22,C*BBFC,K
+play,7,0,indij001,31,BCBBX,8/F89S
+play,7,1,taucm001,00,,NP
+sub,salae001,"Eduardo Salazar",0,0,1
+play,7,1,taucm001,22,.BBCFX,43/G34
+play,7,1,happi001,00,X,43/G34
+play,7,1,manct001,22,CS.BBFX,43/G34
+play,8,0,mclam001,00,,NP
+sub,riose001,"Edwin Rios",1,2,5
+play,8,0,mclam001,00,.,NP
+sub,mastm001,"Miles Mastrobuoni",1,8,6
+play,8,0,mclam001,32,..BCC.BBB,W
+play,8,0,stees001,11,C*BX,54(1)/FO/G5.B-1
+play,8,0,stept001,01,CX,64(1)3/GDP/G6
+play,8,1,morec001,00,,NP
+sub,bensw001,"Will Benson",0,1,7
+play,8,1,morec001,00,.,NP
+sub,senzn001,"Nick Senzel",0,5,5
+play,8,1,morec001,00,..,NP
+sub,newmk001,"Kevin Newman",0,7,4
+play,8,1,morec001,00,...X,S8/L8
+play,8,1,mervm001,21,CB*BX,46(1)/FO/G34.B-1
+play,8,1,mastm001,01,CX,S7/L7L.1-2
+play,8,1,barnt001,00,X,4/L4
+play,8,1,hoern001,32,BCBF.FFFFB>F>X,53/G56S
+play,9,0,senzn001,12,FBFC,K
+play,9,0,fairs001,32,CSBBFBB,W
+play,9,0,newmk001,02,CSS,K
+play,9,0,garcj007,01,FX,DGR/L7LS.1-3
+play,9,0,casac001,10,BX,S9/F9S.3-H;2-H
+play,9,0,bensw001,01,FX,S7/L7.1-2
+play,9,0,mclam001,22,FBCBFX,S1/G25-.2-3;1-2
+play,9,0,stees001,00,,NP
+sub,alzoa001,"Adbert Alzolay",1,0,1
+play,9,0,stees001,00,.X,64(1)/FO/G6.B-1
+play,9,1,riose001,00,,NP
+sub,cruzf002,"Fernando Cruz",0,0,1
+play,9,1,riose001,32,.CBBFBFT,K
+play,9,1,taucm001,31,BBBCX,7/F78D
+play,9,1,happi001,11,FBX,7/F7D
+data,er,greeh001,0
+data,er,cruzf002,0
+data,er,salae001,0
+data,er,alzoa001,0
+data,er,assaj001,2
+data,er,merrj001,1
+data,er,steej002,5
+id,CHN202305310
+version,2
+info,visteam,TBA
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/05/31
+info,number,0
+info,gametype,regular
+info,starttime,1:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,littw901
+info,ump1b,addir901
+info,ump2b,merzd901
+info,ump3b,barkl901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/06/13 09:05:22
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,lissr701
+info,temp,83
+info,winddir,rtol
+info,windspeed,8
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,173
+info,attendance,29360
+info,wp,pochc001
+info,lp,leitm002
+info,save,beekj001
+start,diazy001,"Yandy Diaz",0,1,3
+start,arozr001,"Randy Arozarena",0,2,7
+start,ramih004,"Harold Ramirez",0,3,10
+start,parei001,"Isaac Paredes",0,4,5
+start,margm001,"Manuel Margot",0,5,9
+start,loweb001,"Brandon Lowe",0,6,4
+start,bethc001,"Christian Bethancourt",0,7,2
+start,wallt003,"Taylor Walls",0,8,6
+start,sirij001,"Jose Siri",0,9,8
+start,efliz001,"Zach Eflin",0,0,1
+start,hoern001,"Nico Hoerner",1,1,10
+start,swand001,"Dansby Swanson",1,2,6
+start,happi001,"Ian Happ",1,3,7
+start,suzus001,"Seiya Suzuki",1,4,9
+start,taucm001,"Mike Tauchman",1,5,8
+start,mervm001,"Matt Mervis",1,6,3
+start,wisdp001,"Patrick Wisdom",1,7,5
+start,mastm001,"Miles Mastrobuoni",1,8,4
+start,barnt001,"Tucker Barnhart",1,9,2
+start,steej002,"Justin Steele",1,0,1
+play,1,0,diazy001,11,CBX,13/G1S
+play,1,0,arozr001,32,CBSBFBFS,K
+play,1,0,ramih004,10,BX,63/G6
+play,1,1,hoern001,32,CBBBCB,W
+play,1,1,swand001,01,C>S,SB2
+play,1,1,swand001,02,C>S.X,53/G56
+play,1,1,happi001,32,C*BFBBFX,S8/G4.2-H
+play,1,1,suzus001,02,CC>B,SB2
+play,1,1,suzus001,22,CC>B.BFC,K
+play,1,1,taucm001,00,X,S9/L9+.2-H
+play,1,1,mervm001,20,B1B>B,CS2(26)
+play,2,0,parei001,10,BX,7/F7
+play,2,0,margm001,12,CFBX,63/G6
+play,2,0,loweb001,10,BX,5/P56D
+play,2,1,mervm001,00,X,3/G23-
+play,2,1,wisdp001,21,BBCX,E5/G56.B-1
+play,2,1,mastm001,00,>C,CS2(26)
+play,2,1,mastm001,12,>C.BFS,K
+play,3,0,bethc001,02,SC.X,53/G56
+play,3,0,wallt003,11,BFX,5/L5F/FL
+play,3,0,sirij001,10,BX,53/G5
+play,3,1,barnt001,21,BFBX,53/G6S-
+play,3,1,hoern001,11,FBX,9/L9L
+play,3,1,swand001,01,SX,6/L6
+play,4,0,diazy001,00,,NP
+sub,wesnh001,"Hayden Wesneski",1,0,1
+play,4,0,diazy001,32,.CBSBFBX,9/L9D+
+play,4,0,arozr001,32,BBCBSB,W
+play,4,0,ramih004,11,BF1X,5/P15
+play,4,0,parei001,12,1CC.*BS,K
+play,4,1,happi001,10,BX,43/G34
+play,4,1,suzus001,01,CX,S7/G56
+play,4,1,taucm001,22,BTBFX,8/F8D
+play,4,1,mervm001,32,BCBFB>F>S,K
+play,5,0,margm001,11,BCX,S6/G56
+play,5,0,loweb001,22,BFBFC,K
+play,5,0,bethc001,12,CFBX,2/P2F-/FL
+play,5,0,wallt003,11,1CBX,43/G34
+play,5,1,wisdp001,32,BSBF.BX,23/G2-
+play,5,1,mastm001,12,CSBFX,63/G2
+play,5,1,barnt001,10,BX,63/G6M
+play,6,0,sirij001,02,CSS,K
+play,6,0,diazy001,11,BFX,9/F9LS
+play,6,0,arozr001,00,X,63/G6
+com,"$Cubs pitcher Justin Steele left the game due to an injured arm."
+play,6,1,hoern001,22,.CBFBS,K
+play,6,1,swand001,00,X,63/G6D
+play,6,1,happi001,22,SSBBFS,K
+play,7,0,ramih004,32,BBCCBS,K
+play,7,0,parei001,22,BFCBX,63/G1S-
+play,7,0,margm001,32,CBBBFB,W
+play,7,0,loweb001,00,,NP
+sub,leitm002,"Mark Leiter Jr.",1,0,1
+play,7,0,loweb001,01,.CX,HR/F8XD.1-H
+play,7,0,bethc001,02,FCS,K
+play,7,1,suzus001,22,CBFBX,D7/L7L
+play,7,1,taucm001,00,,NP
+sub,pochc001,"Colin Poche",0,0,1
+play,7,1,taucm001,01,.LX,14/SH/BG2-.2-3
+play,7,1,mervm001,00,,NP
+sub,manct001,"Trey Mancini",1,6,11
+play,7,1,manct001,32,.BBCSBX,S7/L78D+.3-H;BX2(74)
+play,7,1,wisdp001,21,FBBX,9/F89
+play,8,0,wallt003,00,,NP
+sub,manct001,"Trey Mancini",1,6,3
+play,8,0,wallt003,30,.BBBB,W
+play,8,0,sirij001,00,>B,SB2
+play,8,0,sirij001,31,>B.BBCX,HR/F8XD.2-H
+play,8,0,diazy001,00,,NP
+sub,alzoa001,"Adbert Alzolay",1,0,1
+play,8,0,diazy001,01,.CX,43/G4
+play,8,0,arozr001,12,BCCFX,S7/L7+
+play,8,0,ramih004,00,,NP
+sub,lowej002,"Josh Lowe",0,3,11
+play,8,0,lowej002,22,.1BFS.BX,S9/L9L.1-3
+play,8,0,parei001,11,CPX,4(1)3/GDP/G4
+play,8,1,mastm001,00,.,NP
+sub,adamj002,"Jason Adam",0,0,1
+play,8,1,mastm001,31,..BBBCB,W
+play,8,1,barnt001,00,,NP
+sub,morec001,"Christopher Morel",1,9,11
+play,8,1,morec001,22,.FBCB>B,SB2
+play,8,1,morec001,32,.FBCB>B.S,K
+play,8,1,hoern001,01,CX,S7/L7.2-3
+play,8,1,swand001,22,CSB*BS,K
+play,8,1,happi001,00,>B,SB2
+play,8,1,happi001,32,>B.BBCSC,K
+play,9,0,margm001,00,,NP
+sub,gomey001,"Yan Gomes",1,9,2
+play,9,0,margm001,00,.,NP
+sub,merrj001,"Julian Merryweather",1,0,1
+play,9,0,margm001,30,..BBBB,W
+play,9,0,loweb001,32,BCSBB1>S,K+SB2
+play,9,0,bethc001,12,ACBX,5/P5
+play,9,0,wallt003,30,BB*BB,W
+play,9,0,sirij001,31,B*BCBB,W.2-3;1-2
+play,9,0,diazy001,00,,NP
+sub,fulmm001,"Michael Fulmer",1,0,1
+play,9,0,diazy001,12,.BCTS,K
+play,9,1,suzus001,00,,NP
+sub,kellk004,"Kevin Kelly",0,0,1
+play,9,1,suzus001,02,.CCX,7/F7D
+play,9,1,taucm001,31,BBBCB,W
+play,9,1,manct001,00,,NP
+sub,riose001,"Edwin Rios",1,6,11
+play,9,1,riose001,02,.CFH,HP.1-2
+com,"$Rays challenged (hit by pitch), call on the field was upheld."
+play,9,1,wisdp001,12,CCFBX,FC5/G56.2-3;1-2(E5/TH);B-1
+play,9,1,mastm001,00,,NP
+sub,beekj001,"Jalen Beeks",0,0,1
+play,9,1,mastm001,32,.CBBFBS,K
+play,9,1,gomey001,32,*BBBCT>F>X,7/F7LD
+data,er,adamj002,0
+data,er,beekj001,0
+data,er,efliz001,3
+data,er,kellk004,0
+data,er,pochc001,0
+data,er,alzoa001,0
+data,er,wesnh001,1
+data,er,leitm002,3
+data,er,fulmm001,0
+data,er,merrj001,0
+data,er,steej002,0
+id,CHN202306170
+version,2
+info,visteam,BAL
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/06/17
+info,number,0
+info,gametype,regular
+info,starttime,1:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,buckc901
+info,ump1b,may-b901
+info,ump2b,nelsj901
+info,ump3b,hanat901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/01 09:04:58
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,speaa701
+info,temp,69
+info,winddir,rtol
+info,windspeed,6
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,152
+info,attendance,40605
+info,wp,steej002
+info,lp,gibsk002
+info,save,alzoa001
+start,haysa001,"Austin Hays",0,1,7
+start,rutsa001,"Adley Rutschman",0,2,10
+start,santa003,"Anthony Santander",0,3,9
+start,hendg002,"Gunnar Henderson",0,4,5
+start,uriar001,"Ramon Urias",0,5,3
+start,hicka001,"Aaron Hicks",0,6,8
+start,mccaj001,"James McCann",0,7,2
+start,matej003,"Jorge Mateo",0,8,6
+start,ortij005,"Joey Ortiz",0,9,4
+start,gibsk002,"Kyle Gibson",0,0,1
+start,taucm001,"Mike Tauchman",1,1,8
+start,hoern001,"Nico Hoerner",1,2,4
+start,suzus001,"Seiya Suzuki",1,3,9
+start,happi001,"Ian Happ",1,4,7
+start,swand001,"Dansby Swanson",1,5,6
+start,bellc002,"Cody Bellinger",1,6,3
+start,morec001,"Christopher Morel",1,7,10
+start,gomey001,"Yan Gomes",1,8,2
+start,mastm001,"Miles Mastrobuoni",1,9,5
+start,steej002,"Justin Steele",1,0,1
+play,1,0,haysa001,22,FS.BBC,K
+play,1,0,rutsa001,02,CFFX,63/G6
+play,1,0,santa003,10,BX,13/G1S-
+play,1,1,taucm001,22,CCBFFBC,K
+play,1,1,hoern001,12,CBFS,K
+play,1,1,suzus001,21,BBFX,63/G56+
+play,2,0,hendg002,32,BBCCBB,W
+play,2,0,uriar001,12,SBFX,3/P3SF/FL
+play,2,0,hicka001,12,CBSS,K
+play,2,0,mccaj001,12,BFCFX,S4/G6M.1-3(E4/TH)
+play,2,0,matej003,00,X,64(1)/FO/G6.B-1
+play,2,1,happi001,32,BFBSFB.T,K
+play,2,1,swand001,12,CFFBS,K
+play,2,1,bellc002,10,B.X,7/F78S
+play,3,0,ortij005,02,CC*S,K.BX1(23)
+play,3,0,haysa001,12,CFBX,9/F9D
+play,3,0,rutsa001,10,BX,3/G34-
+play,3,1,morec001,00,X,63/G56+
+play,3,1,gomey001,22,BSCBS,K+WP.B-1
+play,3,1,mastm001,11,CBX,16(1)/FO/G1S-.B-1
+play,3,1,taucm001,32,BFBBF>B,W.1-2
+play,3,1,hoern001,01,FX,D8/L78XD.2-H;1-H
+play,3,1,suzus001,21,BCBX,8/F8XD+
+play,4,0,santa003,32,CBC.FBB*S,K
+play,4,0,hendg002,01,FX,S9/L9S+
+play,4,0,uriar001,01,CX,4/P34
+play,4,0,hicka001,12,CFBX,S7/G5+.1-3
+play,4,0,mccaj001,00,X,6(1)/FO/G6.B-1
+play,4,1,happi001,12,SFBX,43/G34
+play,4,1,swand001,21,SBBX,S7/L7D+
+play,4,1,bellc002,02,CCS,K
+play,4,1,morec001,22,BS1*BCS,K
+play,5,0,matej003,12,BFF.X,63/G6
+play,5,0,ortij005,02,SCFX,9/F89S
+play,5,0,haysa001,01,CX,S9/G34
+play,5,0,rutsa001,12,TF*BFX,HR/F78XD.1-H
+play,5,0,santa003,20,BBX,9/F9
+play,5,1,gomey001,22,BBTFX,D8/L78D
+play,5,1,mastm001,10,BX,13/SH/BG2.2-3
+play,5,1,taucm001,01,FX,7/SF/F7D.3-H
+play,5,1,hoern001,11,BCX,6/P15
+play,6,0,hendg002,00,,NP
+sub,merrj001,"Julian Merryweather",1,0,1
+play,6,0,hendg002,32,.BBSBS.S,K
+play,6,0,uriar001,12,CFBX,53/G56
+play,6,0,hicka001,30,BBBB,W
+play,6,0,mccaj001,00,,NP
+sub,ohear001,"Ryan O'Hearn",0,7,11
+play,6,0,ohear001,12,.FBCX,S7/L7+.1-2
+play,6,0,matej003,02,SSFX,7/F78S
+play,6,1,suzus001,00,,NP
+sub,rutsa001,"Adley Rutschman",0,2,2
+play,6,1,suzus001,00,.,NP
+sub,hendg002,"Gunnar Henderson",0,4,6
+play,6,1,suzus001,00,..,NP
+sub,uriar001,"Ramon Urias",0,5,5
+play,6,1,suzus001,00,...,NP
+sub,ohear001,"Ryan O'Hearn",0,7,3
+play,6,1,suzus001,00,....,NP
+sub,gibsk002,"Kyle Gibson",0,8,1
+play,6,1,suzus001,22,.....CBBFX,63/G6D
+play,6,1,happi001,00,X,7/F7LD
+play,6,1,swand001,31,BCBBB,W
+play,6,1,bellc002,30,BB.*BX,3/G3S
+play,7,0,ortij005,00,,NP
+sub,leitm002,"Mark Leiter Jr.",1,0,1
+play,7,0,ortij005,20,.BBX,63/G56+
+play,7,0,haysa001,00,X,S8/G4M
+play,7,0,rutsa001,32,CBF*B*B>*B,W.1-2
+play,7,0,santa003,12,BFCC,K
+play,7,0,hendg002,22,B*SC.*BX,43/G3D+
+play,7,1,morec001,00,,NP
+sub,bakeb001,"Bryan Baker",0,8,1
+play,7,1,morec001,12,.STBX,8/F8
+play,7,1,gomey001,22,SCBFFFBC,K
+play,7,1,mastm001,02,CCS,K
+play,8,0,uriar001,12,CTBFX,63/G6+
+play,8,0,hicka001,32,CLBBBS,K
+play,8,0,ohear001,21,FBBX,8/F8XD+
+play,8,1,taucm001,00,,NP
+sub,could001,"Danny Coulombe",0,8,1
+play,8,1,taucm001,01,.CX,53/G56S-
+play,8,1,hoern001,01,CX,DGR/F9LS
+play,8,1,suzus001,22,2CBF*BX,9/F9S
+play,8,1,happi001,20,BBX,43/G4
+play,9,0,could001,00,,NP
+sub,alzoa001,"Adbert Alzolay",1,0,1
+play,9,0,could001,00,.,NP
+sub,fraza001,"Adam Frazier",0,8,11
+play,9,0,fraza001,12,..CFFBS,K
+play,9,0,ortij005,00,,NP
+sub,lestj002,"Josh Lester",0,9,11
+play,9,0,lestj002,12,.CCFFBS,K
+play,9,0,haysa001,32,SBS.BBB,W
+com,"$Umpire reviewed (record keeping), call on the field was upheld."
+play,9,0,rutsa001,12,BFC.X,43/G34+
+data,er,bakeb001,0
+data,er,gibsk002,3
+data,er,could001,0
+data,er,alzoa001,0
+data,er,leitm002,0
+data,er,merrj001,0
+data,er,steej002,2
+id,CHN202306300
+version,2
+info,visteam,CLE
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/06/30
+info,number,0
+info,gametype,regular
+info,starttime,1:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,ramoc901
+info,ump1b,rehaj901
+info,ump2b,navaj901
+info,ump3b,lentn901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/16 09:04:03
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,seipb701
+info,temp,86
+info,winddir,rtol
+info,windspeed,6
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,156
+info,attendance,32230
+info,wp,steej002
+info,lp,quanc001
+info,save,
+start,freet001,"Tyler Freeman",0,1,5
+start,rosaa003,"Amed Rosario",0,2,6
+start,ramij003,"Jose Ramirez",0,3,10
+start,bellj005,"Josh Bell",0,4,3
+start,gimea001,"Andres Gimenez",0,5,4
+start,fry-d001,"David Fry",0,6,7
+start,brenw002,"Will Brennan",0,7,9
+start,stram002,"Myles Straw",0,8,8
+start,naylb001,"Bo Naylor",0,9,2
+start,quanc001,"Cal Quantrill",0,0,1
+start,taucm001,"Mike Tauchman",1,1,9
+start,hoern001,"Nico Hoerner",1,2,4
+start,morec001,"Christopher Morel",1,3,10
+start,happi001,"Ian Happ",1,4,7
+start,swand001,"Dansby Swanson",1,5,6
+start,bellc002,"Cody Bellinger",1,6,8
+start,gomey001,"Yan Gomes",1,7,2
+start,younj003,"Jared Young",1,8,3
+start,madrn001,"Nick Madrigal",1,9,5
+start,steej002,"Justin Steele",1,0,1
+play,1,0,freet001,22,CBFBH,HP
+play,1,0,rosaa003,22,FBFBFX,FC1/G1S.1-2(E1/TH);B-1
+play,1,0,ramij003,22,BFBFS,K
+play,1,0,bellj005,12,FTBS,K
+play,1,0,gimea001,11,BSX,5(2)/FO/G5.B-1
+play,1,1,taucm001,22,CBBS.S,K
+play,1,1,hoern001,11,FBX,S8/L8D+
+play,1,1,morec001,00,X,54(1)3/GDP/G5
+play,2,0,fry-d001,22,BFBSS,K
+play,2,0,brenw002,12,CBFX,43/G4
+play,2,0,stram002,20,BBX,63/G6D
+play,2,1,happi001,11,SBX,7/F7S
+play,2,1,swand001,32,CS.FBBBX,6/P56
+play,2,1,bellc002,22,BCBS.FFX,7/F7LSF/FL
+play,3,0,naylb001,22,CBFB*S,K.BX1(23)
+play,3,0,freet001,12,CCFBS,K
+play,3,0,rosaa003,01,CX,53/G5
+play,3,1,gomey001,21,BBCX,4/L4D
+play,3,1,younj003,10,BX,S9/L9+
+play,3,1,madrn001,11,BFX,S9/L9.1-2
+play,3,1,taucm001,32,BSFBBB,W.2-3;1-2
+play,3,1,hoern001,00,X,S8/L8D.3-H;2-H;1-2
+play,3,1,morec001,22,F2*BCBX,4/P34
+play,3,1,happi001,32,BSBBF>B,W.2-3;1-2
+play,3,1,swand001,31,BBBCX,5/P5SF/FL
+play,4,0,ramij003,22,CCFBBX,63/G56
+play,4,0,bellj005,11,BSX,9/F9D
+play,4,0,gimea001,02,CFX,43/G4S
+play,4,1,bellc002,22,CBFBX,S7/L7S
+play,4,1,gomey001,11,FVX,S7/L78.1-2
+play,4,1,younj003,02,FF.X,T9/F9LD.2-H;1-H
+play,4,1,madrn001,01,CX,7/L78
+play,4,1,taucm001,12,CFBX,S8/L8D+.3-H
+play,4,1,hoern001,00,,NP
+sub,currx001,"Xzavion Curry",0,0,1
+play,4,1,hoern001,12,.*BC+1FX,S9/F9L.1-3
+play,4,1,morec001,11,BS1>B,SB2
+play,4,1,morec001,32,BS1>B.TBFX,7/SF/F7D.3-H
+play,4,1,happi001,00,X,7/F78
+play,5,0,fry-d001,10,BX,S67/G56
+play,5,0,brenw002,00,X,8/F78
+play,5,0,stram002,22,CBF*BX,S9/G34.1-2
+play,5,0,naylb001,02,FS.X,4(1)/FO/G4.2-3;B-1
+play,5,0,freet001,12,BSFX,43/G4
+play,5,1,swand001,12,BFF.X,4/F4MD
+play,5,1,bellc002,12,CSBX,1/P23
+play,5,1,gomey001,22,BCFBFX,6/P56D
+play,6,0,rosaa003,01,FX,S7/G56
+play,6,0,ramij003,12,BFFFS,K
+play,6,0,bellj005,01,CX,8/L8
+play,6,0,gimea001,12,CFBX,8/F89D
+play,6,1,younj003,02,FS.S,K
+play,6,1,madrn001,31,CBBBX,HR/F78XD
+play,6,1,taucm001,00,X,8/F89XD
+play,6,1,hoern001,00,H,HP
+play,6,1,morec001,01,CX,HR/F8XD.1-H
+play,6,1,happi001,00,X,3/G3
+play,7,0,fry-d001,32,CF.BFBBB,W
+play,7,0,brenw002,10,BX,54(1)/FO/G56.B-1
+play,7,0,stram002,00,,NP
+sub,fulmm001,"Michael Fulmer",1,0,1
+play,7,0,stram002,11,.BCX,64(1)3/GDP/G6D
+play,7,1,swand001,00,,NP
+sub,herrt002,"Tim Herrin",0,0,1
+play,7,1,swand001,21,.BBSX,D5/G5
+play,7,1,bellc002,02,CFX,S6/G6MS.2-3
+play,7,1,gomey001,12,BFSS,K
+play,7,1,younj003,00,,NP
+sub,manct001,"Trey Mancini",1,8,11
+play,7,1,manct001,02,.CSX,9/SF/F9D.3-H
+play,7,1,madrn001,32,SB*BFB.>F>F>X,8/F89D
+play,8,0,naylb001,00,,NP
+sub,morec001,"Christopher Morel",1,3,7
+play,8,0,naylb001,00,.,NP
+sub,manct001,"Trey Mancini",1,8,3
+play,8,0,naylb001,00,..,NP
+sub,fulmm001,"Michael Fulmer",1,4,1
+play,8,0,naylb001,32,...CBTFB.BFFFX,6/P6D
+play,8,0,freet001,22,BCFBX,2/P2F/FL
+play,8,0,rosaa003,12,SFBX,D8/L8XD+
+play,8,0,ramij003,00,,NP
+sub,kay-a001,"Anthony Kay",1,4,1
+play,8,0,ramij003,30,.BBBB,W
+play,8,0,bellj005,32,BCF.BB>F>B,W.2-3;1-2
+play,8,0,gimea001,02,SFX,43/G4S
+play,8,1,taucm001,00,,NP
+sub,freet001,"Tyler Freeman",0,1,7
+play,8,1,taucm001,00,.,NP
+sub,ariag002,"Gabriel Arias",0,3,5
+play,8,1,taucm001,00,..,NP
+sub,fry-d001,"David Fry",0,6,1
+play,8,1,taucm001,11,...BFX,31/G3
+play,8,1,hoern001,00,X,53/G34
+play,8,1,morec001,21,FBBX,7/F7D
+play,9,0,fry-d001,00,,NP
+sub,ruckm001,"Michael Rucker",1,4,1
+play,9,0,fry-d001,12,.CBF*S,K.BX1(23)
+play,9,0,brenw002,21,BFBX,HR/F89XD
+play,9,0,stram002,32,BBCBFX,9/F89D
+play,9,0,naylb001,32,FCBBBFS,K
+data,er,quanc001,6
+data,er,currx001,3
+data,er,fry-d001,0
+data,er,herrt002,1
+data,er,kay-a001,0
+data,er,ruckm001,1
+data,er,fulmm001,0
+data,er,steej002,0
+id,CHN202307160
+version,2
+info,visteam,BOS
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/07/16
+info,number,0
+info,gametype,regular
+info,starttime,1:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,may-b901
+info,ump1b,estam901
+info,ump2b,segac901
+info,ump3b,nelsj901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/08/02 12:05:14
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,jackj702
+info,temp,81
+info,winddir,ltor
+info,windspeed,4
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,159
+info,attendance,37812
+info,wp,crawk001
+info,lp,steej002
+info,save,
+start,refsr001,"Rob Refsnyder",0,1,8
+start,turnj001,"Justin Turner",0,2,3
+start,dever001,"Rafael Devers",0,3,5
+start,duvaa001,"Adam Duvall",0,4,9
+start,yoshm002,"Masataka Yoshida",0,5,7
+start,alfaj002,"Jorge Alfaro",0,6,10
+start,arroc001,"Christian Arroyo",0,7,4
+start,wongc001,"Connor Wong",0,8,2
+start,chany001,"Yu Chang",0,9,6
+start,crawk001,"Kutter Crawford",0,0,1
+start,taucm001,"Mike Tauchman",1,1,8
+start,hoern001,"Nico Hoerner",1,2,6
+start,morec001,"Christopher Morel",1,3,4
+start,happi001,"Ian Happ",1,4,7
+start,bellc002,"Cody Bellinger",1,5,3
+start,suzus001,"Seiya Suzuki",1,6,9
+start,gomey001,"Yan Gomes",1,7,2
+start,manct001,"Trey Mancini",1,8,10
+start,mastm001,"Miles Mastrobuoni",1,9,5
+start,steej002,"Justin Steele",1,0,1
+play,1,0,refsr001,32,BBFS.BB,W
+play,1,0,turnj001,11,C*BX,4/P4D
+play,1,0,dever001,02,FS1,POCS2(136)
+play,1,0,dever001,02,FS1.X,HR/F78XD
+play,1,0,duvaa001,12,CBFT,K
+play,1,1,taucm001,11,BCX,S7/L7+
+play,1,1,hoern001,12,BSFH,HP.1-2
+play,1,1,morec001,02,FSS,K
+play,1,1,happi001,01,CX,46(1)3/GDP/G34
+play,2,0,yoshm002,01,CX,53/G56
+play,2,0,alfaj002,22,BTFFBX,63/G6+
+play,2,0,arroc001,10,BX,53/G56
+play,2,1,bellc002,12,CC.BFX,7/F78
+play,2,1,suzus001,31,CBBBB,W
+play,2,1,gomey001,01,CX,3/P3F/FL
+play,2,1,manct001,02,SFS,K
+play,3,0,wongc001,10,BX,6/L56
+play,3,0,chany001,02,CS.X,D9/L89XD+
+play,3,0,refsr001,00,X,43/G34.2-3
+play,3,0,turnj001,02,CC*S,K.BX1(23)
+play,3,1,mastm001,31,CBBBB,W
+play,3,1,taucm001,30,BBB>C,SB2
+com,"$Red Sox challenged (tag play), call on the field was upheld."
+play,3,1,taucm001,31,BBB>C.B,W
+play,3,1,hoern001,22,C*BFBT,K
+play,3,1,morec001,12,SS.BX,64(1)3/GDP/G4M
+play,4,0,dever001,01,CX,D7/G5
+play,4,0,duvaa001,11,BTX,E6/TH/G6+.B-1
+play,4,0,yoshm002,02,CS.S,K
+play,4,0,alfaj002,12,SS*BX,S7/L7.2XH(72);1-2
+play,4,0,arroc001,02,CFS,K
+play,4,1,happi001,32,BFCBFBS,K
+play,4,1,bellc002,01,CX,4/P4D
+play,4,1,suzus001,02,CCT,K
+play,5,0,wongc001,01,FX,E6/G78S+.B-2
+play,5,0,chany001,00,X,S7/L7.2-3
+play,5,0,refsr001,01,CX,S7/L78D+.3-H(UR);1-2
+play,5,0,turnj001,00,X,S9/L9S.2-3;1-2
+play,5,0,dever001,32,BSC.FBBT,K
+play,5,0,duvaa001,12,BFSX,5/P2F/FL
+play,5,0,yoshm002,20,BBX,HR/L9LD.3-H(UR);2-H(UR);1-H(UR);B-H(UR)
+play,5,0,alfaj002,00,X,S7/G6+
+play,5,0,arroc001,00,X,63/G6
+play,5,1,gomey001,22,CBFBFS,K
+play,5,1,manct001,12,SS.FBS,K
+play,5,1,mastm001,01,CX,7/F78D
+play,6,0,wongc001,22,BBFS.S,K
+play,6,0,chany001,00,X,53/G56+
+play,6,0,refsr001,21,CBBX,8/F89D
+play,6,1,taucm001,32,CBS.BBB,W
+play,6,1,hoern001,02,FF.S,K
+play,6,1,morec001,10,BX,5/P5D
+play,6,1,happi001,32,BBCCB>F>S,K
+play,7,0,turnj001,00,,NP
+sub,ruckm001,"Michael Rucker",1,0,1
+play,7,0,turnj001,31,.CBBBB,W
+play,7,0,dever001,10,BX,46(1)/FO/G34.B-1
+play,7,0,duvaa001,31,BBBC*B,W.1-2
+play,7,0,yoshm002,32,BCCFBBX,T8/L89XD.2-H;1-H
+play,7,0,alfaj002,11,*BFS,WP.3-H(NR)
+play,7,0,alfaj002,12,*BFS.*S,K.BX1(23)
+play,7,0,arroc001,32,CBS.BBX,3/P3F/FL
+play,7,1,bellc002,00,,NP
+sub,jacqj001,"Joe Jacques",0,0,1
+play,7,1,bellc002,22,.CSFBBX,43/G34+
+play,7,1,suzus001,00,X,8/F89XD
+play,7,1,gomey001,22,CBSBX,3/G34
+play,8,0,wongc001,00,,NP
+sub,wisdp001,"Patrick Wisdom",1,4,7
+play,8,0,wongc001,00,.,NP
+sub,younj003,"Jared Young",1,5,3
+play,8,0,wongc001,12,..CCBX,9/F89D
+play,8,0,chany001,00,,NP
+sub,alzoa001,"Adbert Alzolay",1,0,1
+play,8,0,chany001,12,.BCSS,K
+play,8,0,refsr001,01,CX,S8/L89D
+play,8,0,turnj001,00,,NP
+sub,casat001,"Triston Casas",0,2,11
+play,8,0,casat001,10,.BX,HR/F8XD.1-H
+play,8,0,dever001,00,,NP
+sub,herne001,"Enrique Hernandez",0,3,11
+play,8,0,herne001,32,.SS.BBBFX,8/F8
+play,8,1,manct001,00,,NP
+sub,casat001,"Triston Casas",0,2,3
+play,8,1,manct001,00,.,NP
+sub,herne001,"Enrique Hernandez",0,3,4
+play,8,1,manct001,00,..,NP
+sub,arroc001,"Christian Arroyo",0,7,5
+play,8,1,manct001,00,...,NP
+sub,farij001,"Jake Faria",0,0,1
+play,8,1,manct001,31,....BSBBB,W
+play,8,1,mastm001,30,BBBB,W.1-2
+play,8,1,taucm001,32,BCSB*BB,W.2-3;1-2
+play,8,1,hoern001,31,CBBBB,W.3-H;2-3;1-2
+play,8,1,morec001,11,BCX,S3/G3.3-H;2-3;1-2
+play,8,1,wisdp001,31,BBBCX,8/SF/F8.3-H
+play,8,1,younj003,32,BBCSBS,K
+play,8,1,suzus001,12,BSSX,9/F89S
+play,9,0,duvaa001,00,,NP
+sub,barnt001,"Tucker Barnhart",1,0,1
+play,9,0,duvaa001,00,.,NP
+sub,duraj001,"Jarren Duran",0,4,11
+play,9,0,duraj001,10,..BX,23/G2-
+play,9,0,yoshm002,11,CBX,S9/L9L+
+play,9,0,alfaj002,10,BX,64(1)/FO/G6+.B-1
+play,9,0,arroc001,22,CBFBX,64(1)/FO/G6.B-1
+play,9,1,gomey001,00,,NP
+sub,duraj001,"Jarren Duran",0,4,8
+play,9,1,gomey001,00,.,NP
+sub,refsr001,"Rob Refsnyder",0,1,9
+play,9,1,gomey001,11,..BFX,8/F78XD
+play,9,1,manct001,10,BX,S8/L8D+
+play,9,1,mastm001,00,B,PB.1-2
+play,9,1,mastm001,22,B.CCFBS,K
+play,9,1,taucm001,11,FB>B,DI.2-3
+play,9,1,taucm001,21,FB>B.X,S8/L89D.3-H
+play,9,1,hoern001,12,CFFBX,T9/F9LD.1-H
+play,9,1,morec001,32,CSFBBBS,K
+data,er,jacqj001,0
+data,er,crawk001,0
+data,er,farij001,5
+data,er,alzoa001,2
+data,er,ruckm001,3
+data,er,barnt001,0
+data,er,steej002,1
+id,CHN202307210
+version,2
+info,visteam,SLN
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/07/21
+info,number,0
+info,gametype,regular
+info,starttime,1:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,kulpr901
+info,ump1b,blasc901
+info,ump2b,ballb901
+info,ump3b,viscj901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/24 09:26:48
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,seipb701
+info,temp,74
+info,winddir,fromlf
+info,windspeed,8
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,168
+info,attendance,38819
+info,wp,steej002
+info,lp,flahj002
+info,save,alzoa001
+start,carld002,"Dylan Carlson",0,1,8
+start,goldp001,"Paul Goldschmidt",0,2,3
+start,arenn001,"Nolan Arenado",0,3,5
+start,contw001,"Willson Contreras",0,4,10
+start,oneit001,"Tyler O'Neill",0,5,7
+start,walkj003,"Jordan Walker",0,6,9
+start,dejop001,"Paul DeJong",0,7,6
+start,kniza001,"Andrew Knizner",0,8,2
+start,fermj001,"Jose Fermin",0,9,4
+start,flahj002,"Jack Flaherty",0,0,1
+start,taucm001,"Mike Tauchman",1,1,8
+start,hoern001,"Nico Hoerner",1,2,6
+start,happi001,"Ian Happ",1,3,7
+start,bellc002,"Cody Bellinger",1,4,3
+start,suzus001,"Seiya Suzuki",1,5,9
+start,morec001,"Christopher Morel",1,6,4
+start,gomey001,"Yan Gomes",1,7,10
+start,mastm001,"Miles Mastrobuoni",1,8,5
+start,amaym001,"Miguel Amaya",1,9,2
+start,steej002,"Justin Steele",1,0,1
+play,1,0,carld002,12,BFFS,K
+play,1,0,goldp001,22,BCFBFS,K+WP.B-1
+play,1,0,arenn001,12,CCBX,64(1)3/GDP/G6
+play,1,1,taucm001,12,CBC.X,7/F7LS
+play,1,1,hoern001,11,BCX,53/G5
+play,1,1,happi001,12,CBSX,31/G3
+play,2,0,contw001,22,CSBBFC,K
+play,2,0,oneit001,11,CBX,S8/L8
+play,2,0,walkj003,00,X,S7/G56.1-2
+play,2,0,dejop001,11,BFX,S9/F9S.2-3;1-2
+play,2,0,kniza001,02,FCX,53/G5S.3-H;2-3;1-2
+play,2,0,fermj001,30,BBBB,W
+play,2,0,carld002,32,BCFBF*B>X,13/G1
+play,2,1,bellc002,01,FX,D89/L89D+
+play,2,1,suzus001,32,BBBFCC,K
+play,2,1,morec001,12,BSFS,K
+play,2,1,gomey001,32,BBCBSF>FX,53/G56
+play,3,0,goldp001,32,CBF.FFBBC,K
+play,3,0,arenn001,20,BBX,6/P6
+play,3,0,contw001,01,FX,S8/G4
+play,3,0,oneit001,12,CSBX,7/F7LD+
+play,3,1,mastm001,31,BCBBX,HR/F89XD
+play,3,1,amaym001,01,CX,S8/G6M
+play,3,1,taucm001,10,BX,D7/L7L.1-H
+play,3,1,hoern001,01,FX,43/G34.2-3
+play,3,1,happi001,32,FB*BBS.S,K
+play,3,1,bellc002,00,X,HR/F9D.3-H
+play,3,1,suzus001,22,CFBBFS,K
+play,4,0,walkj003,12,CS.BS,K
+play,4,0,dejop001,10,BX,53/G56
+play,4,0,kniza001,12,FSBC,K
+play,4,1,morec001,22,FBFBFX,9/F89S
+play,4,1,gomey001,02,CFX,143/G4M
+play,4,1,mastm001,11,BFX,S8/L89
+play,4,1,amaym001,00,X,4/P34D
+play,5,0,fermj001,10,BX,43/G4M
+play,5,0,carld002,22,.CBCBS,K
+play,5,0,goldp001,02,CFFFX,43/G4
+play,5,1,taucm001,00,X,8/F8D
+play,5,1,hoern001,32,CFBBF.BB,W
+play,5,1,happi001,20,B*BX,3/L3
+play,5,1,bellc002,10,BX,S7/L78.1-3
+play,5,1,suzus001,12,SBSF1*S,K
+play,6,0,arenn001,01,SX,63/G6
+play,6,0,contw001,01,CX,S5/G5
+play,6,0,oneit001,12,FCFBC,K
+play,6,0,walkj003,10,BH,HP.1-2
+play,6,0,dejop001,21,BFBX,4/P34D
+play,6,1,morec001,20,BBX,S7/L7
+play,6,1,gomey001,11,FB>S,SB2
+play,6,1,gomey001,12,FB>S.FFS,K
+play,6,1,mastm001,21,B*BCX,7/L78D.2-3
+play,6,1,amaym001,32,SF*BBVX,63/G6
+play,7,0,kniza001,12,BSFS,K
+play,7,0,fermj001,00,X,S3/BG23-
+play,7,0,carld002,00,,NP
+sub,merrj001,"Julian Merryweather",1,0,1
+play,7,0,carld002,00,.,NP
+sub,nootl001,"Lars Nootbaar",0,1,11
+play,7,0,nootl001,12,..BCFC,K
+play,7,0,goldp001,32,FBBCFFFB>*B,W.1-2
+play,7,0,arenn001,12,CBSB,WP.2-3;1-2
+play,7,0,arenn001,22,CBSB.X,S8/L8D.3-H;2-H
+play,7,0,contw001,02,CC>C,K
+play,7,1,taucm001,00,,NP
+sub,nootl001,"Lars Nootbaar",0,1,8
+play,7,1,taucm001,00,.,NP
+sub,palla001,"Andre Pallante",0,0,1
+play,7,1,taucm001,32,..CBBBC.X,53/G6
+play,7,1,hoern001,22,CCBBX,63/G6
+play,7,1,happi001,01,CX,S9/G34
+play,7,1,bellc002,12,FBFX,43/G34
+play,8,0,oneit001,00,,NP
+sub,fulmm001,"Michael Fulmer",1,0,1
+play,8,0,oneit001,31,.BCBBB,W
+play,8,0,walkj003,22,FF.1F*BBB,PB.1-2
+play,8,0,walkj003,32,FF.1F*BBB.*B,W
+play,8,0,dejop001,02,CSS,K
+play,8,0,kniza001,00,,NP
+sub,donob001,"Brendan Donovan",0,8,11
+play,8,0,donob001,00,.,NP
+sub,leitm002,"Mark Leiter Jr.",1,0,1
+play,8,0,donob001,01,..F>B,SB3;SB2
+play,8,0,donob001,32,..F>B.B*BF.*B,W
+play,8,0,fermj001,00,,NP
+sub,burla001,"Alec Burleson",0,9,11
+play,8,0,burla001,32,.BBBCC.X,6(1)3/GDP/G6
+com,"ej,burla001,P,kulpr901,Balls and strikes"
+com,"$Cardinals Alec Burleson ejected by HP umpire Ron Kulpa"
+com,"for arguing balls and strikes"
+play,8,1,suzus001,00,.,NP
+sub,gormn001,"Nolan Gorman",0,8,4
+play,8,1,suzus001,00,..,NP
+sub,herri001,"Ivan Herrera",0,9,2
+play,8,1,suzus001,00,...,NP
+sub,strac001,"Chris Stratton",0,0,1
+play,8,1,suzus001,22,....BSBCFX,53/G56
+play,8,1,morec001,22,CCBBC,K
+play,8,1,gomey001,12,CBFT,K
+play,9,0,nootl001,00,,NP
+sub,alzoa001,"Adbert Alzolay",1,0,1
+play,9,0,nootl001,11,.BCX,5/P5
+play,9,0,goldp001,11,CBX,9/L9LD
+play,9,0,arenn001,22,BCSFBX,E4/G34.B-1
+play,9,0,contw001,00,H,HP.1-2
+play,9,0,oneit001,10,BX,8/F8
+data,er,flahj002,4
+data,er,palla001,0
+data,er,strac001,0
+data,er,alzoa001,0
+data,er,leitm002,0
+data,er,fulmm001,0
+data,er,merrj001,1
+data,er,steej002,2
+id,CHN202308010
+version,2
+info,visteam,CIN
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/08/01
+info,number,0
+info,gametype,regular
+info,starttime,7:05PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,carlm901
+info,ump1b,gibsh902
+info,ump2b,thomd901
+info,ump3b,bakej902
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/10/06 09:13:06
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,speaa701
+info,temp,84
+info,winddir,tolf
+info,windspeed,8
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,174
+info,attendance,33452
+info,wp,steej002
+info,lp,liveb001
+info,save,
+start,delae003,"Elly De La Cruz",0,1,5
+start,senzn001,"Nick Senzel",0,2,7
+start,mclam001,"Matt McLain",0,3,6
+start,stees001,"Spencer Steer",0,4,3
+start,newmk001,"Kevin Newman",0,5,4
+start,encac001,"Christian Encarnacion-Strand",0,6,10
+start,stept001,"Tyler Stephenson",0,7,2
+start,friet001,"TJ Friedl",0,8,8
+start,fairs001,"Stuart Fairchild",0,9,9
+start,liveb001,"Ben Lively",0,0,1
+start,taucm001,"Mike Tauchman",1,1,9
+start,hoern001,"Nico Hoerner",1,2,4
+start,happi001,"Ian Happ",1,3,7
+start,bellc002,"Cody Bellinger",1,4,8
+start,swand001,"Dansby Swanson",1,5,6
+start,candj002,"Jeimer Candelario",1,6,3
+start,morec001,"Christopher Morel",1,7,10
+start,madrn001,"Nick Madrigal",1,8,5
+start,barnt001,"Tucker Barnhart",1,9,2
+start,steej002,"Justin Steele",1,0,1
+play,1,0,delae003,02,CTS,K
+play,1,0,senzn001,00,X,4/P8S
+play,1,0,mclam001,31,BBCBX,4/P34D
+play,1,1,taucm001,22,BBFS.X,S7/L78
+play,1,1,hoern001,12,BCCX,S48/G4+.1-3
+play,1,1,happi001,00,>B,SB2.3-H(E2/TH)(NR)
+play,1,1,happi001,31,>B.FBBB,W
+play,1,1,bellc002,22,BCBSX,S8/G4.2-H;1-3
+play,1,1,swand001,00,>C,SB2
+play,1,1,swand001,11,>C.*BX,HR/L9D.3-H;2-H
+play,1,1,candj002,21,BCBX,S4/G34
+play,1,1,morec001,01,SX,5/P56D
+play,1,1,madrn001,22,FF1BBX,S9/L9LS.1-2
+play,1,1,barnt001,11,CBX,46(1)3/GDP/G34
+play,2,0,stees001,01,CX,D8/L78XD
+play,2,0,newmk001,11,CBX,53/G56
+play,2,0,encac001,02,CFB,WP.2-3
+play,2,0,encac001,12,CFB.X,8/L8
+play,2,0,stept001,12,S*BSB,WP.3-H(NR)
+play,2,0,stept001,22,S*BSB.FX,S67/G56
+play,2,0,friet001,12,BFCB,WP.1-2
+play,2,0,friet001,22,BFCB.X,E3/G34.2-H(NR)(UR);B-2
+play,2,0,fairs001,02,CF*S,K
+play,2,1,taucm001,32,BCCBBB,W
+play,2,1,hoern001,00,>B,SB2.1-3(E2/TH)
+play,2,1,hoern001,10,>B.X,63/G6MS
+play,2,1,happi001,22,FBBFC,K
+play,2,1,bellc002,00,X,HR/F9LD.3-H
+play,2,1,swand001,10,BX,8/L8D+
+play,3,0,delae003,12,BFF*S,K
+play,3,0,senzn001,01,CX,S7/G5+
+play,3,0,mclam001,12,SBFX,S9/F9L.1-3
+play,3,0,stees001,12,C*SBX,5/L5D
+play,3,0,newmk001,12,A*BF>S,K
+play,3,1,candj002,11,CBX,S5/G56S-
+play,3,1,morec001,12,F1SBX,7/F7LS
+play,3,1,madrn001,01,CH,HP.1-2
+play,3,1,barnt001,22,FBSBFX,7/F7D
+play,3,1,taucm001,10,BX,HR/F78XD.2-H;1-H
+play,3,1,hoern001,01,CX,8/F89D
+play,4,0,encac001,00,X,S9/F89
+play,4,0,stept001,02,CFX,54(1)3/GDP/G56
+play,4,0,friet001,32,BBFBCX,7/F78
+play,4,1,happi001,11,CBX,7/F7D
+play,4,1,bellc002,12,FCBX,S8/G4
+play,4,1,swand001,31,BFB*BX,HR/F8XD.1-H
+play,4,1,candj002,11,BFX,D7/F7D
+play,4,1,morec001,00,X,63/G6
+play,4,1,madrn001,00,X,D7/L7LD+.2-H
+play,4,1,barnt001,32,CBFB*BS,K
+play,5,0,fairs001,01,TX,6/L6D
+play,5,0,delae003,22,BFFBC,K
+play,5,0,senzn001,00,X,E5/G56.B-1
+play,5,0,mclam001,11,BFX,D8/L78XD.1-H(UR)
+play,5,0,stees001,32,SBBFF*BX,63/G6
+play,5,1,taucm001,00,,NP
+sub,law-d001,"Derek Law",0,0,1
+play,5,1,taucm001,32,.CFB.BBB,W
+play,5,1,hoern001,02,SFX,9/F9D
+play,5,1,happi001,32,FB*BFBB,W.1-2
+play,5,1,bellc002,22,FBFBX,8/F8XD.2-3
+play,5,1,swand001,22,F*BS.*BS,K
+play,6,0,newmk001,12,CF.FBX,D7/L7LD
+play,6,0,encac001,32,BFBF.FFBX,43/G6M+.2-3
+play,6,0,stept001,01,SX,HR/F7D.3-H
+play,6,0,friet001,12,CF.BFS,K
+play,6,0,fairs001,12,SC.BX,53/G56S
+play,6,1,candj002,00,,NP
+sub,molls001,"Sam Moll",0,0,1
+play,6,1,candj002,02,.FT.FX,S7/F56D
+play,6,1,morec001,32,BBFFBS,K
+play,6,1,madrn001,01,CX,96(1)/FO/P3D.B-1
+play,6,1,barnt001,22,C.BC*BC,K
+play,7,0,delae003,00,,NP
+sub,wesnh001,"Hayden Wesneski",1,0,1
+play,7,0,delae003,30,.BBBB,W
+play,7,0,senzn001,01,FX,6/P6MD
+play,7,0,mclam001,22,BCSBS,K
+play,7,0,stees001,22,BC*BFX,53/G6
+play,7,1,taucm001,02,CSC,K
+play,7,1,hoern001,00,,NP
+sub,cruzf002,"Fernando Cruz",0,0,1
+play,7,1,hoern001,10,.BX,HR/F78XD
+play,7,1,happi001,20,BBX,D8/F7D
+play,7,1,bellc002,12,FFVFX,9/F89
+play,7,1,swand001,00,,NP
+sub,wisdp001,"Patrick Wisdom",1,5,11
+play,7,1,wisdp001,00,.,NP
+sub,maill001,"Luke Maile",0,0,1
+play,7,1,wisdp001,20,..BBX,HR/F8XD.2-H
+play,7,1,candj002,22,CBBSX,7/F78D
+play,8,0,newmk001,00,,NP
+sub,hoern001,"Nico Hoerner",1,2,6
+play,8,0,newmk001,00,.,NP
+sub,wisdp001,"Patrick Wisdom",1,5,5
+play,8,0,newmk001,00,..,NP
+sub,morec001,"Christopher Morel",1,7,7
+play,8,0,newmk001,00,...,NP
+sub,madrn001,"Nick Madrigal",1,8,4
+play,8,0,newmk001,00,....,NP
+sub,wesnh001,"Hayden Wesneski",1,3,1
+play,8,0,newmk001,00,.....X,43/G4
+play,8,0,encac001,00,X,7/L78D+
+play,8,0,stept001,32,CBBF.BX,9/F9D
+play,8,1,morec001,01,TX,D6/L7LD+
+play,8,1,madrn001,21,CBBX,7/F7D
+play,8,1,barnt001,12,CSBFFX,S7/L78.2-3
+play,8,1,taucm001,00,X,8/SF/F8D.3-H
+play,8,1,hoern001,11,BFX,S7/L7D+.1-2
+play,8,1,wesnh001,00,,NP
+sub,amaym001,"Miguel Amaya",1,3,11
+play,8,1,amaym001,32,.BCFBFB>F>X,HR/F7D.2-H;1-H
+play,8,1,bellc002,10,BX,8/F8XD+
+play,9,0,friet001,00,,NP
+sub,kay-a001,"Anthony Kay",1,3,1
+play,9,0,friet001,00,.X,63/G6
+play,9,0,fairs001,10,BX,8/F89S
+play,9,0,delae003,00,X,S7/L78
+play,9,0,senzn001,32,FFF*BBFFFFB>B,W.1-2
+play,9,0,mclam001,21,BBCX,S8/G6M.2-H;1-2
+play,9,0,stees001,11,BCX,D7/L5D.2-H;1-3
+play,9,0,newmk001,30,BBBB,W
+play,9,0,encac001,10,BX,S7/L7+.3-H;2-H;1-2
+play,9,0,stept001,12,CBFX,4/P89S
+data,er,liveb001,13
+data,er,cruzf002,2
+data,er,maill001,5
+data,er,law-d001,0
+data,er,molls001,0
+data,er,kay-a001,4
+data,er,wesnh001,0
+data,er,steej002,3
+id,CHN202308060
+version,2
+info,visteam,ATL
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/08/06
+info,number,0
+info,gametype,regular
+info,starttime,1:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,hudsm901
+info,ump1b,wendh902
+info,ump2b,tumpj901
+info,ump3b,blakr901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/08/25 09:03:59
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,jackj702
+info,temp,68
+info,winddir,fromlf
+info,windspeed,5
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,172
+info,attendance,39015
+info,wp,steej002
+info,lp,mortc002
+info,save,alzoa001
+start,acunr001,"Ronald Acuna Jr.",0,1,9
+start,albio001,"Ozzie Albies",0,2,4
+start,rilea001,"Austin Riley",0,3,5
+start,olsom001,"Matt Olson",0,4,3
+start,darnt001,"Travis d'Arnaud",0,5,2
+start,ozunm001,"Marcell Ozuna",0,6,10
+start,arcio002,"Orlando Arcia",0,7,6
+start,pillk001,"Kevin Pillar",0,8,7
+start,harrm004,"Michael Harris II",0,9,8
+start,mortc002,"Charlie Morton",0,0,1
+start,taucm001,"Mike Tauchman",1,1,9
+start,hoern001,"Nico Hoerner",1,2,4
+start,happi001,"Ian Happ",1,3,7
+start,bellc002,"Cody Bellinger",1,4,8
+start,swand001,"Dansby Swanson",1,5,6
+start,candj002,"Jeimer Candelario",1,6,3
+start,morec001,"Christopher Morel",1,7,10
+start,madrn001,"Nick Madrigal",1,8,5
+start,amaym001,"Miguel Amaya",1,9,2
+start,steej002,"Justin Steele",1,0,1
+play,1,0,acunr001,12,SFBS,K
+play,1,0,albio001,10,BX,S7/L7
+play,1,0,rilea001,01,CX,54(1)/FO/G5.B-1
+play,1,0,olsom001,31,CBBBB,W.1-2
+play,1,0,darnt001,12,FSBS,K
+play,1,1,taucm001,22,BBFS.X,7/F7D
+play,1,1,hoern001,02,CSC,K
+play,1,1,happi001,22,SCBBS,K
+play,2,0,ozunm001,02,.FFF*S,K.BX1(23)
+play,2,0,arcio002,21,BBCX,S9/L9
+play,2,0,pillk001,12,BFFS,K
+play,2,0,harrm004,22,CBBCC,K
+play,2,1,bellc002,32,CBS.BFFBX,7/F7L
+play,2,1,swand001,10,VX,3/P13
+play,2,1,candj002,32,BCSBBB,W
+play,2,1,morec001,02,SS>B,SB2
+play,2,1,morec001,12,SS>B.S,K
+play,3,0,acunr001,01,CX,S8/L8
+play,3,0,albio001,22,BFBF1>S,K+SB2
+play,3,0,rilea001,11,BFX,9/F9D.2-3
+play,3,0,olsom001,32,BSF*BBX,HR/F9D.3-H
+play,3,0,darnt001,32,BFFFFBFFBX,63/G6
+play,3,1,madrn001,22,CS.BBC,K
+play,3,1,amaym001,31,BBFBB,W
+play,3,1,taucm001,22,CBC.*BX,S8/L8+.1-2
+play,3,1,hoern001,22,CBC*BFH,HP.2-3;1-2
+play,3,1,happi001,02,SFX,6(1)/FO/G6M.3-H;2-3;B-1
+play,3,1,bellc002,30,BBBB,W.1-2
+play,3,1,swand001,32,BCBBS.>F>B,W.3-H;2-3;1-2
+play,3,1,candj002,01,CX,7/F7
+play,4,0,ozunm001,22,CBFBC,K
+play,4,0,arcio002,31,BCBBB,W
+play,4,0,pillk001,12,FBFX,8/L8/DP.1X1(83)
+play,4,1,morec001,12,CCBX,7/L78D+
+play,4,1,madrn001,10,BX,9/F9LS
+play,4,1,amaym001,32,CCBBBX,7/F7D
+play,5,0,harrm004,12,CFFBX,8/L8XD+
+play,5,0,acunr001,00,X,D9/L9L
+play,5,0,albio001,00,X,S9/L9.2XH(92)
+play,5,0,rilea001,10,BX,E5/TH/G5.1-2;B-1
+com,"$Cubs challenged (play at 1st), call on the field was upheld."
+play,5,0,olsom001,11,FBX,S7/G56.2-H(UR);1-2
+play,5,0,darnt001,11,S*BX,9/F89D
+play,5,1,taucm001,01,CX,S8/L89
+play,5,1,hoern001,00,>C,SB2
+play,5,1,hoern001,21,>C.BBX,43/G4.2-3
+play,5,1,happi001,31,BBCBX,S8/L78D+.3-H
+play,5,1,bellc002,32,B1BBCC>F>X,D9/G3.1-H
+play,5,1,swand001,00,,NP
+sub,mchuc001,"Collin McHugh",0,0,1
+play,5,1,swand001,00,.X,63/G56D
+play,5,1,candj002,11,CBX,S8/L89.2-H
+play,5,1,morec001,32,CBFBB>F>B,W.1-2
+play,5,1,madrn001,01,CX,7/L78
+play,6,0,ozunm001,32,BCSBBB,W
+play,6,0,arcio002,31,CBBB*B,W.1-2
+play,6,0,pillk001,02,.FFX,7/L7
+play,6,0,harrm004,22,CS*BFF*BX,S7/L7.2-3;1-2
+play,6,0,acunr001,00,,NP
+sub,fulmm001,"Michael Fulmer",1,0,1
+play,6,0,acunr001,11,.CBH,HP.3-H;2-3;1-2
+play,6,0,albio001,22,FBBFFFFC,K
+play,6,0,rilea001,32,CSBBFB>S,K
+play,6,1,amaym001,00,,NP
+sub,handb001,"Brad Hand",0,0,1
+play,6,1,amaym001,22,.BSBCFX,9/F9S
+play,6,1,taucm001,21,BCBX,9/L9D+
+play,6,1,hoern001,21,BCBX,8/F89XD
+play,7,0,olsom001,00,,NP
+sub,cuasj001,"Jose Cuas",1,0,1
+play,7,0,olsom001,12,.CBS.X,63/G6MD
+play,7,0,darnt001,22,BSBSS,K
+play,7,0,ozunm001,21,BFBX,S8/L8D+
+play,7,0,arcio002,22,BCFBS,K
+play,7,1,happi001,00,,NP
+sub,jimej003,"Joe Jimenez",0,0,1
+play,7,1,happi001,10,.BX,7/F78
+play,7,1,bellc002,01,CX,S9/L89
+play,7,1,swand001,12,*BSS.>B,SB2
+play,7,1,swand001,22,*BSS.>B.X,D7/L7L.2-H
+play,7,1,candj002,32,SBS.BBB,W
+play,7,1,morec001,12,CCFBX,6/F7LSF/FL
+play,7,1,madrn001,00,X,63/G6
+play,8,0,pillk001,00,,NP
+sub,rosae001,"Eddie Rosario",0,8,11
+play,8,0,rosae001,00,.,NP
+sub,leitm002,"Mark Leiter Jr.",1,0,1
+play,8,0,rosae001,01,..CX,9/L89D+
+play,8,0,harrm004,02,CC*S,K
+play,8,0,acunr001,10,BX,9/F9L
+play,8,1,amaym001,00,,NP
+sub,rosae001,"Eddie Rosario",0,8,7
+play,8,1,amaym001,00,.,NP
+sub,yatek001,"Kirby Yates",0,0,1
+play,8,1,amaym001,31,..BBBCB,W
+play,8,1,taucm001,00,,NP
+sub,wisdp001,"Patrick Wisdom",1,9,12
+play,8,1,taucm001,00,.X,8/L8D+
+play,8,1,hoern001,00,1>B,CS2(24)
+play,8,1,hoern001,30,1>B.BBB,W
+play,8,1,happi001,00,1>B,SB2
+play,8,1,happi001,30,1>B.BBX,8/F89D
+play,9,0,albio001,00,,NP
+sub,barnt001,"Tucker Barnhart",1,9,2
+play,9,0,albio001,00,.,NP
+sub,alzoa001,"Adbert Alzolay",1,0,1
+play,9,0,albio001,02,..SCFX,D9/L9LD+
+play,9,0,rilea001,12,*SBSC,K
+play,9,0,olsom001,00,X,6/F56D
+play,9,0,darnt001,01,SX,63/G6
+data,er,mchuc001,0
+data,er,jimej003,1
+data,er,yatek001,0
+data,er,handb001,0
+data,er,mortc002,5
+data,er,alzoa001,0
+data,er,cuasj001,0
+data,er,leitm002,0
+data,er,fulmm001,0
+data,er,steej002,3
+id,CHN202308190
+version,2
+info,visteam,KCA
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/08/19
+info,number,0
+info,gametype,regular
+info,starttime,1:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,millb901
+info,ump1b,whitc901
+info,ump2b,ortir901
+info,ump3b,drakr901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/09/10 09:03:15
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,lissr701
+info,temp,80
+info,winddir,tolf
+info,windspeed,13
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,154
+info,attendance,39525
+info,wp,steej002
+info,lp,singb001
+info,save,alzoa001
+start,melem001,"MJ Melendez",0,1,10
+start,wittb002,"Bobby Witt Jr.",0,2,6
+start,massm001,"Michael Massey",0,3,4
+start,peres002,"Salvador Perez",0,4,3
+start,fermf002,"Freddy Fermin",0,5,2
+start,duffm002,"Matt Duffy",0,6,5
+start,tayls003,"Samad Taylor",0,7,7
+start,wated001,"Drew Waters",0,8,8
+start,bland001,"Dairon Blanco",0,9,9
+start,singb001,"Brady Singer",0,0,1
+start,taucm001,"Mike Tauchman",1,1,8
+start,hoern001,"Nico Hoerner",1,2,4
+start,happi001,"Ian Happ",1,3,7
+start,bellc002,"Cody Bellinger",1,4,3
+start,swand001,"Dansby Swanson",1,5,6
+start,morec001,"Christopher Morel",1,6,10
+start,candj002,"Jeimer Candelario",1,7,5
+start,suzus001,"Seiya Suzuki",1,8,9
+start,gomey001,"Yan Gomes",1,9,2
+start,steej002,"Justin Steele",1,0,1
+play,1,0,melem001,32,BBBCS.FT,K
+play,1,0,wittb002,01,CX,S5/G56
+com,"$Royals challenged (play at 1st), call on the field was overturned."
+play,1,0,massm001,22,CBBFX,46(1)3/GDP/G34
+play,1,1,taucm001,22,CBBS.X,31/G3
+play,1,1,hoern001,12,CBCX,E6/G6.B-1
+play,1,1,happi001,00,>C,SB2
+com,"$Cubs challenged (tag play), call on the field was overturned."
+play,1,1,happi001,21,>C.*BBX,8/F8D
+play,1,1,bellc002,22,CC*BFBX,HR/F7D+.2-H(UR);B-H(UR)
+play,1,1,swand001,22,SC.BBX,S8/G6M
+play,1,1,morec001,12,B1S.CFFS,K
+play,2,0,peres002,20,BBX,S8/L8D+
+play,2,0,fermf002,01,CX,D7/G5+.1-3
+play,2,0,duffm002,02,CCFX,43/G34.3-H;2-3
+play,2,0,tayls003,01,SX,53/G56
+play,2,0,wated001,00,X,53/G5
+play,2,1,candj002,12,FSBX,T9/L9LD
+play,2,1,suzus001,12,CCBX,8/SF/L8D.3-H
+play,2,1,gomey001,12,CSBX,S8/G4M
+play,2,1,taucm001,20,BBX,S9/G34.1-2
+play,2,1,hoern001,12,C*SFBX,64(1)/FO/G6.2-3;B-1
+play,2,1,happi001,10,BX,46(1)/FO/G4.B-1
+play,3,0,bland001,32,CBBFBX,8/L8D
+play,3,0,melem001,12,SCBS,K
+play,3,0,wittb002,01,CX,53/G56
+play,3,1,bellc002,11,BCX,HR/F78XD+
+play,3,1,swand001,02,SSX,13/G13
+play,3,1,morec001,12,BFFS,K
+play,3,1,candj002,11,BFX,43/G34
+play,4,0,massm001,01,CX,D7/F78D
+play,4,0,peres002,22,F*BFBFFS,K
+play,4,0,fermf002,22,SCF*BBF.FFF*S,K
+play,4,0,duffm002,02,FS.B,WP.2-3
+play,4,0,duffm002,12,FS.B.C,K
+play,4,1,suzus001,21,CBBX,S5/G25-
+play,4,1,gomey001,30,BBBB,W.1-2
+play,4,1,taucm001,22,CCFBBS,K
+play,4,1,hoern001,11,BS>X,S4/G4.2-3;1-2
+play,4,1,happi001,00,X,S9/L9S.3-H;2-3;1-2
+play,4,1,bellc002,02,STX,7/SF/F7L.3-H
+play,4,1,swand001,30,BBB>C,SB3;SB2
+play,4,1,swand001,31,BBB>C.B,W
+play,4,1,morec001,00,,NP
+sub,davit005,"Tucker Davidson",0,0,1
+play,4,1,morec001,00,.X,63/G6-
+play,5,0,tayls003,22,CCB.BFFS,K
+play,5,0,wated001,20,BBX,63/G6D
+play,5,0,bland001,01,CX,S8/L8
+play,5,0,melem001,32,BFBFB>X,3/G3
+play,5,1,candj002,02,CCC,K
+play,5,1,suzus001,31,CBBBX,43/G4D
+play,5,1,gomey001,02,CSS,K
+play,6,0,wittb002,01,CX,S7/G56
+play,6,0,massm001,00,>C,SB2
+play,6,0,massm001,22,>C.*BFBX,3/G3.2-3
+play,6,0,peres002,02,SSFFH,HP
+play,6,0,fermf002,01,SX,53/G56S.3-H;1-2
+play,6,0,duffm002,12,CF*BFFC,K
+play,6,1,taucm001,00,,NP
+sub,heart001,"Taylor Hearn",0,0,1
+play,6,1,taucm001,22,.CBBFX,43/G4
+play,6,1,hoern001,12,BFCS,K
+play,6,1,happi001,00,X,7/F78D
+play,7,0,tayls003,00,,NP
+sub,merrj001,"Julian Merryweather",1,0,1
+play,7,0,tayls003,02,.CC.*S,K
+play,7,0,wated001,32,CBBFFBB,W
+play,7,0,bland001,30,BBBB,W.1-2
+play,7,0,melem001,12,C*S*BC,K
+play,7,0,wittb002,02,CFX,S9/G4.2-H;1-3
+play,7,0,massm001,00,>C,SB2
+play,7,0,massm001,12,>C.C*BS,K
+play,7,1,bellc002,00,,NP
+sub,mcmij001,"John McMillon",0,0,1
+play,7,1,bellc002,31,.BCBBX,5/P5
+play,7,1,swand001,12,CS.BS,K
+play,7,1,morec001,12,BCFS,K
+play,8,0,peres002,00,,NP
+sub,fulmm001,"Michael Fulmer",1,0,1
+play,8,0,peres002,21,.BTBX,S7/G5
+play,8,0,fermf002,10,BX,6/P7S
+play,8,0,duffm002,02,SS.B,WP.1-2
+play,8,0,duffm002,32,SS.B.BBX,9/L9
+play,8,0,tayls003,00,,NP
+sub,isbek001,"Kyle Isbel",0,7,11
+play,8,0,isbek001,00,.,NP
+sub,leitm002,"Mark Leiter Jr.",1,0,1
+play,8,0,isbek001,11,..CBX,D9/L9LD+.2-H
+play,8,0,wated001,22,*BFBSS,K
+play,8,1,candj002,00,,NP
+sub,isbek001,"Kyle Isbel",0,7,8
+play,8,1,candj002,00,.,NP
+sub,wated001,"Drew Waters",0,8,9
+play,8,1,candj002,00,..,NP
+sub,bland001,"Dairon Blanco",0,9,7
+play,8,1,candj002,00,...,NP
+sub,kowaj001,"Jackson Kowar",0,0,1
+play,8,1,candj002,11,....BCX,9/L89
+play,8,1,suzus001,11,FBX,53/G56
+play,8,1,gomey001,12,FBSX,53/G56
+play,9,0,bland001,00,,NP
+sub,alzoa001,"Adbert Alzolay",1,0,1
+play,9,0,bland001,22,.BBSCX,6/P6M
+play,9,0,melem001,32,BBFBFFFX,S9/L9L
+play,9,0,wittb002,02,SSS,K
+play,9,0,massm001,01,C>X,53/G6
+data,er,mcmij001,0
+data,er,kowaj001,0
+data,er,singb001,4
+data,er,heart001,0
+data,er,davit005,0
+data,er,alzoa001,0
+data,er,leitm002,0
+data,er,fulmm001,1
+data,er,merrj001,1
+data,er,steej002,2
+id,CHN202308290
+version,2
+info,visteam,MIL
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/08/29
+info,number,0
+info,gametype,regular
+info,starttime,7:05PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,libkj901
+info,ump1b,reybd901
+info,ump2b,herna901
+info,ump3b,hoyej901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/09/10 09:03:17
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,speaa701
+info,temp,70
+info,winddir,fromlf
+info,windspeed,17
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,150
+info,attendance,33294
+info,wp,steej002
+info,lp,burnc002
+info,save,alzoa001
+start,yelic001,"Christian Yelich",0,1,7
+start,contw002,"William Contreras",0,2,10
+start,canhm001,"Mark Canha",0,3,3
+start,adamw002,"Willy Adames",0,4,6
+start,monaa001,"Andruw Monasterio",0,5,5
+start,wiemj001,"Joey Wiemer",0,6,8
+start,carav001,"Victor Caratini",0,7,2
+start,turab002,"Brice Turang",0,8,4
+start,taylt002,"Tyrone Taylor",0,9,9
+start,burnc002,"Corbin Burnes",0,0,1
+start,taucm001,"Mike Tauchman",1,1,8
+start,hoern001,"Nico Hoerner",1,2,4
+start,happi001,"Ian Happ",1,3,7
+start,bellc002,"Cody Bellinger",1,4,3
+start,swand001,"Dansby Swanson",1,5,6
+start,suzus001,"Seiya Suzuki",1,6,9
+start,candj002,"Jeimer Candelario",1,7,5
+start,morec001,"Christopher Morel",1,8,10
+start,gomey001,"Yan Gomes",1,9,2
+start,steej002,"Justin Steele",1,0,1
+play,1,0,yelic001,32,BBBCFB,W
+play,1,0,contw002,20,BBX,4/P3D
+play,1,0,canhm001,12,CBCFX,S5/G6S.1-2
+com,"$Brewers challenged (play at 1st), call on the field was overturned."
+play,1,0,adamw002,02,FSF.FB,WP.2-3;1-2
+play,1,0,adamw002,22,FSF.FB.FFBX,4/L4M
+play,1,0,monaa001,12,TCFBF*S,K
+play,1,1,taucm001,01,CX,53/G56S
+play,1,1,hoern001,00,H,HP
+play,1,1,happi001,00,1X,D8/L8D.1-3
+play,1,1,bellc002,22,BBSSX,43/G34.3-H;2-3
+play,1,1,swand001,00,X,143/G4
+play,2,0,wiemj001,02,CC*S,K.BX1(23)
+play,2,0,carav001,10,BX,S15/L1+
+play,2,0,turab002,21,BCBX,S7/L7.1-2
+play,2,0,taylt002,22,FC*BBFX,54(1)3/GDP/G56
+play,2,1,suzus001,32,BBCB.FFB,W
+play,2,1,candj002,12,*BF11.FT,K
+play,2,1,morec001,12,S1BFS,K
+play,2,1,gomey001,22,F1S*B1BX,53/G56
+play,3,0,yelic001,32,BCTBBX,8/L8D+
+play,3,0,contw002,01,CX,S9/F89S
+play,3,0,canhm001,22,BCBCFFX,S8/L89.1-2
+play,3,0,adamw002,12,CBFS,K
+play,3,0,monaa001,12,SF*BS,K
+play,3,1,taucm001,11,CBX,43/G4
+play,3,1,hoern001,12,SBSFX,43/G4
+play,3,1,happi001,12,BCSS,K
+play,4,0,wiemj001,00,X,63/G6
+play,4,0,carav001,22,BBFS.FFS,K
+play,4,0,turab002,01,CX,8/F89D
+play,4,1,bellc002,12,BCSX,9/L89D
+play,4,1,swand001,11,CBX,S7/L7S+
+play,4,1,suzus001,01,FX,54(1)3/GDP/G5
+play,5,0,taylt002,11,BFX,7/F7LD+
+play,5,0,yelic001,12,SFFFFBS,K
+play,5,0,contw002,32,CBS.BFBX,63/G6
+play,5,1,candj002,31,BCBBX,53/G56+
+play,5,1,morec001,00,X,S7/G56+
+play,5,1,gomey001,10,B>X,S9/G34.1-3
+play,5,1,taucm001,31,BBCBB,W.1-2
+play,5,1,hoern001,12,BSCX,5/L56/DP.3X3(5)
+play,6,0,canhm001,12,CBFFF.X,63/G6
+play,6,0,adamw002,02,FFS,K
+play,6,0,monaa001,02,CFX,S8/L89D+
+play,6,0,wiemj001,12,CFFBS,K
+play,6,1,happi001,21,BCBX,S9/G3
+play,6,1,bellc002,00,X,46(1)/FO/G4+.B-1
+play,6,1,swand001,12,CB1>FX,S7/G56.1-2
+play,6,1,suzus001,32,*BF*BBCC,K
+play,6,1,candj002,02,CF*S,K
+play,7,0,carav001,00,,NP
+sub,leitm002,"Mark Leiter Jr.",1,0,1
+play,7,0,carav001,22,.BBCF.S,K
+play,7,0,turab002,00,X,4/F89S
+play,7,0,taylt002,21,CBBX,6/P6MD
+play,7,1,morec001,22,SBFFBC,K
+play,7,1,gomey001,02,FFX,S4/G6M
+play,7,1,taucm001,22,BSBC.FX,S7/L78S.1-2
+play,7,1,hoern001,20,BBX,3/P3F/FL
+play,7,1,happi001,12,BFC*S,K.BX1(23)
+play,8,0,yelic001,00,,NP
+sub,merrj001,"Julian Merryweather",1,0,1
+play,8,0,yelic001,00,.X,S5/BG5S
+play,8,0,contw002,12,CCB1X,8/F89XD+
+play,8,0,canhm001,00,>C,CS2(24)
+play,8,0,canhm001,02,>C.CS,K
+play,8,1,bellc002,00,,NP
+sub,uriba001,"Abner Uribe",0,0,1
+play,8,1,bellc002,22,.BS.BSX,31/G34S
+play,8,1,swand001,32,BCSB.BFFX,9/F9S
+play,8,1,suzus001,12,BCS.S,K
+play,9,0,adamw002,00,,NP
+sub,alzoa001,"Adbert Alzolay",1,0,1
+play,9,0,adamw002,21,.BFBX,8/F8XD+
+play,9,0,monaa001,00,,NP
+sub,frels001,"Sal Frelick",0,5,11
+play,9,0,frels001,02,.CTS,K
+play,9,0,wiemj001,00,,NP
+sub,tellr001,"Rowdy Tellez",0,6,11
+play,9,0,tellr001,12,.CBS.X,7/L78
+data,er,uriba001,0
+data,er,burnc002,1
+data,er,alzoa001,0
+data,er,leitm002,0
+data,er,merrj001,0
+data,er,steej002,0
+id,CHN202309040
+version,2
+info,visteam,SFN
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/09/04
+info,number,0
+info,gametype,regular
+info,starttime,1:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,kulpr901
+info,ump1b,viscj901
+info,ump2b,torrc901
+info,ump3b,blasc901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/09/14 09:03:11
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,jackj702
+info,temp,89
+info,winddir,tocf
+info,windspeed,4
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,119
+info,attendance,39452
+info,wp,steej002
+info,lp,webbl001
+info,save,
+start,slata001,"Austin Slater",0,1,8
+start,estrt001,"Thairo Estrada",0,2,4
+start,florw001,"Wilmer Flores",0,3,3
+start,hanim001,"Mitch Haniger",0,4,7
+start,bailp001,"Patrick Bailey",0,5,2
+start,davij006,"J.D. Davis",0,6,10
+start,schmc003,"Casey Schmitt",0,7,5
+start,dejop001,"Paul DeJong",0,8,6
+start,yastm001,"Mike Yastrzemski",0,9,9
+start,webbl001,"Logan Webb",0,0,1
+start,taucm001,"Mike Tauchman",1,1,8
+start,hoern001,"Nico Hoerner",1,2,4
+start,happi001,"Ian Happ",1,3,7
+start,bellc002,"Cody Bellinger",1,4,10
+start,swand001,"Dansby Swanson",1,5,6
+start,suzus001,"Seiya Suzuki",1,6,9
+start,candj002,"Jeimer Candelario",1,7,3
+start,gomey001,"Yan Gomes",1,8,2
+start,madrn001,"Nick Madrigal",1,9,5
+start,steej002,"Justin Steele",1,0,1
+play,1,0,slata001,02,CSFX,3/L34
+play,1,0,estrt001,12,BCFS,K
+play,1,0,florw001,32,FBBBCF.FB,W
+play,1,0,hanim001,22,FSBBC,K
+play,1,1,taucm001,02,CC.S,K
+play,1,1,hoern001,12,BCS.X,53/G6S
+play,1,1,happi001,30,BBBB,W
+play,1,1,bellc002,01,CX,5/P56
+play,2,0,bailp001,20,BBX,53/G5
+play,2,0,davij006,22,CBSBS,K
+play,2,0,schmc003,11,BCX,S9/L9S
+play,2,0,dejop001,12,CFBS,K
+play,2,1,swand001,22,CBF.FBC,K
+play,2,1,suzus001,12,CFBX,HR/F89XD
+play,2,1,candj002,12,CFB.X,43/G34
+play,2,1,gomey001,00,X,43/G4+
+play,3,0,yastm001,22,CBBF.S,K
+play,3,0,slata001,12,SBCC,K
+play,3,0,estrt001,00,X,63/G6
+play,3,1,madrn001,02,CF.X,53/G56+
+play,3,1,taucm001,11,CBX,31/G34
+play,3,1,hoern001,11,BS.X,63/G6
+play,4,0,florw001,22,SBBF.X,53/G5
+play,4,0,hanim001,22,CBBFF*S,K.BX1(23)
+play,4,0,bailp001,22,BCBCFS,K
+play,4,1,happi001,00,X,7/F78
+play,4,1,bellc002,21,BFBX,8/L89XD
+play,4,1,swand001,22,CFBBFFS,K
+play,5,0,davij006,00,X,63/G6S
+play,5,0,schmc003,10,BX,63/G6M+
+play,5,0,dejop001,00,X,9/L9D
+play,5,1,suzus001,12,CFBX,9/L89D
+play,5,1,candj002,22,BCFBX,63/G6M
+play,5,1,gomey001,02,CFX,D8/L78XD+
+play,5,1,madrn001,10,BX,53/G56
+play,6,0,yastm001,22,SBFB.FFFS,K
+play,6,0,slata001,01,FX,63/G6
+play,6,0,estrt001,21,BFBX,7/L7D+
+play,6,1,taucm001,02,FCC,K
+play,6,1,hoern001,02,CF.FFX,63/G6M+
+play,6,1,happi001,21,BBSX,3/G3+
+play,7,0,florw001,32,BBCCBFS,K
+play,7,0,hanim001,00,X,53/G56
+play,7,0,bailp001,02,CT.S,K
+play,7,1,bellc002,32,BBBCCX,S8/G4+
+play,7,1,swand001,10,B>X,63/G6.1-2
+play,7,1,suzus001,22,CFBBX,D8/L89XD+.2-H
+play,7,1,candj002,10,BX,9/L9+
+play,7,1,gomey001,21,BFBX,S8/L8.2-H
+play,7,1,madrn001,00,,NP
+sub,beckt002,"Tristan Beck",0,0,1
+play,7,1,madrn001,31,.BCB.*BX,53/G56
+play,8,0,davij006,32,BBCSFFBB,W
+play,8,0,schmc003,00,X,54(1)3/GDP/G5
+play,8,0,dejop001,01,CX,S7/L7S+
+play,8,0,yastm001,02,CFFS,K
+play,8,1,taucm001,30,BBBB,W
+play,8,1,hoern001,11,CBX,7/L7D
+play,8,1,happi001,30,BBBX,7/F7D
+play,8,1,bellc002,01,.CX,FC4/G4.1-2(E4);B-1
+play,8,1,swand001,00,X,D7/F78.2-H(UR);1-3
+play,8,1,suzus001,32,CCFBBBFX,FC/G56-.3-H(UR);2X3(5);B-1
+play,9,0,slata001,00,,NP
+sub,cuasj001,"Jose Cuas",1,0,1
+play,9,0,slata001,00,.,NP
+sub,meckw001,"Wade Meckler",0,1,11
+play,9,0,meckw001,21,..CBBX,43/G34D
+play,9,0,estrt001,22,BBCSX,3/L34+
+play,9,0,florw001,22,BBFFS,K
+data,er,webbl001,3
+data,er,beckt002,0
+data,er,cuasj001,0
+data,er,steej002,0
+id,CHN202309090
+version,2
+info,visteam,ARI
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/09/09
+info,number,0
+info,gametype,regular
+info,starttime,1:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,sches901
+info,ump1b,wegnm901
+info,ump2b,moorm901
+info,ump3b,drecb901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/10/06 09:13:08
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,jackj702
+info,temp,70
+info,winddir,ltor
+info,windspeed,4
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,192
+info,attendance,40391
+info,wp,ginkk001
+info,lp,paled001
+info,save,sewap001
+start,martk001,"Ketel Marte",0,1,4
+start,lawlj001,"Jordan Lawlar",0,2,6
+start,phamt001,"Tommy Pham",0,3,9
+start,walkc002,"Christian Walker",0,4,3
+start,gurrl001,"Lourdes Gurriel Jr.",0,5,7
+start,longe001,"Evan Longoria",0,6,10
+start,carrc005,"Corbin Carroll",0,7,8
+start,rivee001,"Emmanuel Rivera",0,8,5
+start,moreg001,"Gabriel Moreno",0,9,2
+start,kellm002,"Merrill Kelly",0,0,1
+start,taucm001,"Mike Tauchman",1,1,8
+start,hoern001,"Nico Hoerner",1,2,4
+start,happi001,"Ian Happ",1,3,7
+start,bellc002,"Cody Bellinger",1,4,3
+start,swand001,"Dansby Swanson",1,5,6
+start,suzus001,"Seiya Suzuki",1,6,9
+start,candj002,"Jeimer Candelario",1,7,10
+start,gomey001,"Yan Gomes",1,8,2
+start,madrn001,"Nick Madrigal",1,9,5
+start,steej002,"Justin Steele",1,0,1
+play,1,0,martk001,01,FX,S7/L7
+play,1,0,lawlj001,01,FX,54(1)/FO/G5.B-1
+play,1,0,phamt001,22,F1F*BBX,9/F9
+play,1,0,walkc002,00,>C,SB2
+play,1,0,walkc002,22,>C.BSBFS,K
+play,1,1,taucm001,32,BCBBFB,W
+play,1,1,hoern001,02,C.FS,K
+play,1,1,happi001,02,TF.1X,4/P3D
+play,1,1,bellc002,00,X,8/F89XD
+play,2,0,gurrl001,22,.FSBFFBFX,63/G6
+play,2,0,longe001,02,.CSX,S8/L8D+
+play,2,0,carrc005,12,BCFT,K
+play,2,0,rivee001,32,CBCBB>T,K
+play,2,1,swand001,10,BX,63/G6
+play,2,1,suzus001,31,BFBBB,W
+play,2,1,candj002,22,B1FFB>B,SB2
+play,2,1,candj002,32,B1FFB>B.FFB,W
+play,2,1,gomey001,22,BFSBS,K
+play,2,1,madrn001,00,X,43/G4
+play,3,0,moreg001,32,BBFBCFX,D8/L78D+
+play,3,0,martk001,11,BCX,63/G6
+play,3,0,lawlj001,02,FS.S,K
+play,3,0,phamt001,01,CX,9/F9S
+play,3,1,taucm001,11,BSX,43/G4
+play,3,1,hoern001,10,BX,S5/BG25-
+play,3,1,happi001,22,C1BBS1>FC,K
+play,3,1,bellc002,00,X,S4/P6M.1-H
+play,3,1,swand001,21,BSB>B,SB2
+play,3,1,swand001,32,BSB>B.F.FC,K
+play,4,0,walkc002,32,BBC.BCFS,K
+play,4,0,gurrl001,00,X,S8/L8
+play,4,0,longe001,01,FX,54(1)3/GDP/G56
+play,4,1,suzus001,12,CBC.X,63/G6
+play,4,1,candj002,32,SBSBFFBB,W
+play,4,1,gomey001,12,BF>FFFFFFX,64(1)3/GDP/G6
+play,5,0,carrc005,11,FB.X,S8/L78D
+play,5,0,rivee001,00,>C,SB2
+play,5,0,rivee001,02,>C.FX,S8/G6M.2-3
+play,5,0,moreg001,12,FBFX,53/G56S-.3-H;1-2
+play,5,0,martk001,22,FFBBFX,3/P23
+play,5,0,lawlj001,12,FBS.S,K
+play,5,1,madrn001,01,CX,63/G6
+play,5,1,taucm001,32,CBFBBX,8/F8XD+
+play,5,1,hoern001,00,X,4/P34
+play,6,0,phamt001,22,BBFFFX,53/G56S
+play,6,0,walkc002,00,X,63/G6
+play,6,0,gurrl001,01,CX,43/G34
+play,6,1,happi001,01,CX,S9/L9LS
+play,6,1,bellc002,22,CBB*SF1C,K
+play,6,1,swand001,00,X,S57/G56.1-2
+play,6,1,suzus001,32,CBFB*BT,K
+play,6,1,candj002,32,CFBBB>B,W.2-3;1-2
+play,6,1,gomey001,00,,NP
+sub,thomr007,"Ryan Thompson",0,0,1
+play,6,1,gomey001,21,.BBCX,8/F8S
+play,7,0,longe001,00,X,7/F7D
+play,7,0,carrc005,01,FX,63/G4MS
+play,7,0,rivee001,10,BX,9/F9D
+play,7,1,madrn001,00,,NP
+sub,perdg001,"Geraldo Perdomo",0,1,4
+play,7,1,madrn001,01,.CX,53/G6S
+play,7,1,taucm001,22,SBBF.FFFX,5/P56
+play,7,1,hoern001,12,CFBX,53/G56
+play,8,0,moreg001,00,,NP
+sub,merrj001,"Julian Merryweather",1,0,1
+play,8,0,moreg001,12,.FS.BFX,9/F9LS
+play,8,0,perdg001,32,CS.BBBB,W
+play,8,0,lawlj001,12,1S.BCC,K
+com,"$D-backs second baseman Ketel Marte left the game due to an injured knee."
+play,8,0,phamt001,02,F1.SS,K
+play,8,1,happi001,00,,NP
+sub,saala001,"Andrew Saalfrank",0,0,1
+play,8,1,happi001,11,.SBX,13/G1-
+play,8,1,bellc002,01,S.X,7/L7D
+play,8,1,swand001,01,CX,S7/L7
+play,8,1,suzus001,21,*BBFX,54(1)/FO/G56.B-1
+play,9,0,walkc002,00,,NP
+sub,alzoa001,"Adbert Alzolay",1,0,1
+play,9,0,walkc002,01,.SX,7/F7D+
+play,9,0,gurrl001,00,X,6/L56D+
+play,9,0,longe001,00,,NP
+sub,smitp002,"Pavin Smith",0,6,11
+play,9,0,smitp002,32,.FBBFB.FB,W
+play,9,0,carrc005,02,FF>F1>X,S8/G4.1-3
+play,9,0,rivee001,00,,NP
+sub,petej002,"Jace Peterson",0,8,11
+play,9,0,petej002,00,.>B,SB2
+play,9,0,petej002,31,.>B.C*BBB,W
+play,9,0,moreg001,12,CBFX,63/G6
+play,9,1,candj002,00,.,NP
+sub,petej002,"Jace Peterson",0,8,5
+play,9,1,candj002,00,..,NP
+sub,ginkk001,"Kevin Ginkel",0,0,1
+play,9,1,candj002,12,...CBS*S,K
+play,9,1,gomey001,11,CBX,S7/L78XD+.BX2(74)
+play,9,1,madrn001,01,CX,D9/L9LD
+play,9,1,taucm001,32,BCBF*BFFX,3/G3
+play,10,0,perdg001,00,,NP
+sub,paled001,"Daniel Palencia",1,0,1
+radj,moreg001,2
+com,"Gabriel Moreno starts inning at 2nd base."
+play,10,0,perdg001,11,..LBX,53/SH/BG2-.2-3
+play,10,0,lawlj001,21,BBFH,HP
+play,10,0,phamt001,11,BSB,PB.1-2
+play,10,0,phamt001,21,BSB.B,WP.3-H(NR)(UR);2-3
+play,10,0,phamt001,32,BSB.B.SX,S7/L7.3-H
+play,10,0,walkc002,32,1BFBSFBC,K
+play,10,0,gurrl001,11,BC1,PO1(E3).1-2
+play,10,0,gurrl001,31,BC1.BB.>C,CS3(25)
+com,"$Cubs challenged (tag play), call on the field was overturned."
+play,10,1,hoern001,00,,NP
+sub,thoma004,"Alek Thomas",0,3,8
+play,10,1,hoern001,00,.,NP
+sub,carrc005,"Corbin Carroll",0,7,9
+play,10,1,hoern001,00,..,NP
+sub,sewap001,"Paul Sewald",0,0,1
+radj,taucm001,2
+com,"Mike Tauchman starts inning at 2nd base."
+play,10,1,hoern001,00,....X,63/G6
+play,10,1,happi001,11,FBX,7/F7LD
+play,10,1,bellc002,00,>B,DI.2-3
+play,10,1,bellc002,21,>B.BCX,S9/G34+.3-H(UR)
+play,10,1,swand001,11,B>FX,2/P2F/FL
+data,er,kellm002,1
+data,er,ginkk001,0
+data,er,sewap001,0
+data,er,saala001,0
+data,er,thomr007,0
+data,er,alzoa001,0
+data,er,paled001,1
+data,er,merrj001,0
+data,er,steej002,1
+id,CHN202309200
+version,2
+info,visteam,PIT
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/09/20
+info,number,0
+info,gametype,regular
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,porta901
+info,ump1b,tomln901
+info,ump2b,barbs901
+info,ump3b,wolfj901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/09/26 09:04:02
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,lissr701
+info,temp,75
+info,winddir,tolf
+info,windspeed,5
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,178
+info,attendance,31491
+info,wp,kellm003
+info,lp,steej002
+info,save,
+start,palaj001,"Joshua Palacios",0,1,9
+start,reynb001,"Bryan Reynolds",0,2,7
+start,hayek001,"Ke'Bryan Hayes",0,3,5
+start,joe-c001,"Connor Joe",0,4,3
+start,suwij001,"Jack Suwinski",0,5,8
+start,trioj001,"Jared Triolo",0,6,4
+start,davih001,"Henry Davis",0,7,10
+start,pegul001,"Liover Peguero",0,8,6
+start,delaj004,"Jason Delay",0,9,2
+start,kellm003,"Mitch Keller",0,0,1
+start,taucm001,"Mike Tauchman",1,1,8
+start,hoern001,"Nico Hoerner",1,2,4
+start,happi001,"Ian Happ",1,3,7
+start,bellc002,"Cody Bellinger",1,4,3
+start,swand001,"Dansby Swanson",1,5,6
+start,suzus001,"Seiya Suzuki",1,6,9
+start,morec001,"Christopher Morel",1,7,10
+start,gomey001,"Yan Gomes",1,8,2
+start,mastm001,"Miles Mastrobuoni",1,9,5
+start,steej002,"Justin Steele",1,0,1
+play,1,0,palaj001,02,CSC,K
+play,1,0,reynb001,00,X,S7/G6+
+play,1,0,hayek001,01,FX,D7/L7LD+.1-3
+play,1,0,joe-c001,12,CBCC,K
+play,1,0,suwij001,22,SC*BBFS,K
+play,1,1,taucm001,11,BCX,53/G56S
+play,1,1,hoern001,01,CX,3/P3F/FL
+play,1,1,happi001,32,BBCSBF.F*S,K
+play,2,0,trioj001,22,CFFFBB*S,K
+play,2,0,davih001,01,FX,4/F34D
+play,2,0,pegul001,11,BFX,3/G3
+play,2,1,bellc002,00,X,D8/L89
+play,2,1,swand001,22,STBFFBC,K
+play,2,1,suzus001,22,CBS*BX,S7/L78S+.2-H;BX2(753)
+play,2,1,morec001,11,BSX,8/F8S
+play,3,0,delaj004,11,BCX,8/F78D
+play,3,0,palaj001,22,SBS.BFS,K
+play,3,0,reynb001,32,CBBC.BFS,K
+play,3,1,gomey001,02,CFS,K
+play,3,1,mastm001,10,BX,S7/L7S
+play,3,1,taucm001,00,X,63/G4M.1-2
+play,3,1,hoern001,31,BBCBB,W
+play,3,1,happi001,10,BX,3/G3
+play,4,0,hayek001,00,X,S9/L89
+play,4,0,joe-c001,22,FFBB1FFX,S1/G1S-.1-2
+play,4,0,suwij001,22,BSBSX,S8/L8.2-H;1-2
+play,4,0,trioj001,12,FBCX,S9/L9.2-3;1-2
+play,4,0,davih001,32,BCS*BFBFFX,S9/L9L.3-H;2-H;1-3
+play,4,0,pegul001,12,1BFFFFX,S4/G4M.3-H;1-2
+play,4,0,delaj004,00,,NP
+sub,cuasj001,"Jose Cuas",1,0,1
+play,4,0,delaj004,00,.X,15(2)/FO/BG2.1-2;B-1
+play,4,0,palaj001,10,BX,HR/F8XD.2-H;1-H
+play,4,0,reynb001,02,CSS,K
+play,4,0,hayek001,22,SBBCX,3/L34
+play,4,1,bellc002,12,CBSFT,K
+play,4,1,swand001,11,BCX,8/L8D
+play,4,1,suzus001,31,BCBBX,63/G6
+play,5,0,joe-c001,00,,NP
+sub,wesnh001,"Hayden Wesneski",1,0,1
+play,5,0,joe-c001,22,.CBCBS,K
+play,5,0,suwij001,22,BCCBT,K
+play,5,0,trioj001,00,X,HR/F78XD
+play,5,0,davih001,32,CBBBFB,W
+play,5,0,pegul001,00,X,7/L78D+
+play,5,1,morec001,11,SBX,HR/F7LD
+play,5,1,gomey001,21,SBBX,S9/L89+
+play,5,1,mastm001,01,CX,36(1)/FO/G34S.B-1
+play,5,1,taucm001,01,CX,S9/L9L.1-3
+play,5,1,hoern001,00,H,HP.1-2
+play,5,1,happi001,31,BBCBX,HR/F89XD.3-H;2-H;1-H
+play,5,1,bellc002,00,X,D8/L89XD+
+play,5,1,swand001,02,FFS,K
+play,5,1,suzus001,31,CBBBX,63/G6
+play,6,0,delaj004,00,,NP
+sub,leitm002,"Mark Leiter Jr.",1,0,1
+play,6,0,delaj004,32,.BCBFBB,W
+play,6,0,palaj001,00,X,S9/G3.1-3
+play,6,0,reynb001,00,X,46(1)/FO/G4M.3-H;B-1
+play,6,0,hayek001,11,1BCX,8/F89
+play,6,0,joe-c001,00,X,HR/L7D.1-H
+play,6,0,suwij001,00,X,43/G4
+play,6,1,morec001,32,BCS.BFBX,63/G6D
+play,6,1,gomey001,12,SFBFC,K
+play,6,1,mastm001,10,BX,D8/F89XD
+play,6,1,taucm001,00,,NP
+sub,borur001,"Ryan Borucki",0,0,1
+play,6,1,taucm001,00,.,NP
+sub,wisdp001,"Patrick Wisdom",1,1,11
+play,6,1,wisdp001,32,..C*B*BFBX,S7/F7.2-H
+play,6,1,hoern001,00,,NP
+sub,crowp001,"Pete Crow-Armstrong",1,1,12
+play,6,1,hoern001,10,.BX,64(1)/FO/G6.B-1
+play,7,0,trioj001,00,,NP
+sub,crowp001,"Pete Crow-Armstrong",1,1,8
+play,7,0,trioj001,00,.,NP
+sub,boxbb001,"Brad Boxberger",1,0,1
+play,7,0,trioj001,01,..CX,7/L7D+
+play,7,0,davih001,32,CBSBBS,K
+play,7,0,pegul001,22,CSBFBX,53/G56
+play,7,1,happi001,00,X,D8/L89XD+
+play,7,1,bellc002,12,CFFFBFX,3/G3.2-3
+play,7,1,swand001,00,,NP
+sub,mlodc001,"Carmen Mlodzinski",0,0,1
+play,7,1,swand001,12,.FFB*S,K.BX1(23)
+play,7,1,suzus001,32,CBS*BBB,W
+play,7,1,morec001,22,S*BFBX,43/G4M+
+play,8,0,delaj004,00,,NP
+sub,paled001,"Daniel Palencia",1,0,1
+play,8,0,delaj004,00,.X,63/G6
+play,8,0,palaj001,02,SS.X,7/F7S
+play,8,0,reynb001,32,BCS.BBS,K
+play,8,1,gomey001,00,,NP
+sub,holdc001,"Colin Holderman",0,0,1
+play,8,1,gomey001,12,.SBSS,K
+play,8,1,mastm001,11,BCX,D9/L9L
+play,8,1,crowp001,12,SFBS,K
+play,8,1,hoern001,11,BFX,53/G6S
+play,9,0,hayek001,12,BCS.X,S1/G25-
+play,9,0,joe-c001,11,BCX,DGR/L78XD+.1-3
+play,9,0,suwij001,31,CBBBB,W
+play,9,0,trioj001,00,X,S56/L56D.3-H;2-3;1-2
+play,9,0,davih001,02,SCC,K
+play,9,0,pegul001,22,*BSBFX,64(1)/FO/G6.3-H;2-3;B-1
+play,9,0,delaj004,00,H,HP.1-2
+play,9,0,palaj001,00,,NP
+sub,littl001,"Luke Little",1,0,1
+play,9,0,palaj001,22,.*BCFFFBFX,43/G4
+play,9,1,happi001,00,,NP
+sub,strah001,"Hunter Stratton",0,0,1
+play,9,1,happi001,02,.FSX,31/G34
+play,9,1,bellc002,11,FBX,43/G34
+play,9,1,swand001,12,FC.FBS,K
+data,er,kellm003,7
+data,er,holdc001,0
+data,er,mlodc001,0
+data,er,borur001,0
+data,er,strah001,0
+data,er,paled001,2
+data,er,cuasj001,1
+data,er,wesnh001,1
+data,er,leitm002,3
+data,er,littl001,0
+data,er,boxbb001,0
+data,er,steej002,6

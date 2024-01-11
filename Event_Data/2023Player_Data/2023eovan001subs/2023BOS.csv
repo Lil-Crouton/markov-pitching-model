@@ -1,0 +1,114 @@
+id,BOS202307060
+version,2
+info,visteam,TEX
+info,hometeam,BOS
+info,site,BOS07
+info,date,2023/07/06
+info,number,0
+info,gametype,regular
+info,starttime,7:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,wolfj901
+info,ump1b,muchm901
+info,ump2b,barbs901
+info,ump3b,porta901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/16 09:04:08
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,medes701
+info,temp,88
+info,winddir,tolf
+info,windspeed,3
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,194
+info,attendance,33847
+info,wp,wincj001
+info,lp,sborj002
+info,save,
+start,semim001,"Marcus Semien",0,1,4
+start,seagc001,"Corey Seager",0,2,6
+start,lowen001,"Nathaniel Lowe",0,3,3
+start,garca005,"Adolis Garcia",0,4,9
+start,jungj001,"Josh Jung",0,5,5
+start,heimj001,"Jonah Heim",0,6,2
+start,durae002,"Ezequiel Duran",0,7,10
+start,grosr001,"Robbie Grossman",0,8,7
+start,tavel001,"Leody Taveras",0,9,8
+start,eovan001,"Nathan Eovaldi",0,0,1
+start,verda001,"Alex Verdugo",1,1,9
+start,turnj001,"Justin Turner",1,2,10
+start,yoshm002,"Masataka Yoshida",1,3,7
+start,dever001,"Rafael Devers",1,4,5
+start,duvaa001,"Adam Duvall",1,5,8
+start,casat001,"Triston Casas",1,6,3
+start,herne001,"Enrique Hernandez",1,7,4
+start,hamid002,"David Hamilton",1,8,6
+start,wongc001,"Connor Wong",1,9,2
+start,crawk001,"Kutter Crawford",1,0,1
+play,1,0,semim001,10,BX,53/G5S
+play,1,0,seagc001,11,BFX,3/G3
+play,1,0,lowen001,11,CBX,1/P13
+play,1,1,verda001,32,BCF.BBB,W
+play,1,1,turnj001,00,X,S7/L78.1-2
+play,1,1,yoshm002,21,BCBX,43/G34.2-3;1-2
+play,1,1,dever001,10,BX,43/G4S.3-H;2-3
+play,1,1,duvaa001,11,C*BX,43/G4
+play,2,0,garca005,00,X,D8/L8XD
+play,2,0,jungj001,32,BFTBBFX,8/F8S
+play,2,0,heimj001,01,CX,S9/G3.2-H
+play,2,0,durae002,12,FSBF.X,D7/L78D.1-3
+play,2,0,grosr001,30,BBBB,W
+play,2,0,tavel001,32,BFF.BBFC,K
+play,2,0,semim001,00,X,8/F8
+play,2,1,casat001,21,BBCX,63/G6
+play,2,1,herne001,30,BBBB,W
+play,2,1,hamid002,12,SFBC,K
+play,2,1,wongc001,12,SSFBFX,S9/G34.1-2
+play,2,1,verda001,00,X,9/F9LD
+play,3,0,seagc001,21,BBFX,S8/G6M
+play,3,0,lowen001,00,X,46(1)3/GDP/G34
+play,3,0,garca005,12,BCCFS,K
+play,3,1,turnj001,32,CBBFBFB,W
+play,3,1,yoshm002,12,CS*BX,S7/G6.1-2
+play,3,1,dever001,21,BFBX,D7/F78D.2-H;1-3
+play,3,1,duvaa001,21,BSBX,9/SF/F9.3-H
+play,3,1,casat001,21,SBBX,63/G4M.2-3
+play,3,1,herne001,02,CFS,K
+play,4,0,jungj001,10,BX,D8/L78XD+
+play,4,0,heimj001,22,BSBS.FFFX,9/L9
+play,4,0,durae002,21,TB*BX,S8/L8.2-3
+play,4,0,grosr001,30,BBBX,9/SF/F89XD.3-H;1-2
+play,4,0,tavel001,12,BFTX,S8/L8.2-H
+play,4,0,semim001,32,B*BC*BF>S,K
+play,4,1,hamid002,01,CX,43/G34
+play,4,1,wongc001,01,CX,D7/L78+
+play,4,1,verda001,31,BBCBX,43/G34.2-3
+play,4,1,turnj001,32,CFBB*BFX,13/G1S
+play,5,0,seagc001,00,,NP
+sub,jacqj001,"Joe Jacques",1,0,1
+play,5,0,seagc001,22,.CSBBFS,K
+play,5,0,lowen001,02,CFFS,K
+play,5,0,garca005,32,FBBCFBB,W
+play,5,0,jungj001,01,CX,D7/G56.1-H(E7/TH)(NR)
+play,5,0,heimj001,20,BBX,D8/F89XD.2-H
+play,5,0,durae002,12,SSBC,K
+play,5,1,yoshm002,10,BX,63/G6
+play,5,1,dever001,00,X,8/F89XD+
+play,5,1,duvaa001,12,CFBC,K
+play,6,0,grosr001,00,,NP
+sub,waltb002,"Brandon Walter",1,0,1
+play,6,0,grosr001,32,.CFBBFBFC,K
+play,6,0,tavel001,11,CBX,63/G6
+play,6,0,semim001,00,X,7/L78
+play,6,1,casat001,32,BSF.BBB,W
+play,6,1,herne001,32,C*BBFBX,54(1)/FO/G56S.B-2(E4/TH)
+play,6,1,hamid002,00,,NP
+sub,duraj001,"Jarren Duran",1,8,11
+play,6,1,duraj001,00,.,NP

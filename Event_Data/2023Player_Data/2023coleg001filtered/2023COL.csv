@@ -1,0 +1,24 @@
+Type,Inning,Visiting/Home (0/1),Retro PID,Count,Pitches,Event
+play,1,1,tovae001,10,BX,8/F8XD+
+play,1,1,bryak001,10,BX,4/P4
+play,1,1,mcmar001,32,CSBFBBX,E6/G6M.B-2
+play,1,1,cronc002,12,BFTFX,7/L78D
+play,2,1,jonen002,12,BSS.S,K
+play,2,1,toglm001,21,FBBX,HR/F7D
+play,2,1,casth001,02,SSFX,7/F7L
+play,2,1,doylb001,22,SBBFS,K
+play,3,1,wynna001,22,BF.BST,K
+play,3,1,tovae001,22,SFBFBFS,K
+play,3,1,bryak001,32,BCFF.BFBX,S8/L78S
+play,3,1,mcmar001,12,BTCS,K
+play,4,1,cronc002,32,SBCB.BS,K
+play,4,1,jonen002,22,FBBFC,K
+play,4,1,toglm001,12,CBCS,K
+play,5,1,casth001,02,CFF*S,K.BX1(23)
+play,5,1,doylb001,12,BCFS,K
+play,5,1,wynna001,32,BBCF.BB,W
+play,5,1,tovae001,11,BFX,43/G4
+play,6,1,bryak001,20,BBX,5/L5
+play,6,1,mcmar001,02,FC.X,31/G34
+play,6,1,cronc002,32,BCCBFBT,K
+play,7,1,jonen002,00,,NP

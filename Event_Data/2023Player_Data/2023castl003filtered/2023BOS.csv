@@ -1,0 +1,27 @@
+Type,Inning,Visiting/Home (0/1),Retro PID,Count,Pitches,Event
+play,1,1,verda001,02,CCFFX,E4/G4.B-1
+play,1,1,yoshm002,01,CX,T8/L8XD+.1-H(UR)
+play,1,1,turnj001,01,CX,HR/F78XD.3-H
+play,1,1,dever001,00,X,3/G3
+play,1,1,duraj001,02,CFS,K
+play,1,1,casat001,00,X,HR/F9LD.B-H(UR)
+play,1,1,valde002,31,BFBBB,W
+play,1,1,mcgur002,12,BFFS,K
+play,2,1,reyep001,02,FCC,K
+play,2,1,verda001,10,BX,9/L9LD
+play,2,1,yoshm002,21,BBFX,43/G4
+play,3,1,turnj001,32,BCFBBFX,63/G6
+play,3,1,dever001,12,BFS.*S,K
+play,3,1,duraj001,32,CBBF.BFFFS,K
+play,4,1,casat001,32,CBBF.BB,W
+play,4,1,valde002,00,X,5/P5SF/FL
+play,4,1,mcgur002,00,X,3/G3.1-2
+play,4,1,reyep001,00,X,63/G6
+play,5,1,verda001,32,BBBFCX,D7/F7L
+play,5,1,yoshm002,31,BBBCX,DGR/F9LD+.2-H
+play,5,1,turnj001,22,BFBFX,9/F9D.2-3
+play,5,1,dever001,12,BFFB,WP.3-H(NR)
+play,5,1,dever001,22,BFFB.FFS,K
+play,5,1,duraj001,00,X,HR/F89XD
+play,5,1,casat001,32,BFBS.BX,9/F89XD+
+play,6,1,valde002,00,.,NP

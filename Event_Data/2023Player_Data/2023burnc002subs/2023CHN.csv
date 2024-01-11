@@ -1,0 +1,226 @@
+id,CHN202303300
+version,2
+info,visteam,MIL
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/03/30
+info,number,0
+info,gametype,regular
+info,starttime,1:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,kulpr901
+info,ump1b,blasc901
+info,ump2b,torrc901
+info,ump3b,viscj901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/08/16 09:03:31
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,speaa701
+info,temp,42
+info,winddir,rtol
+info,windspeed,10
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,141
+info,attendance,36054
+info,wp,strom001
+info,lp,burnc002
+info,save,
+start,yelic001,"Christian Yelich",0,1,7
+start,winkj002,"Jesse Winker",0,2,10
+start,adamw002,"Willy Adames",0,3,6
+start,tellr001,"Rowdy Tellez",0,4,3
+start,contw002,"William Contreras",0,5,2
+start,urial001,"Luis Urias",0,6,5
+start,mitcg001,"Garrett Mitchell",0,7,8
+start,andeb006,"Brian Anderson",0,8,9
+start,turab002,"Brice Turang",0,9,4
+start,burnc002,"Corbin Burnes",0,0,1
+start,hoern001,"Nico Hoerner",1,1,4
+start,swand001,"Dansby Swanson",1,2,6
+start,happi001,"Ian Happ",1,3,7
+start,bellc002,"Cody Bellinger",1,4,8
+start,manct001,"Trey Mancini",1,5,10
+start,gomey001,"Yan Gomes",1,6,2
+start,hosme001,"Eric Hosmer",1,7,3
+start,wisdp001,"Patrick Wisdom",1,8,5
+start,mastm001,"Miles Mastrobuoni",1,9,9
+start,strom001,"Marcus Stroman",1,0,1
+play,1,0,yelic001,12,BTSC,K
+play,1,0,winkj002,12,CSB*S,K
+play,1,0,adamw002,11,CBX,S7/L7
+play,1,0,tellr001,21,CBBB,PB.1-2
+play,1,0,tellr001,31,CBBB.B,W
+play,1,0,contw002,22,CC.*BBS,K
+play,1,1,hoern001,12,CBF.X,9/F89D
+play,1,1,swand001,11,BCX,8/L8XD+
+play,1,1,happi001,30,BBBB,W
+play,1,1,bellc002,01,S1X,63/G4
+play,2,0,urial001,10,BX,53/G56
+play,2,0,mitcg001,32,BBFFBFX,13/L56
+play,2,0,andeb006,22,CFBBC,K
+play,2,1,manct001,22,BSSBFH,HP
+play,2,1,gomey001,22,BCBFX,54(1)3/GDP/G56S+
+play,2,1,hosme001,22,CBBFFFX,13/G1S+
+play,3,0,turab002,00,X,S4/G34.B-2(E4/TH)
+play,3,0,yelic001,32,F*BCV*BB,W
+play,3,0,winkj002,12,SS*BS,K
+play,3,0,adamw002,00,B,PB.2-3;1-2
+play,3,0,adamw002,32,B.BBSSB,W
+play,3,0,tellr001,12,CC*BX,46(1)3/GDP/G34
+play,3,1,wisdp001,31,BBFBB,W
+play,3,1,mastm001,11,CBX,64(1)/FO/G6.B-1
+play,3,1,hoern001,00,X,S9/G3.1-3
+play,3,1,swand001,01,CX,S9/G3.3-H;1-H(E6/TH)(NR)
+play,3,1,happi001,32,CTB1F*BB1>B,W.1-2
+play,3,1,bellc002,02,CF*S,K
+play,3,1,manct001,12,TCBX,S7/L56D.2-H;1-3
+play,3,1,gomey001,00,X,FC6/G6.3-H;1-2;B-1
+play,3,1,hosme001,01,CX,46(1)/FO/G4.B-1
+play,4,0,contw002,22,BCFBC,K
+play,4,0,urial001,22,CC.BBX,3/P2F/FL
+play,4,0,mitcg001,10,BX,3/G3S
+play,4,1,wisdp001,00,X,43/G4
+play,4,1,mastm001,21,BBCX,63/G4M
+play,4,1,hoern001,11,BFX,8/F8
+play,5,0,andeb006,10,BX,S8/G6M+
+play,5,0,turab002,12,BFFX,46(1)/FO/G4.B-1
+play,5,0,yelic001,00,X,31/G3S.1-2
+play,5,0,winkj002,21,BSBB,WP.2-3
+play,5,0,winkj002,31,BSBB.X,43/G34
+play,5,1,swand001,01,CX,S5/G5
+play,5,1,happi001,22,CB1BSFS,K
+play,5,1,bellc002,32,FBFBF1BF1>X,8/F8
+play,5,1,manct001,12,FC*B*S,K
+play,6,0,adamw002,10,BX,63/G6
+play,6,0,tellr001,12,CBS.*S,K.BX1(23)
+play,6,0,contw002,12,CSFB*S,K
+play,6,1,gomey001,00,,NP
+id,CHN202308290
+version,2
+info,visteam,MIL
+info,hometeam,CHN
+info,site,CHI11
+info,date,2023/08/29
+info,number,0
+info,gametype,regular
+info,starttime,7:05PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,libkj901
+info,ump1b,reybd901
+info,ump2b,herna901
+info,ump3b,hoyej901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/09/10 09:03:17
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,speaa701
+info,temp,70
+info,winddir,fromlf
+info,windspeed,17
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,150
+info,attendance,33294
+info,wp,steej002
+info,lp,burnc002
+info,save,alzoa001
+start,yelic001,"Christian Yelich",0,1,7
+start,contw002,"William Contreras",0,2,10
+start,canhm001,"Mark Canha",0,3,3
+start,adamw002,"Willy Adames",0,4,6
+start,monaa001,"Andruw Monasterio",0,5,5
+start,wiemj001,"Joey Wiemer",0,6,8
+start,carav001,"Victor Caratini",0,7,2
+start,turab002,"Brice Turang",0,8,4
+start,taylt002,"Tyrone Taylor",0,9,9
+start,burnc002,"Corbin Burnes",0,0,1
+start,taucm001,"Mike Tauchman",1,1,8
+start,hoern001,"Nico Hoerner",1,2,4
+start,happi001,"Ian Happ",1,3,7
+start,bellc002,"Cody Bellinger",1,4,3
+start,swand001,"Dansby Swanson",1,5,6
+start,suzus001,"Seiya Suzuki",1,6,9
+start,candj002,"Jeimer Candelario",1,7,5
+start,morec001,"Christopher Morel",1,8,10
+start,gomey001,"Yan Gomes",1,9,2
+start,steej002,"Justin Steele",1,0,1
+play,1,0,yelic001,32,BBBCFB,W
+play,1,0,contw002,20,BBX,4/P3D
+play,1,0,canhm001,12,CBCFX,S5/G6S.1-2
+com,"$Brewers challenged (play at 1st), call on the field was overturned."
+play,1,0,adamw002,02,FSF.FB,WP.2-3;1-2
+play,1,0,adamw002,22,FSF.FB.FFBX,4/L4M
+play,1,0,monaa001,12,TCFBF*S,K
+play,1,1,taucm001,01,CX,53/G56S
+play,1,1,hoern001,00,H,HP
+play,1,1,happi001,00,1X,D8/L8D.1-3
+play,1,1,bellc002,22,BBSSX,43/G34.3-H;2-3
+play,1,1,swand001,00,X,143/G4
+play,2,0,wiemj001,02,CC*S,K.BX1(23)
+play,2,0,carav001,10,BX,S15/L1+
+play,2,0,turab002,21,BCBX,S7/L7.1-2
+play,2,0,taylt002,22,FC*BBFX,54(1)3/GDP/G56
+play,2,1,suzus001,32,BBCB.FFB,W
+play,2,1,candj002,12,*BF11.FT,K
+play,2,1,morec001,12,S1BFS,K
+play,2,1,gomey001,22,F1S*B1BX,53/G56
+play,3,0,yelic001,32,BCTBBX,8/L8D+
+play,3,0,contw002,01,CX,S9/F89S
+play,3,0,canhm001,22,BCBCFFX,S8/L89.1-2
+play,3,0,adamw002,12,CBFS,K
+play,3,0,monaa001,12,SF*BS,K
+play,3,1,taucm001,11,CBX,43/G4
+play,3,1,hoern001,12,SBSFX,43/G4
+play,3,1,happi001,12,BCSS,K
+play,4,0,wiemj001,00,X,63/G6
+play,4,0,carav001,22,BBFS.FFS,K
+play,4,0,turab002,01,CX,8/F89D
+play,4,1,bellc002,12,BCSX,9/L89D
+play,4,1,swand001,11,CBX,S7/L7S+
+play,4,1,suzus001,01,FX,54(1)3/GDP/G5
+play,5,0,taylt002,11,BFX,7/F7LD+
+play,5,0,yelic001,12,SFFFFBS,K
+play,5,0,contw002,32,CBS.BFBX,63/G6
+play,5,1,candj002,31,BCBBX,53/G56+
+play,5,1,morec001,00,X,S7/G56+
+play,5,1,gomey001,10,B>X,S9/G34.1-3
+play,5,1,taucm001,31,BBCBB,W.1-2
+play,5,1,hoern001,12,BSCX,5/L56/DP.3X3(5)
+play,6,0,canhm001,12,CBFFF.X,63/G6
+play,6,0,adamw002,02,FFS,K
+play,6,0,monaa001,02,CFX,S8/L89D+
+play,6,0,wiemj001,12,CFFBS,K
+play,6,1,happi001,21,BCBX,S9/G3
+play,6,1,bellc002,00,X,46(1)/FO/G4+.B-1
+play,6,1,swand001,12,CB1>FX,S7/G56.1-2
+play,6,1,suzus001,32,*BF*BBCC,K
+play,6,1,candj002,02,CF*S,K
+play,7,0,carav001,00,,NP
+sub,leitm002,"Mark Leiter Jr.",1,0,1
+play,7,0,carav001,22,.BBCF.S,K
+play,7,0,turab002,00,X,4/F89S
+play,7,0,taylt002,21,CBBX,6/P6MD
+play,7,1,morec001,22,SBFFBC,K
+play,7,1,gomey001,02,FFX,S4/G6M
+play,7,1,taucm001,22,BSBC.FX,S7/L78S.1-2
+play,7,1,hoern001,20,BBX,3/P3F/FL
+play,7,1,happi001,12,BFC*S,K.BX1(23)
+play,8,0,yelic001,00,,NP
+sub,merrj001,"Julian Merryweather",1,0,1
+play,8,0,yelic001,00,.X,S5/BG5S
+play,8,0,contw002,12,CCB1X,8/F89XD+
+play,8,0,canhm001,00,>C,CS2(24)
+play,8,0,canhm001,02,>C.CS,K
+play,8,1,bellc002,00,,NP

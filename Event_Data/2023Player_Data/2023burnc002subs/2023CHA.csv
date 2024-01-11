@@ -1,0 +1,124 @@
+id,CHA202308110
+version,2
+info,visteam,MIL
+info,hometeam,CHA
+info,site,CHI12
+info,date,2023/08/11
+info,number,0
+info,gametype,regular
+info,starttime,7:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,torrc901
+info,ump1b,viscj901
+info,ump2b,blasc901
+info,ump3b,kulpr901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/08/13 14:01:12
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,lissr701
+info,temp,83
+info,winddir,tolf
+info,windspeed,12
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,203
+info,attendance,30059
+info,wp,willd004
+info,lp,lambj003
+info,save,uriba001
+start,yelic001,"Christian Yelich",0,1,7
+start,contw002,"William Contreras",0,2,10
+start,santc002,"Carlos Santana",0,3,3
+start,frels001,"Sal Frelick",0,4,9
+start,adamw002,"Willy Adames",0,5,6
+start,monaa001,"Andruw Monasterio",0,6,5
+start,turab002,"Brice Turang",0,7,4
+start,carav001,"Victor Caratini",0,8,2
+start,wiemj001,"Joey Wiemer",0,9,8
+start,burnc002,"Corbin Burnes",0,0,1
+start,andet001,"Tim Anderson",1,1,6
+start,benia002,"Andrew Benintendi",1,2,7
+start,jimee001,"Eloy Jimenez",1,3,10
+start,moncy001,"Yoan Moncada",1,4,5
+start,vauga001,"Andrew Vaughn",1,5,3
+start,grany001,"Yasmani Grandal",1,6,2
+start,thomt002,"Trayce Thompson",1,7,8
+start,colao001,"Oscar Colas",1,8,9
+start,andre001,"Elvis Andrus",1,9,4
+start,kopem001,"Michael Kopech",1,0,1
+play,1,0,yelic001,30,BBBB,W
+play,1,0,contw002,10,B>C,SB2
+play,1,0,contw002,21,B>C.BX,S8/G4M+.2-H
+play,1,0,santc002,00,B,WP.1-2
+play,1,0,santc002,21,B.CBX,43/G34+.2-3
+play,1,0,frels001,20,*BBX,5/P25F/FL
+play,1,0,adamw002,31,BBBCB,W
+play,1,0,monaa001,31,BBBCB,W.1-2
+play,1,0,turab002,12,CFF*BS,K
+play,1,1,andet001,12,BTFX,63/G6
+play,1,1,benia002,31,BBBCB,W
+play,1,1,jimee001,10,B1X,S9/L9+.1-3
+play,1,1,moncy001,21,BFBX,S36/G4.3-H;1-2
+play,1,1,vauga001,20,B*BX,S8/F8S.2-3;1-2
+play,1,1,grany001,12,*BCFX,7/SF/L7.3-H
+play,1,1,thomt002,00,S,WP.2-3;1-2
+play,1,1,thomt002,12,S.S*BS,K
+play,2,0,carav001,10,BX,HR/F89XD
+play,2,0,wiemj001,22,BCS.BFS,K
+play,2,0,yelic001,21,BBFX,7/L7D
+play,2,0,contw002,12,SCBFS,K
+play,2,1,colao001,02,SCX,43/G4
+play,2,1,andre001,32,.CBBFBX,63/G6
+play,2,1,andet001,12,BFFC,K
+play,3,0,santc002,12,BCCFX,5/P56
+play,3,0,frels001,31,CBBBB,W
+play,3,0,adamw002,10,BX,9/F9D
+play,3,0,monaa001,01,1C>B,SB2
+play,3,0,monaa001,12,1C>B.FX,5/P5SF/FL
+play,3,1,benia002,32,BFBFBFFX,S7/L7S
+play,3,1,jimee001,22,SCB1*BX,HR/F78XD.1-H
+play,3,1,moncy001,22,CBSBS,K
+play,3,1,vauga001,10,BX,S7/L7D+
+play,3,1,grany001,10,BB,WP.1-2
+play,3,1,grany001,30,BB.BB,W
+play,3,1,thomt002,11,C*BX,54(1)3/GDP/G56
+play,4,0,turab002,11,BFX,43/G4
+play,4,0,carav001,32,FS.BBBB,W
+play,4,0,wiemj001,12,SC*BX,8/F8XD
+play,4,0,yelic001,10,BX,43/G34
+play,4,1,colao001,32,BBCBCFB,W
+play,4,1,andre001,00,>X,3/G34S.1-2
+play,4,1,andet001,32,CBFBFBX,S8/L89.2-H
+play,4,1,benia002,10,B1X,8/F89
+play,4,1,jimee001,00,X,9/F9LD
+play,5,0,contw002,32,BCTBBS,K
+play,5,0,santc002,21,SBBX,S8/G4
+play,5,0,frels001,10,BX,S9/L9S+.1-3;B-2
+play,5,0,adamw002,22,FCBBFX,S7/L7.3-H;2-H;B-2
+play,5,0,monaa001,00,,NP
+sub,shawb001,"Bryan Shaw",1,0,1
+play,5,0,monaa001,22,.BBFFX,63/G6
+play,5,0,turab002,10,BX,31/G3
+play,5,1,moncy001,32,BSBFBS,K
+play,5,1,vauga001,21,BBCX,8/F8
+play,5,1,grany001,00,X,31/G3
+play,6,0,carav001,21,FBBX,S8/L8
+play,6,0,wiemj001,02,CSFX,S5/G5.1-2
+play,6,0,yelic001,00,,NP
+sub,bumma001,"Aaron Bummer",1,0,1
+play,6,0,yelic001,32,.CBBC*BX,S7/L7L.2-3;1-2
+play,6,0,contw002,01,FX,S1/G15-.3-H;2-H(E1/TH)(NR);1-3;B-2
+play,6,0,santc002,12,CS*BX,43/G4
+play,6,0,frels001,31,CBBBB,W
+play,6,0,adamw002,02,CSS,K
+play,6,0,monaa001,12,CBFFS,K
+play,6,1,thomt002,01,CX,1/P1S
+play,6,1,colao001,12,CSFBS,K
+play,6,1,andre001,22,SBS.BX,S9/G4
+play,6,1,andet001,00,,NP

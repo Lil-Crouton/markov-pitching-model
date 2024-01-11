@@ -1,7 +1,7 @@
 import os
 
 # specify the path to your directory
-directory_path = 'C:/Users/16086/Desktop/Baseball Tool/Event_Data/2022eve'  # e.g., 'C:/Users/YourName/Documents/'
+directory_path = 'C:/Users/16086/Desktop/Projects/Baseball Tool/Event_Data/2023eve'  # e.g., 'C:/Users/YourName/Documents/'
 
 # change the working directory to the specified path
 os.chdir(directory_path)

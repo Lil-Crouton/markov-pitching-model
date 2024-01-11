@@ -1,0 +1,248 @@
+id,CLE202305060
+version,2
+info,visteam,MIN
+info,hometeam,CLE
+info,site,CLE08
+info,date,2023/05/06
+info,number,0
+info,gametype,regular
+info,starttime,6:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,morag901
+info,ump1b,barrs901
+info,ump2b,becka901
+info,ump3b,iassd901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/05/20 17:39:25
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,maveb701
+info,temp,62
+info,winddir,fromcf
+info,windspeed,13
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,143
+info,attendance,20795
+info,wp,stept002
+info,lp,alcaj001
+info,save,clase001
+start,buxtb001,"Byron Buxton",0,1,10
+start,polaj001,"Jorge Polanco",0,2,4
+start,corrc001,"Carlos Correa",0,3,6
+start,solad001,"Donovan Solano",0,4,3
+start,miraj002,"Jose Miranda",0,5,5
+start,keplm001,"Max Kepler",0,6,9
+start,castw003,"Willi Castro",0,7,7
+start,jeffr002,"Ryan Jeffers",0,8,2
+start,taylm002,"Michael A. Taylor",0,9,8
+start,grays001,"Sonny Gray",0,0,1
+start,kwans001,"Steven Kwan",1,1,7
+start,rosaa003,"Amed Rosario",1,2,6
+start,ramij003,"Jose Ramirez",1,3,5
+start,naylj001,"Josh Naylor",1,4,10
+start,bellj005,"Josh Bell",1,5,3
+start,gimea001,"Andres Gimenez",1,6,4
+start,ariag002,"Gabriel Arias",1,7,9
+start,zunim001,"Mike Zunino",1,8,2
+start,stram002,"Myles Straw",1,9,8
+start,allel003,"Logan Allen",1,0,1
+play,1,0,buxtb001,11,CBX,53/G5
+play,1,0,polaj001,11,BFX,S7/L7
+play,1,0,corrc001,10,BX,43/G34.1-2
+play,1,0,solad001,22,CSBBFT,K
+play,1,1,kwans001,32,CCBB.BFFFS,K
+play,1,1,rosaa003,02,CFS,K
+play,1,1,ramij003,10,BX,3/G3
+play,2,0,miraj002,00,X,8/F8S
+play,2,0,keplm001,21,BCBX,7/L7D
+play,2,0,castw003,12,CS.BX,63/G6
+play,2,1,naylj001,20,BBX,43/G4
+play,2,1,bellj005,10,BX,S5/G6
+play,2,1,gimea001,22,CBSFBFX,56(1)/FO/G56D.B-1
+play,2,1,ariag002,22,CF*B1BF.S,K
+play,3,0,jeffr002,12,FBS.C,K
+play,3,0,taylm002,00,X,S7/L7
+play,3,0,buxtb001,32,B1BFCB.B,W.1-2
+play,3,0,polaj001,10,BX,8/F8XD.2-3
+play,3,0,corrc001,32,BC*BF*B>X,53/G56
+play,3,1,zunim001,02,CS.S,K
+play,3,1,stram002,02,FCC,K
+play,3,1,kwans001,11,CBX,3/G3
+play,4,0,solad001,31,FBBBX,5/L56
+play,4,0,miraj002,11,BFX,S7/G6
+play,4,0,keplm001,02,CFX,7/F7LD
+play,4,0,castw003,32,BBSF*B>C,K
+play,4,1,rosaa003,30,BBBB,W
+play,4,1,ramij003,31,BBBC>X,S34/G3.1-3
+play,4,1,naylj001,01,CX,S5/G6.3-H;1-3(E5/TH)
+com,"ej,baldr001,M,iassd901,Running out of baseline non-call"
+com,"$Twins manager Baldelli ejected by 3B umpire Iassogna"
+com,"for arguing Ramirez ran out of the baseline to avoid a tag"
+play,4,1,bellj005,31,.B*BBCX,S7/L78S.3-H;1-2
+play,4,1,gimea001,22,VCS*BX,8/L8D
+play,4,1,ariag002,31,BBBCB,W.2-3;1-2
+play,4,1,zunim001,12,SBCT,K
+play,4,1,stram002,32,VCCBF*B>B,W.3-H;2-3;1-2
+play,4,1,kwans001,12,CFBX,3/G3
+play,5,0,jeffr002,10,BX,D9/F9LD
+play,5,0,taylm002,32,BS*BBFB,W
+play,5,0,buxtb001,12,SCFBX,4/P6MD
+play,5,0,polaj001,00,X,9/F9L
+play,5,0,corrc001,10,BX,8/F89XD
+play,5,1,rosaa003,12,CFBX,8/F8XD
+play,5,1,ramij003,11,FBX,6/P6D
+play,5,1,naylj001,11,BFX,43/G4
+play,6,0,solad001,12,CBFX,4/L4
+play,6,0,miraj002,22,SBF.FBX,S9/L89S
+play,6,0,keplm001,00,X,HR/L9D.1-H
+play,6,0,castw003,00,X,S7/L78
+play,6,0,jeffr002,31,1CBBBX,8/F8XD
+play,6,0,taylm002,00,,NP
+sub,karij001,"James Karinchak",1,0,1
+play,6,0,taylm002,00,.,NP
+sub,gordn001,"Nick Gordon",0,9,11
+play,6,0,gordn001,11,..BC>B,SB2
+play,6,0,gordn001,22,..BC>B.SFS,K
+play,6,1,bellj005,00,,NP
+sub,gordn001,"Nick Gordon",0,9,8
+play,6,1,bellj005,00,.,NP
+id,CLE202309050
+version,2
+info,visteam,MIN
+info,hometeam,CLE
+info,site,CLE08
+info,date,2023/09/05
+info,number,0
+info,gametype,regular
+info,starttime,6:10PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,lentn901
+info,ump1b,clemp901
+info,ump2b,valej901
+info,ump3b,fairc901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/09/22 09:02:19
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,maveb701
+info,temp,86
+info,winddir,fromcf
+info,windspeed,3
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,184
+info,attendance,20224
+info,wp,jax-g001
+info,lp,stept002
+info,save,
+start,julie001,"Edouard Julien",0,1,4
+start,polaj001,"Jorge Polanco",0,2,10
+start,lewir003,"Royce Lewis",0,3,5
+start,keplm001,"Max Kepler",0,4,9
+start,corrc001,"Carlos Correa",0,5,6
+start,solad001,"Donovan Solano",0,6,3
+start,wallm001,"Matt Wallner",0,7,7
+start,vazqc001,"Christian Vazquez",0,8,2
+start,castw003,"Willi Castro",0,9,8
+start,grays001,"Sonny Gray",0,0,1
+start,kwans001,"Steven Kwan",1,1,7
+start,ramij003,"Jose Ramirez",1,2,5
+start,naylj001,"Josh Naylor",1,3,3
+start,calhk001,"Kole Calhoun",1,4,10
+start,gimea001,"Andres Gimenez",1,5,4
+start,ariag002,"Gabriel Arias",1,6,6
+start,brenw002,"Will Brennan",1,7,9
+start,naylb001,"Bo Naylor",1,8,2
+start,stram002,"Myles Straw",1,9,8
+start,bibet001,"Tanner Bibee",1,0,1
+play,1,0,julie001,31,BBBCX,63/G6
+play,1,0,polaj001,00,X,8/F8S
+play,1,0,lewir003,30,BBBB,W
+play,1,0,keplm001,02,FFFX,D9/G3.1-H
+play,1,0,corrc001,00,X,S7/L78D+.2-H
+play,1,0,solad001,22,CCBBS,K
+play,1,1,kwans001,01,CX,7/F7
+play,1,1,ramij003,32,CBBFFFBB,W
+play,1,1,naylj001,11,S*BX,46(1)3/GDP/G4
+play,2,0,wallm001,32,BSBBS.FFB,W
+play,2,0,vazqc001,31,C*B1BBB,W.1-2
+play,2,0,castw003,01,LX,3/SH/BG23-.2-3;1-2
+play,2,0,julie001,02,SF*S,K
+play,2,0,polaj001,00,X,9/L9
+play,2,1,calhk001,22,SFBBX,5/L56
+play,2,1,gimea001,12,CS.BX,7/F78S
+play,2,1,ariag002,22,CFBBT,K
+play,3,0,lewir003,00,X,6/L6D+
+play,3,0,keplm001,00,X,8/L8XD+
+play,3,0,corrc001,12,.CFBFFX,7/L78D+
+play,3,1,brenw002,22,BSBFFFFX,S8/L78
+play,3,1,naylb001,02,CCX,HR/L89XD.1-H
+play,3,1,stram002,00,X,S7/G56
+play,3,1,kwans001,32,1F*BBCB>F>C,K+CS2(26)/DP
+play,3,1,ramij003,32,BFBFBFX,9/F89XD
+play,4,0,solad001,22,BBFCFX,7/F78XD
+play,4,0,wallm001,10,BX,8/F89XD+
+play,4,0,vazqc001,31,BBFBB,W
+play,4,0,castw003,11,BCX,43/G34
+play,4,1,naylj001,11,CBX,43/G4
+play,4,1,calhk001,32,BFBCBFFX,8/F78
+play,4,1,gimea001,32,BBS.SBS,K
+play,5,0,julie001,22,BCBCC,K
+play,5,0,polaj001,11,CBX,D7/F7D
+com,"$Umpire reviewed (home run), call on the field was upheld."
+play,5,0,lewir003,01,SX,S9/L9.2-3
+play,5,0,keplm001,22,C1FBBS,K
+play,5,0,corrc001,32,CBBF.B>B,W.1-2
+play,5,0,solad001,11,SBX,64(1)/FO/G6.B-1
+play,5,1,ariag002,01,SX,D8/L8XD+
+play,5,1,brenw002,01,FX,43/G34.2-3
+play,5,1,naylb001,31,B*BCBB,W
+play,5,1,stram002,02,FF1>*B,SB2
+play,5,1,stram002,22,FF1>*B.BX,9/SF/L9L.3-H;2-3
+play,5,1,kwans001,00,X,43/G4
+play,6,0,wallm001,00,,NP
+sub,moorm003,"Matt Moore",1,0,1
+play,6,0,wallm001,00,.,NP
+sub,luplj001,"Jordan Luplow",0,7,11
+play,6,0,luplj001,22,..FBBCS,K
+play,6,0,vazqc001,00,X,HR/F9LD
+play,6,0,castw003,11,BCX,S8/L8D
+play,6,0,julie001,00,,NP
+sub,farmk001,"Kyle Farmer",0,1,11
+play,6,0,farmk001,01,.CX,D8/F78XD.1-3
+play,6,0,polaj001,32,SBFB*BS,K
+play,6,0,lewir003,22,F*BFBS,K
+play,6,1,ramij003,00,,NP
+sub,farmk001,"Kyle Farmer",0,1,4
+play,6,1,ramij003,00,.,NP
+sub,luplj001,"Jordan Luplow",0,7,7
+play,6,1,ramij003,00,..X,S9/G34
+play,6,1,naylj001,02,CF.X,6/L6
+play,6,1,calhk001,12,C1*BF1>X,S8/F8S.1-3
+play,6,1,gimea001,32,BBFBF.1S,K
+play,6,1,ariag002,01,FX,9/L89D
+play,7,0,keplm001,00,,NP
+sub,loper003,"Reynaldo Lopez",1,0,1
+play,7,0,keplm001,01,.SX,63/G6M
+play,7,0,corrc001,01,S.X,13/G1
+play,7,0,solad001,01,SX,S8/G6M
+play,7,0,luplj001,00,,NP
+sub,steva001,"Andrew Stevenson",0,7,11
+play,7,0,steva001,12,.CBFB,WP.1-2
+play,7,0,steva001,22,.CBFB.S,K
+play,7,1,brenw002,00,,NP
+sub,steva001,"Andrew Stevenson",0,7,8
+play,7,1,brenw002,00,.,NP
+sub,castw003,"Willi Castro",0,9,7
+play,7,1,brenw002,00,..,NP

@@ -1,0 +1,103 @@
+id,TOR202304240
+version,2
+info,visteam,CHA
+info,hometeam,TOR
+info,site,TOR02
+info,date,2023/04/24
+info,number,0
+info,gametype,regular
+info,starttime,7:07PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,rackd901
+info,ump1b,riggj901
+info,ump2b,guccc901
+info,ump3b,blakr901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/05/23 09:03:25
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,lajor701
+info,temp,68
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,160
+info,attendance,26293
+info,wp,bassc001
+info,lp,lynnl001
+info,save,romaj004
+start,robel002,"Luis Robert Jr.",0,1,8
+start,benia002,"Andrew Benintendi",0,2,7
+start,vauga001,"Andrew Vaughn",0,3,3
+start,jimee001,"Eloy Jimenez",0,4,10
+start,grany001,"Yasmani Grandal",0,5,2
+start,burgj001,"Jake Burger",0,6,5
+start,colao001,"Oscar Colas",0,7,9
+start,andre001,"Elvis Andrus",0,8,6
+start,sosal001,"Lenyn Sosa",0,9,4
+start,lynnl001,"Lance Lynn",0,0,1
+start,bichb001,"Bo Bichette",1,1,6
+start,guerv002,"Vladimir Guerrero Jr.",1,2,10
+start,varsd001,"Daulton Varsho",1,3,7
+start,chapm001,"Matt Chapman",1,4,5
+start,kirka001,"Alejandro Kirk",1,5,2
+start,beltb001,"Brandon Belt",1,6,3
+start,merrw001,"Whit Merrifield",1,7,4
+start,biggc002,"Cavan Biggio",1,8,9
+start,kierk001,"Kevin Kiermaier",1,9,8
+start,bassc001,"Chris Bassitt",1,0,1
+play,1,0,robel002,02,SSS,K
+play,1,0,benia002,32,BBBCFB,W
+play,1,0,vauga001,00,N,BK.1-2
+play,1,0,vauga001,12,N.CFBS,K
+play,1,0,jimee001,10,BX,63/G56+
+play,1,1,bichb001,20,BBX,9/F89S
+play,1,1,guerv002,12,SBCX,63/G6D+
+play,1,1,varsd001,22,SBBTS,K
+play,2,0,grany001,01,CX,9/F9D
+play,2,0,burgj001,20,BBX,63/G6
+play,2,0,colao001,00,X,3/G3
+play,2,1,chapm001,22,CBBFS,K
+play,2,1,kirka001,32,BCFFBBB,W
+play,2,1,beltb001,10,BX,8/F78D
+play,2,1,merrw001,22,CBFFBX,53/G56
+play,3,0,andre001,32,.CFFBBBFFX,9/L9
+play,3,0,sosal001,10,BX,13/BG25
+play,3,0,robel002,31,CBBBB,W
+play,3,0,benia002,10,*BX,S9/L9.1-2
+play,3,0,vauga001,11,SBX,D8/L8XD+.2-H;1-H
+play,3,0,jimee001,12,CFBX,7/F7L
+play,3,1,biggc002,32,CBBFBC,K
+play,3,1,kierk001,32,FBSBBB,W
+play,3,1,bichb001,32,*BCBFB>X,S3/G3.1-2
+play,3,1,guerv002,21,BCBX,6(1)3/GDP/G6+
+play,4,0,grany001,32,BFBFBB,W
+play,4,0,burgj001,02,CFFX,4/P3DF/FL
+play,4,0,colao001,10,BX,6/L6
+play,4,0,andre001,10,BX,8/F8
+play,4,1,varsd001,32,SBBSFBX,9/F9D
+play,4,1,chapm001,22,CBBSX,8/F8XD+
+play,4,1,kirka001,32,FBBBCB,W
+play,4,1,beltb001,00,X,S9/L9D+.1-2
+play,4,1,merrw001,11,CBX,D7/L7L+.2-H;1-3
+play,4,1,biggc002,12,CFF*BX,HR/F9LD.3-H;2-H
+play,4,1,kierk001,21,CBBX,S9/L9
+play,4,1,bichb001,01,SX,13/G13-
+play,5,0,sosal001,02,CCX,23/G2-
+play,5,0,robel002,32,CBFBFBS,K
+play,5,0,benia002,11,SBX,S9/G34
+play,5,0,vauga001,12,CF1BT,K
+play,5,1,guerv002,12,SBSS,K
+play,5,1,varsd001,12,SBFFFX,7/F7
+play,5,1,chapm001,12,BFCX,63/G6S
+play,6,0,jimee001,11,CBX,4/P6M
+play,6,0,grany001,01,CX,43/G4+
+play,6,0,burgj001,01,CH,HP
+play,6,0,colao001,01,CX,3/G3
+play,6,1,kirka001,00,,NP

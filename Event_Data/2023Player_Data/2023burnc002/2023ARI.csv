@@ -1,0 +1,144 @@
+id,ARI202304110
+version,2
+info,visteam,MIL
+info,hometeam,ARI
+info,site,PHO01
+info,date,2023/04/11
+info,number,0
+info,gametype,regular
+info,starttime,6:40PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,vondc901
+info,ump1b,morag901
+info,ump2b,iassd901
+info,ump3b,barrs901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/05 09:04:32
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,magrj701
+info,temp,93
+info,winddir,unknown
+info,windspeed,5
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,139
+info,attendance,17069
+info,wp,burnc002
+info,lp,kellm002
+info,save,
+start,yelic001,"Christian Yelich",0,1,10
+start,adamw002,"Willy Adames",0,2,6
+start,tellr001,"Rowdy Tellez",0,3,3
+start,andeb006,"Brian Anderson",0,4,9
+start,mitcg001,"Garrett Mitchell",0,5,8
+start,carav001,"Victor Caratini",0,6,2
+start,turab002,"Brice Turang",0,7,4
+start,wiemj001,"Joey Wiemer",0,8,7
+start,brosm001,"Mike Brosseau",0,9,5
+start,burnc002,"Corbin Burnes",0,0,1
+start,rojaj001,"Josh Rojas",1,1,5
+start,martk001,"Ketel Marte",1,2,4
+start,smitp002,"Pavin Smith",1,3,3
+start,longe001,"Evan Longoria",1,4,10
+start,carrc005,"Corbin Carroll",1,5,7
+start,mccaj003,"Jake McCarthy",1,6,9
+start,moreg001,"Gabriel Moreno",1,7,2
+start,thoma004,"Alek Thomas",1,8,8
+start,perdg001,"Geraldo Perdomo",1,9,6
+start,kellm002,"Merrill Kelly",1,0,1
+play,1,0,yelic001,32,CBBFF.BC,K
+play,1,0,adamw002,32,BFBBF.B,W
+play,1,0,tellr001,01,CX,13/G1S.1-2
+play,1,0,andeb006,11,BFX,43/G4
+play,1,1,rojaj001,11,CBX,9/F89
+play,1,1,martk001,11,BS.X,43/G4
+play,1,1,smitp002,12,CSBS,K
+play,2,0,mitcg001,32,BSBF.BC,K
+play,2,0,carav001,12,CC.BX,53/G6
+play,2,0,turab002,32,CBTBBS,K
+play,2,1,longe001,01,CX,9/F9L
+play,2,1,carrc005,02,CSX,9/F89XD
+play,2,1,mccaj003,12,LSBC,K
+play,3,0,wiemj001,32,CBT.FBVB,W
+play,3,0,brosm001,11,BS>B,SB2
+play,3,0,brosm001,22,BS>B.C>B,CS3(25)
+play,3,0,brosm001,32,BS>B.C>B.S,K
+play,3,0,yelic001,22,SSBBS,K
+play,3,1,moreg001,01,SX,S8/G4M
+play,3,1,thoma004,11,BCX,14(1)3/GDP/G4M
+play,3,1,perdg001,22,CBCBS,K
+play,4,0,adamw002,00,X,53/G5
+play,4,0,tellr001,12,CFBX,8/L8XD+
+play,4,0,andeb006,02,CSX,9/F9D
+play,4,1,rojaj001,12,FSFBS,K
+play,4,1,martk001,10,BX,8/L8XD
+play,4,1,smitp002,32,BBBCSS,K
+play,5,0,mitcg001,12,CFBX,31/G34
+play,5,0,carav001,10,BH,HP
+play,5,0,turab002,01,CX,46(1)3/GDP/G34
+play,5,1,longe001,12,CS.FBS,K
+play,5,1,carrc005,22,BCFFBF.FFC,K
+play,5,1,mccaj003,00,X,3/G3
+play,6,0,wiemj001,12,FFBFX,53/G56
+play,6,0,brosm001,32,BBBCS.FFFS,K
+play,6,0,yelic001,12,FCBS,K
+play,6,1,moreg001,21,BBCX,53/G56
+play,6,1,thoma004,01,CX,43/G4D
+play,6,1,perdg001,12,CSBC,K
+play,7,0,adamw002,01,CX,HR/F8XD
+play,7,0,tellr001,31,FBBBB,W
+play,7,0,andeb006,32,FBBFBB,W.1-2
+play,7,0,mitcg001,00,,NP
+sub,castm002,"Miguel Castro",1,0,1
+play,7,0,mitcg001,01,.FX,S9/L9.2-3;1-2
+play,7,0,carav001,31,BBBCB,W.3-H;2-3;1-2
+play,7,0,turab002,11,FBX,5/P5F/FL
+play,7,0,wiemj001,11,SBX,43/G34.3-H;2-3;1-2
+play,7,0,brosm001,32,CB*BBCFX,D7/L7LD+.3-H;2-H
+play,7,0,yelic001,00,,NP
+sub,nelsk001,"Kyle Nelson",1,0,1
+play,7,0,yelic001,11,.CBX,43/G34
+play,7,1,rojaj001,11,CBX,63/G6
+play,7,1,martk001,31,BBBCX,63/G4MD
+play,7,1,smitp002,00,X,43/G34
+play,8,0,adamw002,00,,NP
+sub,ruizj001,"Jose Ruiz",1,0,1
+play,8,0,adamw002,32,.SBCBB.X,63/G6
+play,8,0,tellr001,11,CBX,HR/F9LD
+play,8,0,andeb006,02,CTX,43/G2
+play,8,0,mitcg001,11,BSX,S9/G34
+play,8,0,carav001,01,CX,S8/L8.1-2
+play,8,0,turab002,32,BCBBF>T,K
+play,8,1,longe001,12,CFBX,8/F78XD
+play,8,1,carrc005,12,BFFX,8/F89D
+play,8,1,mccaj003,00,X,S8/L8D
+play,8,1,moreg001,00,X,S9/L89D.1-3
+play,8,1,thoma004,02,S.SX,41/G34
+play,9,0,wiemj001,00,,NP
+sub,vargc003,"Carlos Vargas",1,0,1
+play,9,0,wiemj001,02,.FCFS,K
+play,9,0,brosm001,11,CBX,HR/F89XD
+play,9,0,yelic001,00,X,S7/L78
+play,9,0,adamw002,10,*BX,4(1)3/GDP/G4
+play,9,1,perdg001,00,,NP
+sub,payaj001,"Joel Payamps",0,0,1
+play,9,1,perdg001,00,.X,7/L7D
+play,9,1,rojaj001,32,CBCBBFF*B,W
+play,9,1,martk001,21,FBBX,36(1)/FO/G34.B-1
+play,9,1,smitp002,01,C>B,DI.1-2
+play,9,1,smitp002,12,C>B.FX,S9/G34.2-H
+play,9,1,longe001,00,>B,DI.1-2
+play,9,1,longe001,32,>B.BBSFX,2/P2F/FL
+data,er,payaj001,1
+data,er,burnc002,0
+data,er,nelsk001,0
+data,er,kellm002,3
+data,er,castm002,2
+data,er,ruizj001,1
+data,er,vargc003,1

@@ -1,0 +1,1791 @@
+id,ATL202304100
+version,2
+info,visteam,CIN
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/04/10
+info,number,0
+info,gametype,regular
+info,starttime,7:20PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,tumpj901
+info,ump1b,blakr901
+info,ump2b,hudsm901
+info,ump3b,wendh902
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/05/20 17:38:56
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,mustr701
+info,temp,65
+info,winddir,ltor
+info,windspeed,9
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,167
+info,attendance,30237
+info,wp,lee-d005
+info,lp,law-d001
+info,save,
+start,indij001,"Jonathan India",0,1,4
+start,friet001,"TJ Friedl",0,2,8
+start,fralj001,"Jake Fraley",0,3,9
+start,stept001,"Tyler Stephenson",0,4,2
+start,myerw001,"Wil Myers",0,5,10
+start,voslj001,"Jason Vosler",0,6,3
+start,stees001,"Spencer Steer",0,7,5
+start,bensw001,"Will Benson",0,8,7
+start,garcj007,"Jose Barrero",0,9,6
+start,ashcg001,"Graham Ashcraft",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,olsom001,"Matt Olson",1,2,3
+start,rilea001,"Austin Riley",1,3,5
+start,murps001,"Sean Murphy",1,4,2
+start,albio001,"Ozzie Albies",1,5,4
+start,rosae001,"Eddie Rosario",1,6,10
+start,arcio002,"Orlando Arcia",1,7,6
+start,pillk001,"Kevin Pillar",1,8,7
+start,white006,"Eli White",1,9,8
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,indij001,01,CX,S7/L7D
+play,1,0,friet001,32,CCBBB>B,W.1-2
+play,1,0,fralj001,22,FBTBX,6(1)3/GDP/G6M.2-3
+play,1,0,stept001,12,CBSS,K
+play,1,1,acunr001,02,CFFX,S14/G4MS
+play,1,1,olsom001,30,BBBB,W.1-2
+play,1,1,rilea001,02,CSX,46(1)3/GDP/G4.2-3
+play,1,1,murps001,22,*BBFCFS,K
+play,2,0,myerw001,22,BSBSFS,K
+play,2,0,voslj001,12,CFFFBT,K
+play,2,0,stees001,01,CX,D9/L9
+play,2,0,bensw001,32,BBCSBC,K
+play,2,1,albio001,12,CCBX,1/G34S
+play,2,1,rosae001,32,BFFBFBB,W
+play,2,1,arcio002,00,X,S9/G3.1-2
+play,2,1,pillk001,20,BBX,2/P2F/FL
+play,2,1,white006,22,BFBSS,K
+play,3,0,garcj007,00,X,S56/G56
+play,3,0,indij001,22,CBFBX,9/F9LS
+play,3,0,friet001,32,BBBCC>X,7/F78S
+play,3,0,fralj001,00,X,S7/F7L.1-2
+play,3,0,stept001,22,C*BFBFS,K
+play,3,1,acunr001,00,X,S8/G6M+
+play,3,1,olsom001,11,1BCX,36(1)1/GDP/G3S+
+play,3,1,rilea001,12,BFFS,K
+play,4,0,myerw001,32,BBFSBFFX,63/G6
+play,4,0,voslj001,00,X,13/G1S
+play,4,0,stees001,12,CBT.C,K
+play,4,1,murps001,31,FBBBX,D7/G5
+play,4,1,albio001,32,BFBBTS,K
+play,4,1,rosae001,00,X,7/F7L
+play,4,1,arcio002,12,CSBS,K
+play,5,0,bensw001,11,TBX,43/G4D
+play,5,0,garcj007,11,BCX,S6/G6+
+play,5,0,indij001,11,BCX,46(1)3/GDP/G4
+play,5,1,pillk001,12,FFBX,3/P3
+play,5,1,white006,10,BX,13/G34S
+play,5,1,acunr001,21,FBBX,8/F8XD+
+play,6,0,friet001,12,CBFL,K
+play,6,0,fralj001,02,FCX,9/L9D+
+play,6,0,stept001,11,BSX,13/G1S-
+play,6,1,olsom001,12,CCBS,K
+play,6,1,rilea001,01,FX,S9/L9
+play,6,1,murps001,01,CX,D7/G5.1-H
+play,6,1,albio001,12,BFFFFS,K
+play,6,1,rosae001,02,FFFFFFX,31/G3
+play,7,0,myerw001,12,CBCX,S7/L7D
+play,7,0,voslj001,32,CBSF*BFFFFBX,3/P3F/FL
+play,7,0,stees001,00,,NP
+id,ATL202304210
+version,2
+info,visteam,HOU
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/04/21
+info,number,0
+info,gametype,regular
+info,starttime,7:20PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,nelsj901
+info,ump1b,buckc901
+info,ump2b,segac901
+info,ump3b,may-b901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/05/20 17:39:08
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,curtg701
+info,temp,75
+info,winddir,ltor
+info,windspeed,7
+info,fieldcond,unknown
+info,precip,none
+info,sky,overcast
+info,timeofgame,170
+info,attendance,41397
+info,wp,nerih001
+info,lp,minta001
+info,save,presr001
+start,dubom001,"Mauricio Dubon",0,1,4
+start,brega001,"Alex Bregman",0,2,5
+start,alvay001,"Yordan Alvarez",0,3,10
+start,abrej003,"Jose Abreu",0,4,3
+start,tuckk001,"Kyle Tucker",0,5,9
+start,penaj004,"Jeremy Pena",0,6,6
+start,julkc001,"Corey Julks",0,7,7
+start,diazy004,"Yainer Diaz",0,8,2
+start,meyej002,"Jake Meyers",0,9,8
+start,browh001,"Hunter Brown",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,olsom001,"Matt Olson",1,2,3
+start,rilea001,"Austin Riley",1,3,5
+start,murps001,"Sean Murphy",1,4,2
+start,rosae001,"Eddie Rosario",1,5,10
+start,albio001,"Ozzie Albies",1,6,4
+start,grisv001,"Vaughn Grissom",1,7,6
+start,hills005,"Sam Hilliard",1,8,8
+start,pillk001,"Kevin Pillar",1,9,7
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,dubom001,21,BFBX,E5/TH/G5.B-1
+play,1,0,brega001,20,BBX,D8/L8XD+.1-H(UR)
+play,1,0,alvay001,00,H,HP
+play,1,0,abrej003,22,BCBSFS,K
+play,1,0,tuckk001,32,FB*BFBFX,8/L8D+
+play,1,0,penaj004,02,CSS,K
+play,1,1,acunr001,32,ABCBFBX,D9/F9LD
+play,1,1,olsom001,12,BSCS,K
+play,1,1,rilea001,00,X,D8/L89XD+.2-H
+play,1,1,murps001,32,FBS*BFBB,W
+play,1,1,rosae001,12,BCS+2*S,K
+play,1,1,albio001,00,X,D8/L78XD+.2-H;1-H
+play,1,1,grisv001,12,FBFX,S7/G6.2-H
+play,1,1,hills005,01,CX,6/P4MD
+play,2,0,julkc001,22,CSBBX,S7/L7D
+play,2,0,diazy004,00,B,WP.1-2
+play,2,0,diazy004,10,B.X,63/G56
+play,2,0,meyej002,31,*BBBCX,S7/G5.2-3
+play,2,0,dubom001,01,FX,64(1)3/GDP/G6
+play,2,1,pillk001,12,CFBFX,53/G5S
+play,2,1,acunr001,00,X,53/G56
+play,2,1,olsom001,21,BBSX,5/P1S
+play,3,0,brega001,22,CS.BBX,S7/L78
+play,3,0,alvay001,12,BF*SFC,K
+play,3,0,abrej003,20,BBX,54(1)3/GDP/G5
+play,3,1,rilea001,11,BCX,8/L8D
+play,3,1,murps001,12,CBFFH,HP
+play,3,1,rosae001,12,FFBX,S7/L7S.1-2
+play,3,1,albio001,12,SBFX,6/L6MD
+play,3,1,grisv001,12,CSB*S,K.BX1(23)
+play,4,0,tuckk001,00,X,43/G4
+play,4,0,penaj004,12,FBF.X,63/G56
+play,4,0,julkc001,32,CSBFBFFBC,K
+play,4,1,hills005,32,BCFBBS,K
+play,4,1,pillk001,12,CS.BFFS,K
+play,4,1,acunr001,31,BBCBX,D9/L89XD+
+play,4,1,olsom001,02,FCX,9/F89D
+play,5,0,diazy004,00,X,53/G56
+play,5,0,meyej002,01,CX,63/G56
+play,5,0,dubom001,21,CBBX,S9/L9D+
+play,5,0,brega001,12,FBS>F>B,SB2
+com,"$Astros challenged (tag play), call on the field was overturned."
+play,5,0,brega001,22,FBS>F>B.FS,K
+play,5,1,rilea001,00,X,S8/L89D
+play,5,1,murps001,32,BBBCFS,K
+play,5,1,rosae001,02,CCFS,K
+play,5,1,albio001,20,VBB,WP.1-2
+play,5,1,albio001,30,VBB.B,W
+play,5,1,grisv001,00,,NP
+sub,matop002,"Phil Maton",0,0,1
+play,5,1,grisv001,00,.X,4(1)/FO/G4M.B-1
+play,6,0,alvay001,21,BBCX,7/F7D+
+play,6,0,abrej003,31,BBBC*B,W
+play,6,0,tuckk001,32,BBCFBX,3/P34S
+play,6,0,penaj004,12,BFSS,K
+play,6,1,hills005,32,BBCS.BS,K
+play,6,1,pillk001,00,X,7/L78XD
+play,6,1,acunr001,00,X,63/G6
+play,7,0,julkc001,00,,NP
+id,ATL202304260
+version,2
+info,visteam,MIA
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/04/26
+info,number,0
+info,gametype,regular
+info,starttime,7:20PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,hobep901
+info,ump1b,cejan901
+info,ump2b,marqa901
+info,ump3b,onorb901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/05/20 17:39:14
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,stamm701
+info,temp,55
+info,winddir,torf
+info,windspeed,7
+info,fieldcond,unknown
+info,precip,none
+info,sky,overcast
+info,timeofgame,148
+info,attendance,30282
+info,wp,tonkm001
+info,lp,flord002
+info,save,minta001
+start,chisj001,"Jazz Chisholm Jr.",0,1,8
+start,coopg002,"Garrett Cooper",0,2,3
+start,solej001,"Jorge Soler",0,3,10
+start,arral001,"Luis Arraez",0,4,4
+start,garca003,"Avisail Garcia",0,5,7
+start,sancj003,"Jesus Sanchez",0,6,9
+start,bertj001,"Jon Berti",0,7,5
+start,stalj001,"Jacob Stallings",0,8,2
+start,hampg001,"Garrett Hampson",0,9,6
+start,alcas001,"Sandy Alcantara",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,olsom001,"Matt Olson",1,2,3
+start,rilea001,"Austin Riley",1,3,5
+start,murps001,"Sean Murphy",1,4,2
+start,rosae001,"Eddie Rosario",1,5,7
+start,albio001,"Ozzie Albies",1,6,4
+start,grisv001,"Vaughn Grissom",1,7,6
+start,ozunm001,"Marcell Ozuna",1,8,10
+start,hills005,"Sam Hilliard",1,9,8
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,chisj001,21,BBCX,3/G3
+play,1,0,coopg002,02,CFF.*S,K
+play,1,0,solej001,32,BBBCCX,63/G56
+play,1,1,acunr001,00,X,8/F8XD+
+play,1,1,olsom001,02,CSS,K
+play,1,1,rilea001,12,BSST,K
+play,2,0,arral001,12,BSSX,53/G56
+play,2,0,garca003,32,BFFBBFX,53/G5
+play,2,0,sancj003,32,SFBFBBX,HR/F9D
+play,2,0,bertj001,00,X,D7/L7L
+play,2,0,stalj001,00,X,53/G56
+play,2,1,murps001,00,X,43/G6MD
+play,2,1,rosae001,02,CSS,K
+play,2,1,albio001,21,BFBX,S9/L9D+
+play,2,1,grisv001,00,X,54(1)/FO/G6.B-1
+play,3,0,hampg001,01,CX,43/G4
+play,3,0,chisj001,31,BBBFX,HR/F8XD
+play,3,0,coopg002,12,BSFFX,43/G4
+play,3,0,solej001,10,BX,53/G5
+play,3,1,ozunm001,12,BSTFFFX,63/G6
+play,3,1,hills005,02,SSS,K
+play,3,1,acunr001,32,CBBFFB*B,W
+play,3,1,olsom001,32,1BBFT.FFB>X,9/F9
+play,4,0,arral001,12,CBFX,63/G6M
+play,4,0,garca003,20,BBX,HR/F7LD
+play,4,0,sancj003,22,BFBSFX,43/G34
+play,4,0,bertj001,12,CBSFS,K
+play,4,1,rilea001,01,SX,53/G56D
+play,4,1,murps001,12,CBFX,63/G6
+play,4,1,rosae001,01,SX,9/F89D
+play,5,0,stalj001,00,X,53/G5
+play,5,0,hampg001,22,BBCCFX,43/G34
+play,5,0,chisj001,02,CC.*S,K
+play,5,1,albio001,21,TBBX,43/G34D
+play,5,1,grisv001,32,BF.BBFX,63/G6
+play,5,1,ozunm001,00,X,S7/G6+
+play,5,1,hills005,32,BBBCF>*S,K
+play,6,0,coopg002,12,CFFBFFX,S7/L7+
+play,6,0,solej001,31,*BB*S*BB,W.1-2
+play,6,0,arral001,01,FX,9/F9D.2-3
+play,6,0,garca003,00,B,WP.1-2
+play,6,0,garca003,32,B.*B*BCSB,W
+play,6,0,sancj003,00,,NP
+id,ATL202305070
+version,2
+info,visteam,BAL
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/05/07
+info,number,0
+info,gametype,regular
+info,starttime,11:35AM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,wegnm901
+info,ump1b,drecb901
+info,ump2b,sches901
+info,ump3b,moorm901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/05/20 17:39:26
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,curtg701
+info,temp,73
+info,winddir,fromrf
+info,windspeed,6
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,209
+info,attendance,40800
+info,wp,tonkm001
+info,lp,perec004
+info,save,
+start,mullc002,"Cedric Mullins",0,1,8
+start,santa003,"Anthony Santander",0,2,10
+start,mounr001,"Ryan Mountcastle",0,3,3
+start,hendg002,"Gunnar Henderson",0,4,6
+start,haysa001,"Austin Hays",0,5,7
+start,fraza001,"Adam Frazier",0,6,4
+start,uriar001,"Ramon Urias",0,7,5
+start,stowk001,"Kyle Stowers",0,8,9
+start,mccaj001,"James McCann",0,9,2
+start,wellt003,"Tyler Wells",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,olsom001,"Matt Olson",1,2,3
+start,rilea001,"Austin Riley",1,3,5
+start,albio001,"Ozzie Albies",1,4,4
+start,rosae001,"Eddie Rosario",1,5,7
+start,ozunm001,"Marcell Ozuna",1,6,10
+start,harrm004,"Michael Harris II",1,7,8
+start,arcio002,"Orlando Arcia",1,8,6
+start,tromc001,"Chadwick Tromp",1,9,2
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,mullc002,30,BBBB,W
+play,1,0,santa003,01,CX,8/F8
+play,1,0,mounr001,00,1X,64(1)3/GDP/G6
+play,1,1,acunr001,10,BX,63/G6MS
+play,1,1,olsom001,31,BSBBX,HR/F78XD
+play,1,1,rilea001,22,CBSFBS,K
+play,1,1,albio001,20,BBX,8/F78
+play,2,0,hendg002,22,BFBS.X,63/G6M
+play,2,0,haysa001,02,CCS,K
+play,2,0,fraza001,30,BBBB,W
+play,2,0,uriar001,22,1BCSBFF1.X,13/G1S
+play,2,1,rosae001,32,BCBBCFS,K
+play,2,1,ozunm001,21,.BFBX,E5/TH/G5.B-1
+play,2,1,harrm004,31,BBFBX,5/P6S
+play,2,1,arcio002,12,FSBS,K
+play,3,0,stowk001,32,BCBFBS,K
+play,3,0,mccaj001,12,FCBFX,E5/TH/G5.B-1
+play,3,0,mullc002,22,C*BF*BX,D9/L9L.1-3
+play,3,0,santa003,22,SF*BBH,HP
+play,3,0,mounr001,22,*BFT*BC,K
+play,3,0,hendg002,12,C*BSS,K
+play,3,1,tromc001,22,CBFBFX,7/F78D
+play,3,1,acunr001,12,BSCFX,43/G4MD
+play,3,1,olsom001,32,CBBFBFX,7/F78XD
+play,4,0,haysa001,21,BSBX,S4/G4M
+play,4,0,fraza001,11,BF1X,D9/L9LD.1-3
+play,4,0,uriar001,00,X,63/G6.3-H
+play,4,0,stowk001,11,BFX,5/P5F/FL
+play,4,0,mccaj001,00,X,63/G6D
+play,4,1,rilea001,21,BSBX,53/G6
+play,4,1,albio001,10,BX,4/P9S
+play,4,1,rosae001,22,BBFCX,S9/L34D+
+play,4,1,ozunm001,32,CF1BB1*B>B,W.1-2
+play,4,1,harrm004,00,X,8/F1S+
+play,5,0,mullc002,00,X,8/L8D
+play,5,0,santa003,00,X,S34/G3
+play,5,0,mounr001,21,*BBFX,9/L89D
+play,5,0,hendg002,21,*BBCX,13/G2-
+play,5,1,arcio002,32,CFBBBX,D9/L89D+
+play,5,1,tromc001,32,BBSFBFS,K
+play,5,1,acunr001,21,BFBX,9/F9.2-3
+play,5,1,olsom001,32,FBFBFBX,31/G3
+play,6,0,haysa001,32,CF.BBBB,W
+play,6,0,fraza001,10,BX,46(1)/FO/G4.B-1
+play,6,0,uriar001,32,1BCB>FFB>F>F>F*B,W.1-2
+play,6,0,stowk001,00,,NP
+id,ATL202305190
+version,2
+info,visteam,SEA
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/05/19
+info,number,0
+info,gametype,regular
+info,starttime,7:20PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,jimee902
+info,ump1b,mosce901
+info,ump2b,guccc901
+info,ump3b,rackd901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/06/21 09:12:06
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,stamm701
+info,temp,74
+info,winddir,ltor
+info,windspeed,6
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,149
+info,attendance,40412
+info,wp,mchuc001
+info,lp,millb004
+info,save,
+start,crawj002,"J.P. Crawford",0,1,6
+start,frant002,"Ty France",0,2,3
+start,rodrj007,"Julio Rodriguez",0,3,8
+start,kelej001,"Jarred Kelenic",0,4,7
+start,suare001,"Eugenio Suarez",0,5,5
+start,ralec001,"Cal Raleigh",0,6,2
+start,hernt002,"Teoscar Hernandez",0,7,9
+start,tramt001,"Taylor Trammell",0,8,10
+start,cabaj001,"Jose Caballero",0,9,4
+start,millb004,"Bryce Miller",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,olsom001,"Matt Olson",1,2,3
+start,murps001,"Sean Murphy",1,3,2
+start,rilea001,"Austin Riley",1,4,5
+start,rosae001,"Eddie Rosario",1,5,7
+start,albio001,"Ozzie Albies",1,6,4
+start,ozunm001,"Marcell Ozuna",1,7,10
+start,arcio002,"Orlando Arcia",1,8,6
+start,harrm004,"Michael Harris II",1,9,8
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,crawj002,01,CX,S8/L89
+play,1,0,frant002,22,*BSBFX,64(1)3/GDP/G6
+play,1,0,rodrj007,02,CFS,K
+play,1,1,acunr001,11,BCX,D9/L89D+
+play,1,1,olsom001,11,CBX,D9/L9LS+.2-H
+play,1,1,murps001,00,X,3/G3.2-3
+play,1,1,rilea001,12,FSBX,4/L4MD+
+play,1,1,rosae001,12,CBSX,9/F9D+
+play,2,0,kelej001,02,CFX,31/G3
+play,2,0,suare001,02,FSS,K
+play,2,0,ralec001,12,CFBX,S9/L89
+play,2,0,hernt002,12,FBSS,K
+play,2,1,albio001,32,BBBFF.X,9/L89XD+
+play,2,1,ozunm001,02,CFC,K
+play,2,1,arcio002,21,BCBX,53/G5
+play,3,0,tramt001,12,CS.BC,K
+play,3,0,cabaj001,00,X,43/G4
+play,3,0,crawj002,11,CBX,13/G4MS
+play,3,1,harrm004,20,BBX,7/F7LSF/FL
+play,3,1,acunr001,22,TBCF.BX,53/G56
+play,3,1,olsom001,20,BBX,31/G3
+play,4,0,frant002,11,BFX,3/L34
+play,4,0,rodrj007,00,X,63/G6
+play,4,0,kelej001,21,BBFX,S9/L89D
+play,4,0,suare001,01,C>B,CS2(24)
+play,4,1,murps001,00,X,S9/L89
+play,4,1,rilea001,32,FBBFFBFFX,6/P6S
+play,4,1,rosae001,02,FSS,K
+play,4,1,albio001,12,FFBX,3/G3
+play,5,0,suare001,22,BSSBT,K
+play,5,0,ralec001,11,SBX,3/P3S
+play,5,0,hernt002,10,BX,S8/G6M
+play,5,0,tramt001,32,BBFBC.>S,K
+play,5,1,ozunm001,12,FFBS,K
+play,5,1,arcio002,12,CFFFBX,63/G6
+play,5,1,harrm004,01,TX,13/G13
+play,6,0,cabaj001,22,CSBFBX,63/G6
+play,6,0,crawj002,22,CBBFX,D8/L89XD
+play,6,0,frant002,22,FBSBB,WP.2-3
+play,6,0,frant002,32,FBSBB.X,8/L89/DP.3XH(82)
+play,6,1,acunr001,22,CFBBS,K
+play,6,1,olsom001,31,BFBBX,7/L7D+
+play,6,1,murps001,22,BCCBFX,9/F89D+
+play,7,0,rodrj007,02,FFFX,D9/F89XD+
+play,7,0,kelej001,32,B*BF*BF*B,W+WP.2-3
+play,7,0,suare001,10,BX,S7/L7.3-H;1-2
+play,7,0,ralec001,00,,NP
+id,ATL202305240
+version,2
+info,visteam,LAN
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/05/24
+info,number,0
+info,gametype,regular
+info,starttime,7:20PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,muchm901
+info,ump1b,barbs901
+info,ump2b,porta901
+info,ump3b,wolfj901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/06/19 09:03:45
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,mustr701
+info,temp,77
+info,winddir,torf
+info,windspeed,5
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,162
+info,attendance,37838
+info,wp,igler001
+info,lp,bickp001
+info,save,
+start,bettm001,"Mookie Betts",0,1,9
+start,freef001,"Freddie Freeman",0,2,3
+start,smitw003,"Will Smith",0,3,2
+start,muncm001,"Max Muncy",0,4,5
+start,martj006,"J.D. Martinez",0,5,10
+start,heywj001,"Jason Heyward",0,6,8
+start,vargm001,"Miguel Vargas",0,7,4
+start,perad001,"David Peralta",0,8,7
+start,taylc001,"Chris Taylor",0,9,6
+start,gonst001,"Tony Gonsolin",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,olsom001,"Matt Olson",1,2,3
+start,rilea001,"Austin Riley",1,3,5
+start,darnt001,"Travis d'Arnaud",1,4,2
+start,rosae001,"Eddie Rosario",1,5,7
+start,albio001,"Ozzie Albies",1,6,4
+start,ozunm001,"Marcell Ozuna",1,7,10
+start,arcio002,"Orlando Arcia",1,8,6
+start,harrm004,"Michael Harris II",1,9,8
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,bettm001,02,CSX,S8/G6M
+play,1,0,freef001,22,BSCBF1X,S7/L78.1-2
+play,1,0,smitw003,11,*BFX,54(1)/FO/G56.2-3;B-1
+play,1,0,muncm001,32,*BC*BBCS,K
+play,1,0,martj006,02,FCB,WP.1-2
+play,1,0,martj006,22,FCB.*BC,K
+play,1,1,acunr001,00,X,63/G15
+play,1,1,olsom001,02,CST,K
+play,1,1,rilea001,21,CBBX,7/F7D
+play,2,0,heywj001,01,CX,63/G4MD
+play,2,0,vargm001,22,CBFBFX,S6/G56
+play,2,0,perad001,22,B*BCFX,S7/L78.1-2
+play,2,0,taylc001,02,SFFS,K
+play,2,0,bettm001,10,BX,64(1)/FO/G56.B-1
+play,2,1,darnt001,10,.BX,9/F9L
+play,2,1,rosae001,12,BFFS,K
+play,2,1,albio001,11,CBX,31/G3D
+play,3,0,freef001,01,FX,43/G4
+play,3,0,smitw003,32,CBBS.BF*B,W
+play,3,0,muncm001,11,BCX,5/P6S
+play,3,0,martj006,22,SSBBX,S9/G34.1-2
+play,3,0,heywj001,11,CBX,43/G4
+play,3,1,ozunm001,21,BBFX,9/F89
+play,3,1,arcio002,12,BSCFX,8/F89D
+play,3,1,harrm004,12,BCFFX,43/G4
+play,4,0,vargm001,10,BH,HP
+play,4,0,perad001,11,CBX,64(1)3/GDP/G4
+play,4,0,taylc001,02,.CFS,K
+play,4,1,acunr001,22,FSBBS,K
+play,4,1,olsom001,22,SBFFFBX,HR/F9LD
+play,4,1,rilea001,01,CX,63/G6
+play,4,1,darnt001,10,BX,7/F7S
+play,5,0,bettm001,20,BBX,HR/F7LD
+play,5,0,freef001,32,FBBBSS,K
+play,5,0,smitw003,01,CX,53/G56D
+play,5,0,muncm001,02,SS.S,K
+play,5,1,rosae001,10,BX,8/F8XD
+play,5,1,albio001,31,FBBB*B,W
+play,5,1,ozunm001,22,BS1BFX,HR/F78XD.1-H
+play,5,1,arcio002,31,CBBB*B,W
+play,5,1,harrm004,02,FSFS,K
+play,5,1,acunr001,11,BCX,9/F9D
+play,6,0,martj006,12,SFBX,53/G5
+play,6,0,heywj001,02,.CSFX,S9/L9D
+play,6,0,vargm001,21,*BF*B1X,5/L56
+play,6,0,perad001,31,*BB*BCX,7/F78D
+play,6,1,olsom001,12,CBS.FFX,5/P5F/FL
+play,6,1,rilea001,32,FBBBFX,D7/G5
+play,6,1,darnt001,22,F*BFBX,8/F89XD+.2-3
+play,6,1,rosae001,00,,NP
+sub,mills001,"Shelby Miller",0,0,1
+play,6,1,rosae001,12,.BFSS,K
+play,7,0,taylc001,00,,NP
+id,ATL202306060
+version,2
+info,visteam,NYN
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/06/06
+info,number,0
+info,gametype,regular
+info,starttime,7:20PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,reybd901
+info,ump1b,libkj901
+info,ump2b,vondc901
+info,ump3b,hoyej901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/20 09:06:34
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,mustr701
+info,temp,74
+info,winddir,rtol
+info,windspeed,8
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,158
+info,attendance,37365
+info,wp,eldeb001
+info,lp,smitd009
+info,save,igler001
+start,nimmb001,"Brandon Nimmo",0,1,8
+start,lindf001,"Francisco Lindor",0,2,6
+start,mcnej002,"Jeff McNeil",0,3,7
+start,alonp001,"Pete Alonso",0,4,3
+start,voged001,"Daniel Vogelbach",0,5,10
+start,marts002,"Starling Marte",0,6,9
+start,batyb001,"Brett Baty",0,7,5
+start,escoe001,"Eduardo Escobar",0,8,4
+start,narvo001,"Omar Narvaez",0,9,2
+start,carrc003,"Carlos Carrasco",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,olsom001,"Matt Olson",1,2,3
+start,rilea001,"Austin Riley",1,3,5
+start,murps001,"Sean Murphy",1,4,2
+start,rosae001,"Eddie Rosario",1,5,7
+start,albio001,"Ozzie Albies",1,6,4
+start,ozunm001,"Marcell Ozuna",1,7,10
+start,arcio002,"Orlando Arcia",1,8,6
+start,harrm004,"Michael Harris II",1,9,8
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,nimmb001,02,CCS,K
+play,1,0,lindf001,31,CBBBB,W
+play,1,0,mcnej002,02,FCX,8/F8XD
+play,1,0,alonp001,32,BC*BBC.>X,7/F7LD
+play,1,1,acunr001,32,FSBBFBS,K
+play,1,1,olsom001,22,FBBFX,S8/L8S+
+play,1,1,rilea001,00,X,S9/G4.1-3
+play,1,1,murps001,11,BSX,54(1)3/GDP/G56
+play,2,0,voged001,22,CBBFF*S,K
+play,2,0,marts002,12,FBSS,K
+play,2,0,batyb001,22,BSS.FBC,K
+play,2,1,rosae001,00,X,5/P25
+play,2,1,albio001,31,BVBCX,HR/F8XD
+play,2,1,ozunm001,22,BBSFX,43/G4M
+play,2,1,arcio002,12,SFBX,43/G4
+play,3,0,escoe001,32,SBTBBFX,9/L9D
+play,3,0,narvo001,00,X,S9/G34+
+com,"ej,chave001,C,reybd901,Balls and strikes"
+com,"$Mets bench coach Eric Chavez ejected by HP umpire D. J. Reyburn"
+com,"for arguing balls and strikes"
+play,3,0,nimmb001,12,C.BSFFX,7/F7S
+play,3,0,lindf001,12,BFFFX,HR/F9LD.1-H
+play,3,0,mcnej002,32,FBBBFB,W
+play,3,0,alonp001,12,C*BFX,HR/F7D.1-H
+play,3,0,voged001,12,FFBS,K
+play,3,1,harrm004,12,BFSS,K
+play,3,1,acunr001,32,BSBBSX,S8/L8S
+play,3,1,olsom001,12,TBFX,43/G34.1-2
+play,3,1,rilea001,10,*BH,HP
+play,3,1,murps001,00,X,9/F89S
+play,4,0,marts002,22,BBTC*S,K
+play,4,0,batyb001,21,FBBX,S9/L89
+play,4,0,escoe001,21,BBCX,36(1)1/GDP/G34
+play,4,1,rosae001,02,CC.FS,K
+play,4,1,albio001,31,BBFBX,63/G6
+play,4,1,ozunm001,12,FFBFFX,43/G4
+play,5,0,narvo001,10,BX,8/F8D
+play,5,0,nimmb001,32,CCBBBFC,K
+play,5,0,lindf001,01,TX,63/G4MD
+play,5,1,arcio002,32,TFBBBB,W
+play,5,1,harrm004,22,BSFBS,K
+play,5,1,acunr001,11,BFX,64(1)3/GDP/G6
+play,6,0,mcnej002,31,BFBBX,9/F89
+play,6,0,alonp001,00,X,7/F7LD
+play,6,0,voged001,22,BCBSC,K
+play,6,1,olsom001,32,CBBFFBB,W
+play,6,1,rilea001,10,BX,S7/L7LD.1-3;B-2
+play,6,1,murps001,00,X,D7/L78XD+.3-H;2-H
+play,6,1,rosae001,00,,NP
+sub,smitd009,"Drew Smith",0,0,1
+play,6,1,rosae001,12,.BSFFFFFS,K
+play,6,1,albio001,11,SBX,6/P4D
+play,6,1,ozunm001,10,BX,D7/L7LD+.2-H
+play,6,1,arcio002,11,CBB,WP.2-3
+play,6,1,arcio002,32,CBB.TBFFX,S46/G4M.3-H
+play,6,1,harrm004,21,BBFX,53/G56
+play,7,0,marts002,00,,NP
+id,ATL202306110
+version,2
+info,visteam,WAS
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/06/11
+info,number,0
+info,gametype,regular
+info,starttime,1:35PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,moorm901
+info,ump1b,fleta901
+info,ump2b,macka901
+info,ump3b,sches901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/06/21 09:12:08
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,stamm701
+info,temp,73
+info,winddir,fromlf
+info,windspeed,6
+info,fieldcond,unknown
+info,precip,none
+info,sky,overcast
+info,timeofgame,143
+info,attendance,36744
+info,wp,willt002
+info,lp,eldeb001
+info,save,
+start,thoml002,"Lane Thomas",0,1,9
+start,garcl006,"Luis Garcia",0,2,4
+start,menej001,"Joey Meneses",0,3,10
+start,candj002,"Jeimer Candelario",0,4,5
+start,dickc002,"Corey Dickerson",0,5,7
+start,ruizk001,"Keibert Ruiz",0,6,2
+start,smitd008,"Dominic Smith",0,7,3
+start,abrac001,"CJ Abrams",0,8,6
+start,calla002,"Alex Call",0,9,8
+start,willt002,"Trevor Williams",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,olsom001,"Matt Olson",1,2,3
+start,rilea001,"Austin Riley",1,3,5
+start,murps001,"Sean Murphy",1,4,2
+start,ozunm001,"Marcell Ozuna",1,5,10
+start,rosae001,"Eddie Rosario",1,6,7
+start,albio001,"Ozzie Albies",1,7,4
+start,arcio002,"Orlando Arcia",1,8,6
+start,harrm004,"Michael Harris II",1,9,8
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,thoml002,12,CBSS,K
+play,1,0,garcl006,11,BFX,S7/G56
+play,1,0,menej001,02,CSFX,9/L89
+play,1,0,candj002,32,1BFF>F*BFB>X,43/G4
+play,1,1,acunr001,00,X,S5/G5S-
+play,1,1,olsom001,12,SS.1BX,HR/F9LD.1-H
+play,1,1,rilea001,12,BFCFFS,K
+play,1,1,murps001,20,BBX,9/F9LD
+play,1,1,ozunm001,10,BX,9/F9
+play,2,0,dickc002,11,CBX,8/F8D
+play,2,0,ruizk001,21,BBSX,8/F8D
+play,2,0,smitd008,22,SBBCFFF.X,43/G4
+play,2,1,rosae001,12,BSSX,43/G34
+play,2,1,albio001,00,X,43/G4S
+play,2,1,arcio002,32,BBCFFBX,S8/G6M
+play,2,1,harrm004,02,CF1X,S9/G34.1-3
+play,2,1,acunr001,32,BBCBF>S,K
+play,3,0,abrac001,11,CBX,S8/L89D
+play,3,0,calla002,01,CX,5/L56+/DP.1X1(53)
+play,3,0,thoml002,32,BCCBBX,63/G6D
+play,3,1,olsom001,21,BBSX,13/G1S-
+play,3,1,rilea001,00,X,63/G6
+play,3,1,murps001,32,CS.BBFBC,K
+play,4,0,garcl006,21,CBBX,3/G3
+play,4,0,menej001,12,CBCFX,23/G2
+play,4,0,candj002,32,BT.BBCB,W
+play,4,0,dickc002,21,BBFX,S8/G4M+.1-2
+play,4,0,ruizk001,10,BX,S8/G4M.2-H;1-2
+play,4,0,smitd008,22,FFBBX,43/G34
+play,4,1,ozunm001,12,CC.BX,S9/L9
+play,4,1,rosae001,02,CF*S,K
+play,4,1,albio001,00,X,S8/G4.1-3
+play,4,1,arcio002,30,BBBB,W.1-2
+play,4,1,harrm004,00,X,6/P56D
+play,4,1,acunr001,11,SBX,54(1)/FO/G56.B-1
+play,5,0,abrac001,11,CBX,6/P6D
+play,5,0,calla002,32,SBBC.FBX,53/G56
+play,5,0,thoml002,22,SBBCX,53/G56
+play,5,1,olsom001,32,BCFBBS,K
+play,5,1,rilea001,32,BBFFFBFS,K
+play,5,1,murps001,21,.BBTX,DGR/L7L+
+play,5,1,ozunm001,00,X,3/P3F/FL
+play,6,0,garcl006,00,X,D9/L9L+
+play,6,0,menej001,02,FSB,WP.2-3
+play,6,0,menej001,12,FSB.X,S7/G56.3-H
+play,6,0,candj002,00,X,HR/F9D.1-H
+play,6,0,dickc002,20,BBX,53/G6
+play,6,0,ruizk001,11,BCX,S7/F78
+play,6,0,smitd008,00,,NP
+id,ATL202306170
+version,2
+info,visteam,COL
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/06/17
+info,number,0
+info,gametype,regular
+info,starttime,4:10PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,drakr901
+info,ump1b,rippm901
+info,ump2b,ortir901
+info,ump3b,whitc901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/01 09:04:58
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,curtg701
+info,temp,89
+info,winddir,unknown
+info,windspeed,4
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,151
+info,attendance,41558
+info,wp,eldeb001
+info,lp,seabc001
+info,save,
+start,profj001,"Jurickson Profar",0,1,7
+start,tovae001,"Ezequiel Tovar",0,2,6
+start,mcmar001,"Ryan McMahon",0,3,5
+start,diaze005,"Elias Diaz",0,4,2
+start,jonen002,"Nolan Jones",0,5,9
+start,gricr001,"Randal Grichuk",0,6,8
+start,mousm001,"Mike Moustakas",0,7,3
+start,alfaj002,"Jorge Alfaro",0,8,10
+start,casth001,"Harold Castro",0,9,4
+start,seabc001,"Connor Seabold",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,albio001,"Ozzie Albies",1,2,4
+start,rilea001,"Austin Riley",1,3,5
+start,murps001,"Sean Murphy",1,4,2
+start,olsom001,"Matt Olson",1,5,3
+start,ozunm001,"Marcell Ozuna",1,6,10
+start,rosae001,"Eddie Rosario",1,7,7
+start,arcio002,"Orlando Arcia",1,8,6
+start,harrm004,"Michael Harris II",1,9,8
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,profj001,01,CX,8/L78XD
+play,1,0,tovae001,01,SX,31/G34
+play,1,0,mcmar001,22,BFFBC,K
+play,1,1,acunr001,32,FBBBC.B,W
+play,1,1,albio001,01,CX,S9/L89.1-2
+play,1,1,rilea001,10,BX,S36/G4.2-3;1-2
+play,1,1,murps001,22,SBBS.T,K
+play,1,1,olsom001,30,BBBX,HR/F78XD.3-H;2-H;1-H
+play,1,1,ozunm001,01,SX,53/G56
+play,1,1,rosae001,30,BBBX,9/F9S
+play,2,0,diaze005,22,BFS.BX,53/G56
+play,2,0,jonen002,22,CBCBFF.FX,7/L7D
+play,2,0,gricr001,32,CSFBBBFX,53/G56S
+play,2,1,arcio002,10,BX,D7/L7LD
+play,2,1,harrm004,02,CSN,SB3
+play,2,1,harrm004,02,CSN.FX,8/SF/F8XD.3-H
+play,2,1,acunr001,12,CFBX,3/L34
+play,2,1,albio001,01,CX,HR/F9LD
+play,2,1,rilea001,00,X,63/G6
+play,3,0,mousm001,22,BCBFFF.X,31/G34
+play,3,0,alfaj002,02,FSS,K
+play,3,0,casth001,10,BX,31/G34
+play,3,1,murps001,00,X,S8/L8XD+
+play,3,1,olsom001,00,,NP
+sub,darnt001,"Travis d'Arnaud",1,4,12
+play,3,1,olsom001,32,.BB*BCFFX,9/F9LD
+play,3,1,ozunm001,00,X,3/G3S-.1-2
+play,3,1,rosae001,12,BCFX,HR/F8XD.2-H
+play,3,1,arcio002,21,SBBX,HR/F7D
+play,3,1,harrm004,31,BBBCX,S8/G4M
+play,3,1,acunr001,10,BX,53/G5
+play,4,0,profj001,00,,NP
+sub,darnt001,"Travis d'Arnaud",1,4,2
+play,4,0,profj001,01,.CX,43/G4
+play,4,0,tovae001,31,BBBCX,53/G5
+play,4,0,mcmar001,11,BSX,S49/G34
+play,4,0,diaze005,12,SFF*BF*S,K
+play,4,1,albio001,00,,NP
+sub,hollg002,"Gavin Hollowell",0,0,1
+play,4,1,albio001,22,.CBBSS,K
+play,4,1,rilea001,12,BCFFX,63/G6
+play,4,1,darnt001,31,BSBBX,6/P6D
+play,5,0,jonen002,22,CBSBX,43/G4
+play,5,0,gricr001,01,CX,63/G6
+play,5,0,mousm001,22,CFBBFX,HR/L9D
+play,5,0,alfaj002,00,X,53/G5
+play,5,1,olsom001,10,BX,4/P34
+play,5,1,ozunm001,32,CBBBCB,W
+play,5,1,rosae001,31,BCB*BB,W.1-2
+play,5,1,arcio002,10,BX,S7/L7.2-H;1-2
+play,5,1,harrm004,02,CSX,36(1)/FO/G34.2-3;B-1
+play,5,1,acunr001,22,CBBS.FC,K
+play,6,0,casth001,02,CSX,S7/L78D
+play,6,0,profj001,32,C*BBFFBX,9/L89XD+
+play,6,0,tovae001,00,X,S7/G56.1-2
+play,6,0,mcmar001,22,CBBC.C,K
+play,6,0,diaze005,12,CFBX,53/G56
+play,6,1,albio001,00,,NP
+sub,wynna001,"Austin Wynns",0,4,2
+play,6,1,albio001,00,.,NP
+sub,bardd001,"Daniel Bard",0,0,1
+play,6,1,albio001,22,..BSC.BFS,K
+play,6,1,rilea001,32,BFFBBS,K
+play,6,1,darnt001,01,CX,6/P6M
+play,7,0,jonen002,00,,NP
+id,ATL202306270
+version,2
+info,visteam,MIN
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/06/27
+info,number,0
+info,gametype,regular
+info,starttime,7:20PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,ticht901
+info,ump1b,hanat901
+info,ump2b,rackd901
+info,ump3b,tosia901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/04 09:04:45
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,mustr701
+info,temp,86
+info,winddir,rtol
+info,windspeed,8
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,154
+info,attendance,42635
+info,wp,eldeb001
+info,lp,ryanj002
+info,save,
+start,julie001,"Edouard Julien",0,1,4
+start,corrc001,"Carlos Correa",0,2,6
+start,kiria001,"Alex Kirilloff",0,3,3
+start,buxtb001,"Byron Buxton",0,4,10
+start,keplm001,"Max Kepler",0,5,9
+start,lewir003,"Royce Lewis",0,6,5
+start,gallj002,"Joey Gallo",0,7,7
+start,vazqc001,"Christian Vazquez",0,8,2
+start,taylm002,"Michael A. Taylor",0,9,8
+start,ryanj002,"Joe Ryan",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,albio001,"Ozzie Albies",1,2,4
+start,rilea001,"Austin Riley",1,3,5
+start,olsom001,"Matt Olson",1,4,3
+start,murps001,"Sean Murphy",1,5,2
+start,ozunm001,"Marcell Ozuna",1,6,10
+start,rosae001,"Eddie Rosario",1,7,7
+start,arcio002,"Orlando Arcia",1,8,6
+start,harrm004,"Michael Harris II",1,9,8
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,julie001,12,CFFBX,7/F78
+play,1,0,corrc001,00,X,S7/G56
+play,1,0,kiria001,32,C*BBBF>X,D9/G3.1-3
+play,1,0,buxtb001,22,CSBBX,E6/G6.3-H;B-1
+play,1,0,keplm001,10,BX,16(1)3/GDP/G13
+play,1,1,acunr001,00,X,HR/F89XD
+play,1,1,albio001,12,CFFBX,T9/L89D+
+play,1,1,rilea001,11,F*BX,HR/F78XD.3-H
+play,1,1,olsom001,32,BSBFBFS,K
+play,1,1,murps001,21,FBBX,HR/F78XD
+play,1,1,ozunm001,22,BCBS.S,K
+play,1,1,rosae001,02,CSFS,K
+play,2,0,lewir003,12,.CSBS,K
+play,2,0,gallj002,00,X,S7/L78D.B-3(E7/TH)(E2/TH)
+play,2,0,vazqc001,32,FB*B*BSS,K
+play,2,0,taylm002,12,C*BCFX,5/P15
+play,2,1,arcio002,12,FBCX,13/G13
+play,2,1,harrm004,02,CSX,HR/F9D
+play,2,1,acunr001,32,SBC.BFBFFX,HR/F7LD
+play,2,1,albio001,22,FBFBX,3/G23
+play,2,1,rilea001,01,CX,S1/G56S-
+play,2,1,olsom001,12,BCCFFC,K
+play,3,0,julie001,32,SBSBB.FB,W
+play,3,0,corrc001,01,FX,7/L7LD
+play,3,0,kiria001,10,.BB,WP.1-2
+play,3,0,kiria001,30,.BB.BB,W
+play,3,0,buxtb001,22,BBCS.X,7/F78XD
+play,3,0,keplm001,01,FX,163/G6M
+play,3,1,murps001,22,FBF.FBS,K
+play,3,1,ozunm001,22,FFBBX,S9/G3
+play,3,1,rosae001,20,BBX,S39/L9S.1-3
+play,3,1,arcio002,22,FTF.*BBX,4/P34
+play,3,1,harrm004,12,BFFX,43/G34
+play,4,0,lewir003,11,CBX,9/L9D+
+play,4,0,gallj002,00,X,D8/F89XD
+play,4,0,vazqc001,31,CBBBB,W
+play,4,0,taylm002,32,BBSF*BB,W.2-3;1-2
+play,4,0,julie001,12,SCBX,7/SF/F7L.3-H;2-3;1-2(E7/TH)
+play,4,0,corrc001,32,B*BBCCF.T,K
+play,4,1,acunr001,00,,NP
+sub,orteo001,"Oliver Ortega",0,0,1
+play,4,1,acunr001,12,.BFCS,K
+play,4,1,albio001,22,BCFBX,5/P6MS
+play,4,1,rilea001,32,BBFCBB,W
+play,4,1,olsom001,01,SX,63/G6
+play,5,0,kiria001,12,BFC.FX,9/F89
+play,5,0,buxtb001,02,CS.S,K
+play,5,0,keplm001,21,BSBX,463/G34
+play,5,1,murps001,01,CX,8/L8
+play,5,1,ozunm001,02,CFS,K
+play,5,1,rosae001,02,CSX,7/F78D
+play,6,0,lewir003,02,FS.H,HP
+play,6,0,gallj002,10,VX,9/F9D
+play,6,0,vazqc001,00,X,46(1)3/GDP/G4D
+play,6,1,arcio002,00,X,13/G4MS
+play,6,1,harrm004,22,BBCSX,53/G6
+play,6,1,acunr001,00,X,63/G6
+play,7,0,taylm002,00,,NP
+id,ATL202307180
+version,2
+info,visteam,ARI
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/07/18
+info,number,0
+info,gametype,regular
+info,starttime,7:20PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,hobep901
+info,ump1b,cejan901
+info,ump2b,onorb901
+info,ump3b,jimee902
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/07/20 09:06:38
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,mustr701
+info,temp,90
+info,winddir,fromrf
+info,windspeed,8
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,185
+info,attendance,41100
+info,wp,castm002
+info,lp,igler001
+info,save,ginkk001
+start,perdg001,"Geraldo Perdomo",0,1,6
+start,martk001,"Ketel Marte",0,2,4
+start,carrc005,"Corbin Carroll",0,3,9
+start,walkc002,"Christian Walker",0,4,3
+start,gurrl001,"Lourdes Gurriel Jr.",0,5,7
+start,canzd001,"Dominic Canzone",0,6,10
+start,rivee001,"Emmanuel Rivera",0,7,5
+start,kellc002,"Carson Kelly",0,8,2
+start,thoma004,"Alek Thomas",0,9,8
+start,daviz001,"Zach Davies",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,albio001,"Ozzie Albies",1,2,4
+start,rilea001,"Austin Riley",1,3,5
+start,olsom001,"Matt Olson",1,4,3
+start,murps001,"Sean Murphy",1,5,2
+start,ozunm001,"Marcell Ozuna",1,6,10
+start,harrm004,"Michael Harris II",1,7,8
+start,arcio002,"Orlando Arcia",1,8,6
+start,hills005,"Sam Hilliard",1,9,7
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,perdg001,22,BCBFX,S9/F89
+play,1,0,martk001,12,C1S*BFX,8/F8D
+play,1,0,carrc005,01,CX,T9/L9LS.1-H
+play,1,0,walkc002,12,SSBS,K
+play,1,0,gurrl001,31,BBCBX,E6/G6.3-H(NR)(UR);B-1
+play,1,0,canzd001,10,BX,46(1)/FO/G4.B-1
+play,1,1,acunr001,11,BCX,S4/G34
+play,1,1,albio001,11,FPX,D8/F9D+.1-3
+play,1,1,rilea001,22,CBFBX,D8/G6M+.3-H;2-H
+play,1,1,olsom001,31,BBBCB,W
+play,1,1,murps001,31,BBBCX,D8/L89XD+.2-H;1-H
+play,1,1,ozunm001,01,CX,43/G34D.2-3
+play,1,1,harrm004,00,X,S9/G3.3-H;BX2(96)
+play,1,1,arcio002,21,BBCX,53/G56
+play,2,0,rivee001,21,BCBX,HR/F8XD
+play,2,0,kellc002,22,BCFBX,S8/L8D+
+play,2,0,thoma004,22,CB*BCX,S4/G3.1-2
+play,2,0,perdg001,11,BLX,53/SH/BG25.2-3;1-2
+play,2,0,martk001,00,X,D9/L9LD+.3-H;2-H
+play,2,0,carrc005,22,FSBFBS,K+WP.2-H(E2/TH)(NR);B-3
+play,2,0,walkc002,11,BCX,S7/L7S+.3-H(UR)
+play,2,0,gurrl001,12,CFFFFFBS,K
+play,2,0,canzd001,11,C*BX,43/G4
+play,2,1,hills005,11,BCX,53/G6
+play,2,1,acunr001,32,CBBFBT,K
+play,2,1,albio001,20,BBX,9/L9D
+play,3,0,rivee001,32,BBFBF*B,W
+play,3,0,kellc002,01,CX,8/F89
+play,3,0,thoma004,32,BBBCCFC,K
+play,3,0,perdg001,00,,NP
+id,ATL202307290
+version,2
+info,visteam,MIL
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/07/29
+info,number,0
+info,gametype,regular
+info,starttime,7:20PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,barrl901
+info,ump1b,marqa901
+info,ump2b,eddid901
+info,ump3b,dejer901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/08/24 10:02:37
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,mustr701
+info,temp,89
+info,winddir,tolf
+info,windspeed,4
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,156
+info,attendance,43276
+info,wp,eldeb001
+info,lp,tehej001
+info,save,
+start,yelic001,"Christian Yelich",0,1,7
+start,contw002,"William Contreras",0,2,10
+start,santc002,"Carlos Santana",0,3,3
+start,frels001,"Sal Frelick",0,4,9
+start,adamw002,"Willy Adames",0,5,6
+start,monaa001,"Andruw Monasterio",0,6,5
+start,carav001,"Victor Caratini",0,7,2
+start,turab002,"Brice Turang",0,8,4
+start,wiemj001,"Joey Wiemer",0,9,8
+start,tehej001,"Julio Teheran",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,albio001,"Ozzie Albies",1,2,4
+start,rilea001,"Austin Riley",1,3,5
+start,olsom001,"Matt Olson",1,4,3
+start,darnt001,"Travis d'Arnaud",1,5,2
+start,ozunm001,"Marcell Ozuna",1,6,10
+start,rosae001,"Eddie Rosario",1,7,7
+start,arcio002,"Orlando Arcia",1,8,6
+start,harrm004,"Michael Harris II",1,9,8
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,yelic001,20,BBX,S8/G6
+play,1,0,contw002,22,BCBC.F1C,K
+play,1,0,santc002,11,CBX,9/L9
+play,1,0,frels001,02,CFX,43/G4
+play,1,1,acunr001,00,X,S8/L8
+play,1,1,albio001,00,>C,SB2
+play,1,1,albio001,11,>C.BX,S8/G4M.2-H
+play,1,1,rilea001,02,C11FX,S9/L9.1-3
+play,1,1,olsom001,00,X,S9/L9L+.3-H;1-3
+play,1,1,darnt001,22,BCBCFX,9/SF/L89XD+.3-H
+play,1,1,ozunm001,00,B,WP.1-2
+play,1,1,ozunm001,11,B.CX,D8/F78XD.2-H
+play,1,1,rosae001,10,BX,HR/F9LD.2-H
+play,1,1,arcio002,11,BCX,3/G3
+play,1,1,harrm004,12,CC.FBX,4/L34D
+play,2,0,adamw002,11,CBX,53/G5D
+play,2,0,monaa001,12,CCBX,9/F9D
+play,2,0,carav001,32,CBBSBX,7/F7LSF/FL
+play,2,1,acunr001,11,BCX,S9/L89D+
+play,2,1,albio001,00,1,PO1(13)
+com,"$Brewers challenged (tag play), call on the field was overturned."
+play,2,1,albio001,22,1.CBBFFS,K
+play,2,1,rilea001,11,BCX,D7/L7L+
+play,2,1,olsom001,22,CBFBC,K
+play,3,0,turab002,11,BFX,7/F7LD
+play,3,0,wiemj001,32,BSSBBX,3/P3
+play,3,0,yelic001,22,SBBFX,7/F7
+play,3,1,darnt001,21,BSBX,8/L89D
+play,3,1,ozunm001,10,BX,5/L56
+play,3,1,rosae001,11,BCX,3/G3
+play,4,0,contw002,00,X,D8/L8XD+
+play,4,0,santc002,00,X,3/G3.2-3
+play,4,0,frels001,01,CX,7/SF/L7L.3-H
+play,4,0,adamw002,12,CSBC,K
+play,4,1,arcio002,30,BBBX,S7/G56
+play,4,1,harrm004,00,X,13/SH/BG2.1-2
+play,4,1,acunr001,11,CBX,HR/L78XD.2-H
+play,4,1,albio001,22,BBSFFS,K
+play,4,1,rilea001,01,CX,7/L7D+
+play,5,0,monaa001,02,CSX,9/L9LD
+play,5,0,carav001,02,CC.X,S9/L89D+
+play,5,0,turab002,22,CBBFX,S8/F78.1-2
+play,5,0,wiemj001,01,CX,5(2)3/GDP/G5
+play,5,1,olsom001,31,BBBCX,8/F8D
+play,5,1,darnt001,01,SX,8/F8XD
+play,5,1,ozunm001,01,CX,HR/F89XD
+play,5,1,rosae001,12,SBTS,K
+play,6,0,yelic001,32,BBBCCX,63/G6
+play,6,0,contw002,00,X,43/G4
+play,6,0,santc002,10,BX,43/G4
+play,6,1,arcio002,00,,NP
+sub,megit001,"Trevor Megill",0,0,1
+play,6,1,arcio002,01,.FX,S7/L78D
+play,6,1,harrm004,01,FX,S7/G56.1-2
+play,6,1,acunr001,31,SBBBX,4(1)3/GDP/G4M.2-3
+play,6,1,albio001,32,FBBFF*BFFS,K
+play,7,0,frels001,22,CBFBFX,8/F78D
+play,7,0,adamw002,22,CFBB.C,K
+play,7,0,monaa001,02,FFX,63/G6
+play,7,1,rilea001,21,BBCX,3/P34S
+play,7,1,olsom001,32,FSBBFB*S,K.BX1(23)
+play,7,1,darnt001,20,BBX,D8/F89D+
+play,7,1,ozunm001,12,CBC.X,HR/F9D.2-H
+play,7,1,rosae001,02,CS*S,K
+play,8,0,carav001,00,,NP
+id,ATL202308150
+version,2
+info,visteam,NYA
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/08/15
+info,number,0
+info,gametype,regular
+info,starttime,7:20PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,buckc901
+info,ump1b,may-b901
+info,ump2b,nelsj901
+info,ump3b,segac901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/08/17 10:08:29
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,stamm701
+info,temp,80
+info,winddir,rtol
+info,windspeed,5
+info,fieldcond,unknown
+info,precip,none
+info,sky,overcast
+info,timeofgame,138
+info,attendance,40454
+info,wp,eldeb001
+info,lp,sevel001
+info,save,
+start,kinei001,"Isiah Kiner-Falefa",0,1,5
+start,judga001,"Aaron Judge",0,2,9
+start,torrg001,"Gleyber Torres",0,3,4
+start,stanm004,"Giancarlo Stanton",0,4,10
+start,bauej001,"Jake Bauers",0,5,7
+start,lemad001,"DJ LeMahieu",0,6,3
+start,badeh001,"Harrison Bader",0,7,8
+start,volpa001,"Anthony Volpe",0,8,6
+start,rortb001,"Ben Rortvedt",0,9,2
+start,sevel001,"Luis Severino",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,harrm004,"Michael Harris II",1,2,8
+start,rilea001,"Austin Riley",1,3,5
+start,olsom001,"Matt Olson",1,4,3
+start,ozunm001,"Marcell Ozuna",1,5,10
+start,rosae001,"Eddie Rosario",1,6,7
+start,murps001,"Sean Murphy",1,7,2
+start,arcio002,"Orlando Arcia",1,8,6
+start,lopen001,"Nicky Lopez",1,9,4
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,kinei001,22,BFCBC,K
+play,1,0,judga001,11,FBX,63/G6S
+play,1,0,torrg001,22,CCBFBX,63/G6
+play,1,1,acunr001,22,SFBB.X,S8/L89D
+play,1,1,harrm004,02,1CS1,PO1(E1/TH).1-3
+play,1,1,harrm004,12,1CS1.BX,6/P6MD
+play,1,1,rilea001,22,BCBSS,K
+play,1,1,olsom001,32,BBBFCB,W
+play,1,1,ozunm001,00,X,HR/F8XD.3-H;1-H
+play,1,1,rosae001,32,CCBBBB,W
+play,1,1,murps001,10,BH,HP.1-2
+play,1,1,arcio002,22,BSBCX,9/F9LD
+play,2,0,stanm004,30,BBBB,W
+play,2,0,bauej001,02,CFFX,16(1)/FO/G1-.B-1
+play,2,0,lemad001,11,C*BX,S8/L8D.1-2
+play,2,0,badeh001,22,TSBBX,64(1)3/GDP/G6
+play,2,1,lopen001,12,CSFFFBFFFS,K
+play,2,1,acunr001,22,FBC.BX,3/P3F/FL
+play,2,1,harrm004,12,CBFX,63/G4M
+play,3,0,volpa001,32,CBBBF.X,8/F89
+play,3,0,rortb001,32,BSBF.BX,8/F8
+play,3,0,kinei001,12,SCFBX,43/G34
+play,3,1,rilea001,02,CCS,K
+play,3,1,olsom001,02,FCFS,K
+play,3,1,ozunm001,21,FBBX,S7/G56
+play,3,1,rosae001,02,TFT,K
+play,4,0,judga001,32,CBBBSB,W
+play,4,0,torrg001,02,SSX,64(1)3/GDP/G6
+play,4,0,stanm004,12,BSSFX,2/P2F/FL
+play,4,1,murps001,12,BSCX,E5/G56.B-1
+play,4,1,arcio002,01,CX,43/G4.1-2
+play,4,1,lopen001,11,BCX,53/G56S
+play,4,1,acunr001,11,BFX,HR/F8XD.2-H(UR);B-H(UR)
+play,4,1,harrm004,00,X,S8/G6M
+play,4,1,rilea001,11,B1FX,63/G6
+play,5,0,bauej001,22,BCBF*S,K.BX1(23)
+play,5,0,lemad001,01,CX,53/G56
+play,5,0,badeh001,22,CSBBS,K
+play,5,1,olsom001,00,,NP
+sub,peraw002,"Wandy Peralta",0,0,1
+play,5,1,olsom001,11,.CBX,7/F7S
+play,5,1,ozunm001,31,BSBBB,W
+play,5,1,rosae001,32,B1FBS.BFS,K
+play,5,1,murps001,02,CFH,HP.1-2
+play,5,1,arcio002,22,SBCBF.X,7/F7D
+play,6,0,volpa001,22,CBBCX,9/F89
+play,6,0,rortb001,12,BCFX,8/F8XD
+play,6,0,kinei001,01,CX,63/G6D
+play,6,1,lopen001,00,,NP
+sub,loaij001,"Jonathan Loaisiga",0,0,1
+play,6,1,lopen001,32,.BBTBS.X,8/L78D
+play,6,1,acunr001,00,X,563/G56
+play,6,1,harrm004,20,BBX,3/G3
+play,7,0,judga001,31,BBBCB,W
+play,7,0,torrg001,00,X,54(1)3/GDP/G56
+play,7,0,stanm004,12,BFSX,2/P2
+play,7,1,rilea001,00,,NP
+sub,kahnt001,"Tommy Kahnle",0,0,1
+play,7,1,rilea001,02,.CCS,K
+play,7,1,olsom001,01,CX,S6/G6
+play,7,1,ozunm001,30,BBBB,W.1-2
+play,7,1,rosae001,02,TFS,K
+play,7,1,murps001,30,B*BBB,W.2-3;1-2
+play,7,1,arcio002,02,SCS,K
+play,8,0,bauej001,00,,NP
+id,ATL202308220
+version,2
+info,visteam,NYN
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/08/22
+info,number,0
+info,gametype,regular
+info,starttime,7:20PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,gonzm901
+info,ump1b,ramoc901
+info,ump2b,valej901
+info,ump3b,johna901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/08/31 09:04:15
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,mustr701
+info,temp,92
+info,winddir,tocf
+info,windspeed,6
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,172
+info,attendance,36841
+info,wp,eldeb001
+info,lp,megit002
+info,save,igler001
+start,nimmb001,"Brandon Nimmo",0,1,8
+start,lindf001,"Francisco Lindor",0,2,6
+start,mcnej002,"Jeff McNeil",0,3,4
+start,alonp001,"Pete Alonso",0,4,3
+start,voged001,"Daniel Vogelbach",0,5,10
+start,stewd002,"DJ Stewart",0,6,9
+start,alvaf001,"Francisco Alvarez",0,7,2
+start,orter001,"Rafael Ortega",0,8,7
+start,arauj001,"Jonathan Arauz",0,9,5
+start,megit002,"Tylor Megill",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,harrm004,"Michael Harris II",1,2,8
+start,rilea001,"Austin Riley",1,3,5
+start,olsom001,"Matt Olson",1,4,3
+start,ozunm001,"Marcell Ozuna",1,5,10
+start,rosae001,"Eddie Rosario",1,6,7
+start,darnt001,"Travis d'Arnaud",1,7,2
+start,arcio002,"Orlando Arcia",1,8,6
+start,lopen001,"Nicky Lopez",1,9,4
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,nimmb001,32,CBBBC.FS,K
+play,1,0,lindf001,12,CBCX,7/F7LS
+play,1,0,mcnej002,00,X,S8/L8D
+play,1,0,alonp001,12,BFC.1X,8/F89S
+play,1,1,acunr001,01,FX,S9/L89+
+play,1,1,harrm004,10,1BX,8/F78XD+
+play,1,1,rilea001,01,SX,9/F9
+play,1,1,olsom001,01,C>B,SB2
+play,1,1,olsom001,22,C>B.BSC,K
+play,2,0,voged001,00,X,43/G4D
+play,2,0,stewd002,10,BX,7/F78
+play,2,0,alvaf001,01,CX,7/F78
+play,2,1,ozunm001,31,BBBCX,S8/L8D+
+play,2,1,rosae001,10,BX,HR/F89XD.1-H
+play,2,1,darnt001,00,X,4/P4
+play,2,1,arcio002,02,FFX,63/G56
+play,2,1,lopen001,00,X,S8/G6M
+play,2,1,acunr001,01,FX,FC6/G6D.1-2(E6);B-1
+play,2,1,harrm004,00,X,5(2)/FO/G56.B-1
+play,3,0,orter001,30,BBBB,W
+play,3,0,arauj001,01,CX,4(1)3/GDP/G34
+play,3,0,nimmb001,02,SFX,5/P56
+play,3,1,rilea001,22,CSBBS,K
+play,3,1,olsom001,12,BFFX,8/F78
+play,3,1,ozunm001,02,CFX,D7/G5+
+play,3,1,rosae001,12,*BCFFFS,K+WP.2-3;B-1
+play,3,1,darnt001,11,FBX,8/L8
+play,4,0,lindf001,32,CBBC.BFV,W
+play,4,0,mcnej002,21,BBF>B,SB2
+play,4,0,mcnej002,31,BBF>B.X,9/L6
+play,4,0,alonp001,00,H,HP
+play,4,0,voged001,32,FFBBBFB,W.2-3;1-2
+play,4,0,stewd002,22,FBBFF.S,K
+play,4,0,alvaf001,32,BFBF.FB>F>X,8/L89D
+play,4,1,arcio002,12,CSBFFS,K
+play,4,1,lopen001,22,BFCBFX,S6/G6
+play,4,1,acunr001,02,F1CB,WP.1-2
+play,4,1,acunr001,32,F1CB.*BBB,W+WP.2-3
+play,4,1,harrm004,22,1BFBS>*S,K+SB2
+play,4,1,rilea001,21,SBBX,53/G56
+play,5,0,orter001,32,BCBFBF.FS,K
+play,5,0,arauj001,01,CX,43/G4
+play,5,0,nimmb001,32,BSCBFBF.X,53/G56+
+play,5,1,olsom001,32,SBBBFX,5/L6D+
+play,5,1,ozunm001,01,FX,HR/F78XD
+play,5,1,rosae001,01,FX,S16/L13
+play,5,1,darnt001,31,BB+1F*B+1.X,8/F8XD
+play,5,1,arcio002,12,1CFBB,WP.1-2
+play,5,1,arcio002,32,1CFBB.BB,W
+play,5,1,lopen001,00,,NP
+sub,kolaa001,"Adam Kolarek",0,0,1
+play,5,1,lopen001,22,.BCFBX,13/G1S
+play,6,0,lindf001,12,BFCX,D8/L78XD
+play,6,0,mcnej002,31,B*BFBX,13/G2-.2-3
+play,6,0,alonp001,00,,NP
+id,ATL202309080
+version,2
+info,visteam,PIT
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/09/08
+info,number,0
+info,gametype,regular
+info,starttime,7:20PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,ortir901
+info,ump1b,drakr901
+info,ump2b,millb901
+info,ump3b,whitc901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/09/10 09:03:21
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,curtg701
+info,temp,83
+info,winddir,tolf
+info,windspeed,4
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,134
+info,attendance,40452
+info,wp,eldeb001
+info,lp,kellm003
+info,save,
+start,bae-j001,"Ji Hwan Bae",0,1,8
+start,reynb001,"Bryan Reynolds",0,2,10
+start,hayek001,"Ke'Bryan Hayes",0,3,5
+start,suwij001,"Jack Suwinski",0,4,7
+start,rodre006,"Endy Rodriguez",0,5,2
+start,palaj001,"Joshua Palacios",0,6,9
+start,pegul001,"Liover Peguero",0,7,4
+start,rivaa001,"Alfonso Rivas",0,8,3
+start,willa005,"Alika Williams",0,9,6
+start,kellm003,"Mitch Keller",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,albio001,"Ozzie Albies",1,2,4
+start,olsom001,"Matt Olson",1,3,3
+start,ozunm001,"Marcell Ozuna",1,4,10
+start,rosae001,"Eddie Rosario",1,5,7
+start,darnt001,"Travis d'Arnaud",1,6,2
+start,harrm004,"Michael Harris II",1,7,8
+start,arcio002,"Orlando Arcia",1,8,6
+start,lopen001,"Nicky Lopez",1,9,5
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,bae-j001,21,BCBX,D7/L7L
+play,1,0,reynb001,20,*BBX,7/F7D
+play,1,0,hayek001,02,CCS,K
+play,1,0,suwij001,12,BFSS,K
+play,1,1,acunr001,22,CBFBX,E6/G6.B-1
+play,1,1,albio001,11,FBX,5/P56S
+play,1,1,olsom001,12,FBSF1X,S9/G34.1-2
+play,1,1,ozunm001,00,X,8/L8D
+play,1,1,rosae001,02,CS*S,K
+play,2,0,rodre006,31,CBBBX,3/G3
+play,2,0,palaj001,12,FBSFC,K
+play,2,0,pegul001,00,X,63/G56D
+play,2,1,darnt001,12,CFBS,K
+play,2,1,harrm004,11,BSX,4/L4D+
+play,2,1,arcio002,32,SBCBB.X,S9/L89S
+play,2,1,lopen001,02,FFX,63/G6
+play,3,0,rivaa001,31,CBBBB,W
+play,3,0,willa005,11,SB>S,SB2
+play,3,0,willa005,12,SB>S.*S,K
+play,3,0,bae-j001,00,X,63/G6.2-3
+play,3,0,reynb001,10,*BX,7/F7D
+play,3,1,acunr001,01,SX,S8/L8
+play,3,1,albio001,02,FCS,K
+play,3,1,olsom001,00,X,S8/L78.1-2
+play,3,1,ozunm001,20,BBX,S9/L89S.2-3;1-2
+play,3,1,rosae001,02,FFX,S7/L78.3-H;2-3;1-2
+play,3,1,darnt001,21,BBCX,S7/F78.3-H;2-H;1-2
+play,3,1,harrm004,31,BBBCX,9/L9D.2-3
+play,3,1,arcio002,10,BX,S7/L7.3-H;1-2
+play,3,1,lopen001,32,BCF*BB>X,43/G4
+play,4,0,hayek001,12,CFBC,K
+play,4,0,suwij001,21,BCBX,7/F7D+
+play,4,0,rodre006,11,CBX,3/G3
+play,4,1,acunr001,00,X,HR/F8XD
+play,4,1,albio001,22,BFFBS,K
+play,4,1,olsom001,12,SC.BFH,HP
+play,4,1,ozunm001,00,X,8/F8S
+play,4,1,rosae001,10,BX,HR/F9LD.1-H
+play,4,1,darnt001,22,FBFBFX,13/G6S
+play,5,0,palaj001,11,BCX,63/G6
+play,5,0,pegul001,22,CBFBFX,43/G4D
+play,5,0,rivaa001,21,BCBX,S9/L89D+
+play,5,0,willa005,22,CBS.*BC,K
+play,5,1,harrm004,00,X,13/G4S-
+play,5,1,arcio002,21,CBBX,D7/L7LD
+play,5,1,lopen001,11,SBX,3/G3.2-3
+play,5,1,acunr001,00,X,S9/G34+.3-H
+play,5,1,albio001,02,TCFX,9/F9LD
+play,6,0,bae-j001,01,CX,7/F7D
+play,6,0,reynb001,22,FSBFBS,K
+play,6,0,hayek001,00,X,D7/L7S+
+play,6,0,suwij001,21,*BBFX,HR/F9LD.2-H
+play,6,0,rodre006,12,BCFX,9/L9LD
+play,6,1,olsom001,00,,NP
+sub,hernj005,"Jose Hernandez",0,0,1
+play,6,1,olsom001,31,.CBBBB,W
+play,6,1,ozunm001,12,SFBFX,7/F7D
+play,6,1,rosae001,02,CF*S,K
+play,6,1,darnt001,02,C*SS,K
+play,7,0,palaj001,32,FBBBFS,K
+play,7,0,pegul001,02,FSFS,K
+play,7,0,rivaa001,01,CX,43/G4
+play,7,1,harrm004,02,CC*S,K
+play,7,1,arcio002,12,CSFBS,K
+play,7,1,lopen001,21,BFBX,7/F7D
+play,8,0,willa005,00,,NP
+id,ATL202309200
+version,2
+info,visteam,PHI
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/09/20
+info,number,0
+info,gametype,regular
+info,starttime,12:20PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,fleta901
+info,ump1b,bacce901
+info,ump2b,diazl901
+info,ump3b,estam901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/09/26 09:04:02
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,stamm701
+info,temp,75
+info,winddir,fromlf
+info,windspeed,6
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,186
+info,attendance,38856
+info,wp,kimbc001
+info,lp,minta001
+info,save,stram001
+start,schwk001,"Kyle Schwarber",0,1,7
+start,turnt001,"Trea Turner",0,2,6
+start,harpb003,"Bryce Harper",0,3,10
+start,bohma001,"Alec Bohm",0,4,5
+start,stotb001,"Bryson Stott",0,5,4
+start,marsb002,"Brandon Marsh",0,6,8
+start,castn001,"Nick Castellanos",0,7,9
+start,cavej001,"Jake Cave",0,8,3
+start,stubg001,"Garrett Stubbs",0,9,2
+start,nolaa001,"Aaron Nola",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,albio001,"Ozzie Albies",1,2,4
+start,rilea001,"Austin Riley",1,3,5
+start,olsom001,"Matt Olson",1,4,3
+start,ozunm001,"Marcell Ozuna",1,5,10
+start,rosae001,"Eddie Rosario",1,6,7
+start,murps001,"Sean Murphy",1,7,2
+start,harrm004,"Michael Harris II",1,8,8
+start,lopen001,"Nicky Lopez",1,9,6
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,schwk001,31,BBBCB,W
+play,1,0,turnt001,32,CSBB*B>B,W.1-2
+play,1,0,harpb003,00,X,6(1)3/GDP/G6.2-3
+play,1,0,bohma001,11,BFX,S7/L7S.3-H
+play,1,0,stotb001,31,BF*BB*B,W.1-2
+play,1,0,marsb002,22,S*BS*BX,63/G4M
+play,1,1,acunr001,10,BX,7/L7D+
+play,1,1,albio001,22,BFSBS,K
+play,1,1,rilea001,02,FCS,K
+play,2,0,castn001,22,BBCS.X,HR/F8XD
+play,2,0,cavej001,10,BX,8/F8XD
+play,2,0,stubg001,11,BCX,7/F7LD
+play,2,0,schwk001,22,BSS.BX,9/F9D
+play,2,1,olsom001,22,SFBBX,43/G4D
+play,2,1,ozunm001,12,BCC.X,63/G6D
+play,2,1,rosae001,02,CSFFS,K
+play,3,0,turnt001,11,TBX,53/G5
+play,3,0,harpb003,00,X,63/G4M
+play,3,0,bohma001,22,CS.BBX,43/G4M
+play,3,1,murps001,02,CCS,K
+play,3,1,harrm004,22,BFFBFFX,43/G4
+play,3,1,lopen001,12,CBTX,31/G34
+play,4,0,stotb001,11,CBX,63/G6
+play,4,0,marsb002,32,CBBBC*B,W
+play,4,0,castn001,00,X,HR/F9D.1-H
+play,4,0,cavej001,31,BBBC.B,W
+play,4,0,stubg001,32,L*BC*BF*B>F>X,3/P3F/FL
+play,4,0,schwk001,00,,NP
+id,ATL202309260
+version,2
+info,visteam,CHN
+info,hometeam,ATL
+info,site,ATL03
+info,date,2023/09/26
+info,number,0
+info,gametype,regular
+info,starttime,7:20PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,belld901
+info,ump1b,lives901
+info,ump2b,rippm901
+info,ump3b,cuzzp901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/10/03 06:10:39
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,curtg701
+info,temp,77
+info,winddir,ltor
+info,windspeed,7
+info,fieldcond,unknown
+info,precip,none
+info,sky,cloudy
+info,timeofgame,169
+info,attendance,40151
+info,wp,handb001
+info,lp,smyld001
+info,save,igler001
+start,taucm001,"Mike Tauchman",0,1,8
+start,hoern001,"Nico Hoerner",0,2,4
+start,happi001,"Ian Happ",0,3,7
+start,bellc002,"Cody Bellinger",0,4,3
+start,suzus001,"Seiya Suzuki",0,5,9
+start,swand001,"Dansby Swanson",0,6,6
+start,morec001,"Christopher Morel",0,7,10
+start,gomey001,"Yan Gomes",0,8,2
+start,mastm001,"Miles Mastrobuoni",0,9,5
+start,steej002,"Justin Steele",0,0,1
+start,acunr001,"Ronald Acuna Jr.",1,1,9
+start,albio001,"Ozzie Albies",1,2,4
+start,rilea001,"Austin Riley",1,3,5
+start,olsom001,"Matt Olson",1,4,3
+start,ozunm001,"Marcell Ozuna",1,5,10
+start,arcio002,"Orlando Arcia",1,6,6
+start,harrm004,"Michael Harris II",1,7,8
+start,murps001,"Sean Murphy",1,8,2
+start,pillk001,"Kevin Pillar",1,9,7
+start,eldeb001,"Bryce Elder",1,0,1
+play,1,0,taucm001,21,BCBX,3/G3
+play,1,0,hoern001,01,CX,4/P4D
+play,1,0,happi001,12,CBCX,3/G3
+play,1,1,acunr001,10,BX,53/G5
+play,1,1,albio001,12,FBSX,D9/L89D
+play,1,1,rilea001,21,SB*BX,53/G56S
+play,1,1,olsom001,32,SBFBBX,9/F9D
+play,2,0,bellc002,01,CX,S8/L89D
+play,2,0,suzus001,21,BBSX,S7/G56.1-2
+play,2,0,swand001,12,CF*BX,64(1)/FO/G6.2-3;B-1
+play,2,0,morec001,02,FCS,K
+play,2,0,gomey001,21,BBF>S,SB2
+play,2,0,gomey001,22,BBF>S.X,S1/G25.3-H;2-3
+play,2,0,mastm001,01,CX,S8/L8S.3-H;1-3
+play,2,0,taucm001,22,CT1BBFX,13/G1
+play,2,1,ozunm001,20,BBX,63/G6
+play,2,1,arcio002,21,CBBX,63/G6
+play,2,1,harrm004,31,BFBBX,DGR/L8XD+
+play,2,1,murps001,32,F*BBFFBFS,K
+play,3,0,hoern001,31,CBBBB,W
+play,3,0,happi001,00,X,7/F7
+play,3,0,bellc002,21,FBB>B,SB2
+play,3,0,bellc002,31,FBB>B.B,W
+play,3,0,suzus001,11,BCX,T8/L89XD.2-H;1-H
+play,3,0,swand001,31,S*BBBB,W
+play,3,0,morec001,32,B*BCF*BX,5/L5S
+play,3,0,gomey001,02,FF*S,K
+play,3,1,pillk001,12,CF.BFS,K
+play,3,1,acunr001,02,CFS,K
+play,3,1,albio001,22,FFBBFFS,K
+play,4,0,mastm001,01,CX,S8/L8
+play,4,0,taucm001,32,FB*B>FB1F>B,W.1-2
+play,4,0,hoern001,00,,NP
+sub,crowp001,"Pete Crow-Armstrong",0,1,12
+play,4,0,hoern001,00,.X,9/L9
+play,4,0,happi001,10,BX,8/F8D
+play,4,0,bellc002,00,X,S9/L9L.2-H;1-3
+play,4,0,suzus001,00,,NP

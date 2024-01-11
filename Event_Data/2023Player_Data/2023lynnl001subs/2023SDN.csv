@@ -1,0 +1,124 @@
+id,SDN202308060
+version,2
+info,visteam,LAN
+info,hometeam,SDN
+info,site,SAN02
+info,date,2023/08/06
+info,number,0
+info,gametype,regular
+info,starttime,4:10PM
+info,daynight,day
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,morag901
+info,ump1b,becka901
+info,ump2b,iassd901
+info,ump3b,bacoj901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/08/25 09:03:59
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,zaveb701
+info,temp,74
+info,winddir,ltor
+info,windspeed,8
+info,fieldcond,unknown
+info,precip,none
+info,sky,sunny
+info,timeofgame,175
+info,attendance,43306
+info,wp,lynnl001
+info,lp,hillr001
+info,save,
+start,bettm001,"Mookie Betts",0,1,9
+start,freef001,"Freddie Freeman",0,2,3
+start,martj006,"J.D. Martinez",0,3,10
+start,rosaa003,"Amed Rosario",0,4,4
+start,taylc001,"Chris Taylor",0,5,5
+start,herne001,"Enrique Hernandez",0,6,7
+start,outmj002,"James Outman",0,7,8
+start,rojam002,"Miguel Rojas",0,8,6
+start,barna001,"Austin Barnes",0,9,2
+start,lynnl001,"Lance Lynn",0,0,1
+start,kim-h002,"Ha-Seong Kim",1,1,5
+start,tatif002,"Fernando Tatis Jr.",1,2,9
+start,sotoj001,"Juan Soto",1,3,7
+start,machm001,"Manny Machado",1,4,10
+start,bogax001,"Xander Bogaerts",1,5,6
+start,cronj001,"Jake Cronenworth",1,6,4
+start,choij001,"Ji Man Choi",1,7,3
+start,sancg002,"Gary Sanchez",1,8,2
+start,grist001,"Trent Grisham",1,9,8
+start,hillr001,"Rich Hill",1,0,1
+play,1,0,bettm001,20,BBX,8/F78XD
+play,1,0,freef001,31,BBBCH,HP
+play,1,0,martj006,02,CFFS,K
+play,1,0,rosaa003,02,CFFX,HR/F9LD.1-H
+play,1,0,taylc001,32,BS.SBBS,K
+play,1,1,kim-h002,12,CC.BX,53/G5
+play,1,1,tatif002,10,BX,6/L6D
+play,1,1,sotoj001,22,.CBFBS,K
+play,2,0,herne001,11,CBX,S8/G6
+play,2,0,outmj002,12,CBFS,K
+play,2,0,rojam002,31,BBBCX,S8/L89S.1-3
+play,2,0,barna001,00,X,S3/BG2.3-H;1-2
+com,"$Dodgers challenged (home-plate collision), call on the field was overturned."
+play,2,0,bettm001,12,CBFX,54(1)/FO/G56.2-3;B-1
+play,2,0,freef001,32,FSBFBFFF1B>X,HR/F9D.3-H;1-H
+play,2,0,martj006,10,BX,7/L78
+play,2,1,machm001,12,CCFBC,K
+play,2,1,bogax001,01,CX,8/F8D
+play,2,1,cronj001,01,.CX,7/F7LS
+play,3,0,rosaa003,02,CFX,13/G4MS
+play,3,0,taylc001,12,CBSH,HP
+play,3,0,herne001,21,BCB>C,SB2
+play,3,0,herne001,32,BCB>C.BS,K
+play,3,0,outmj002,32,BS*BBFB,W
+play,3,0,rojam002,22,FBFBFFX,5/P6S
+play,3,1,choij001,32,CFBBFB.FFX,13/G1S
+play,3,1,sancg002,02,SS.FFFX,HR/F7LD
+play,3,1,grist001,32,.CBBBCX,S49/L89S+
+play,3,1,kim-h002,32,BCBFB>B,W.1-2
+play,3,1,tatif002,02,SFX,64(1)3/GDP/G6
+com,"$Dodgers challenged (play at 1st), call on the field was overturned."
+play,4,0,barna001,00,,NP
+sub,avilp001,"Pedro Avila",1,0,1
+play,4,0,barna001,31,.CBBBB,W
+play,4,0,bettm001,02,FSS,K
+play,4,0,freef001,12,C*BSS,K
+play,4,0,martj006,00,X,D7/L7LD+.1-3
+play,4,0,rosaa003,12,SF*BX,23/G2-
+play,4,1,sotoj001,02,CFX,8/L78D+
+play,4,1,machm001,31,BBFBB,W
+play,4,1,bogax001,11,BCX,S7/L56D.1-2
+play,4,1,cronj001,12,FFBFS,K
+play,4,1,choij001,20,BBX,43/G34+
+play,5,0,taylc001,02,CSS,K
+play,5,0,herne001,12,BFF.X,D7/L7L
+play,5,0,outmj002,32,F*BBSBX,13/G23-.2-3
+play,5,0,rojam002,32,BCB*SFBS,K
+play,5,1,sancg002,12,BCS.X,9/F89D
+play,5,1,grist001,22,BBFF.C,K
+play,5,1,kim-h002,02,CCX,S7/G56
+play,5,1,tatif002,12,FFBX,8/F89XD+
+play,6,0,barna001,11,BFX,S8/L89+
+play,6,0,bettm001,32,CBBBC1>FX,9/F9
+play,6,0,freef001,00,X,S7/G5.1-3
+play,6,0,martj006,32,BBS*SF*BS,K
+play,6,0,rosaa003,00,,NP
+sub,perad001,"David Peralta",0,4,11
+play,6,0,perad001,22,.S*BBF>F>B,SB2
+play,6,0,perad001,32,.S*BBF>F>B.C,K
+play,6,1,sotoj001,00,,NP
+sub,perad001,"David Peralta",0,4,7
+play,6,1,sotoj001,00,.,NP
+sub,herne001,"Enrique Hernandez",0,6,4
+play,6,1,sotoj001,21,..BFBX,43/G4MS
+play,6,1,machm001,02,CFS,K
+play,6,1,bogax001,12,CCBC,K
+play,7,0,taylc001,12,CBCX,53/G5
+play,7,0,herne001,11,FBX,53/G56
+play,7,0,outmj002,32,BCCBBS,K
+play,7,1,cronj001,00,,NP

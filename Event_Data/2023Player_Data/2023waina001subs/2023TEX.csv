@@ -1,0 +1,104 @@
+id,TEX202306050
+version,2
+info,visteam,SLN
+info,hometeam,TEX
+info,site,ARL03
+info,date,2023/06/05
+info,number,0
+info,gametype,regular
+info,starttime,7:05PM
+info,daynight,night
+info,innings,9
+info,tiebreaker,2
+info,usedh,true
+info,umphome,hobep901
+info,ump1b,cejan901
+info,ump2b,onorb901
+info,ump3b,porta901
+info,umplf,(none)
+info,umprf,(none)
+info,inputtime,2023/06/21 09:12:07
+info,howscored,unknown
+info,pitches,pitches
+info,oscorer,ruizc701
+info,temp,74
+info,winddir,unknown
+info,windspeed,0
+info,fieldcond,unknown
+info,precip,none
+info,sky,dome
+info,timeofgame,153
+info,attendance,25161
+info,wp,smitw002
+info,lp,cabrg001
+info,save,
+start,edmat001,"Tommy Edman",0,1,8
+start,goldp001,"Paul Goldschmidt",0,2,3
+start,arenn001,"Nolan Arenado",0,3,5
+start,contw001,"Willson Contreras",0,4,2
+start,bakel001,"Luken Baker",0,5,10
+start,dejop001,"Paul DeJong",0,6,6
+start,donob001,"Brendan Donovan",0,7,4
+start,walkj003,"Jordan Walker",0,8,9
+start,merco003,"Oscar Mercado",0,9,7
+start,waina001,"Adam Wainwright",0,0,1
+start,semim001,"Marcus Semien",1,1,4
+start,seagc001,"Corey Seager",1,2,6
+start,lowen001,"Nathaniel Lowe",1,3,3
+start,garca005,"Adolis Garcia",1,4,9
+start,jungj001,"Josh Jung",1,5,5
+start,heimj001,"Jonah Heim",1,6,2
+start,garvm001,"Mitch Garver",1,7,10
+start,durae002,"Ezequiel Duran",1,8,7
+start,tavel001,"Leody Taveras",1,9,8
+start,perem004,"Martin Perez",1,0,1
+play,1,0,edmat001,12,BFSS,K
+play,1,0,goldp001,01,CX,43/G34
+play,1,0,arenn001,21,CBBX,9/F89D
+play,1,1,semim001,32,FBFBFFBFX,8/L8D
+play,1,1,seagc001,11,BFX,S9/L9D+
+play,1,1,lowen001,10,*BX,D9/L9D.1-3
+play,1,1,garca005,12,S*BSFS,K
+play,1,1,jungj001,11,BSX,7/L78D
+play,2,0,contw001,02,CFF.FX,E9/F89S.B-2
+play,2,0,bakel001,01,S>*B,SB3
+play,2,0,bakel001,12,S>*B.SC,K
+play,2,0,dejop001,20,BBX,S7/L7LS.3-H(UR)
+play,2,0,donob001,30,BBBB,W.1-2
+play,2,0,walkj003,22,CBBC.X,6/P6MD
+play,2,0,merco003,22,BCB.FX,8/F78
+play,2,1,heimj001,01,CX,S9/L9L
+play,2,1,garvm001,22,BCFBX,S9/L9L.1-3
+play,2,1,durae002,22,BCS.BX,D7/L7LD.3-H;1-3
+play,2,1,tavel001,00,X,63/G6S.3-H;2-3
+play,2,1,semim001,00,X,S7/G6.3-H
+play,2,1,seagc001,21,B+1BFX,46(1)/FO/G34.B-1
+play,2,1,lowen001,11,BCX,43/G4
+play,3,0,edmat001,10,BX,53/G56S
+play,3,0,goldp001,01,CX,7/L7D+
+play,3,0,arenn001,10,BX,7/F7
+play,3,1,garca005,21,BBFX,S7/L7
+play,3,1,jungj001,10,BX,46(1)/FO/G34.B-1
+play,3,1,heimj001,31,BBSBX,8/F8XD+
+play,3,1,garvm001,32,BBCFB>F>B,W.1-2
+play,3,1,durae002,22,BCBS.FX,7/F78
+play,4,0,contw001,31,BBBC.X,8/L89D
+play,4,0,bakel001,22,SBFBFX,S7/G56
+play,4,0,dejop001,02,CCC,K
+play,4,0,donob001,01,CX,9/L89XD
+play,4,1,tavel001,31,BBCBX,43/G34
+play,4,1,semim001,12,CFBFX,3/F3D
+play,4,1,seagc001,00,X,4/F89S
+play,5,0,walkj003,00,X,9/L9D+
+play,5,0,merco003,22,CB.BCX,53/G5S
+play,5,0,edmat001,01,CX,8/F89
+play,5,1,lowen001,11,BCX,31/G3
+play,5,1,garca005,02,CC.S,K
+play,5,1,jungj001,20,BBX,S5/G56S
+play,5,1,heimj001,21,BC*BX,3/L3S
+play,6,0,goldp001,22,BCBSS,K
+play,6,0,arenn001,02,CFX,9/F9LSF/FL
+play,6,0,contw001,10,BX,9/F9
+play,6,1,garvm001,32,CF.BFBFBFS,K
+play,6,1,durae002,32,BCCBB.B,W
+play,6,1,tavel001,00,,NP

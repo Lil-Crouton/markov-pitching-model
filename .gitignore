@@ -2,3 +2,5 @@ Event Data/
 *.pyc
 .env
 __pycache__/
+markov_app.py
+launch.sh

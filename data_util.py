@@ -10,11 +10,17 @@ def get_avg_dfs(avg_counts_file, avg_rates_file):
 
 
 def get_player_dfs(player_id):
+    """
+    Reads in dataframes for the player's counts and rate information from .csv files
+    """
     player_counts_df = pd.read_csv(f'Dataframes/2023{player_id}_counts_df.csv')
     player_rates_df = pd.read_csv(f'Dataframes/2023{player_id}_rates_df.csv')
     return player_counts_df, player_rates_df
 
 def get_counts(player_counts_df, avg_counts_df):
+    """
+    Computes information relatedthe number of times a player went from each count to the next and the difference to league average
+    """
     player_counts = [player_counts_df.iloc[0]['[1-0]']+player_counts_df.iloc[0]['[0-1]']+player_counts_df.iloc[0]['PLAY'],
                      player_counts_df.iloc[1]['[2-0]']+player_counts_df.iloc[1]['[1-1]']+player_counts_df.iloc[1]['PLAY'],
                      player_counts_df.iloc[2]['[1-1]']+player_counts_df.iloc[2]['[0-2]']+player_counts_df.iloc[2]['PLAY'],
@@ -87,6 +93,9 @@ def get_counts(player_counts_df, avg_counts_df):
 
 
 def get_rates(player_rates_df, avg_rates_df):
+    """
+    Computes the rate at which players move from one count to another and the difference to league average
+    """
     dec = 0
     player_rates = [player_rates_df.iloc[0]['[1-0]'],player_rates_df.iloc[0]['[0-1]'],player_rates_df.iloc[1]['[2-0]'],player_rates_df.iloc[1]['[1-1]'],\
                     player_rates_df.iloc[2]['[1-1]'],player_rates_df.iloc[2]['[0-2]'],player_rates_df.iloc[3]['[3-0]'],player_rates_df.iloc[3]['[2-1]'],\

@@ -1,0 +1,26 @@
+{
+    "players":[
+        {
+            "League Average": "average",
+            "Corbin Burnes": "burnc002",
+            "Luis Castillo": "castl003",
+            "Gerrit Cole": "coleg001",
+            "Patrick Corbin": "corbp001",
+            "Zach Eflin": "efliz001",
+            "Bryce Elder": "eldeb001",
+            "Nathan Eovaldi": "eovan001",
+            "Zac Gallen": "gallz001",
+            "Sonny Gray": "grays001",
+            "Kyle Hendricks": "hendk001",
+            "Lance Lynn": "lynnl001",
+            "Miles Mikolas": "mikom001",
+            "Jordan Montgomery": "montj004",
+            "Justin Steele": "steej002",
+            "Spencer Strider": "stris002",
+            "Framber Valdez": "valdf001",
+            "Justin Verlander": "verlj001",
+            "Adam Wainwright": "waina001",
+            "Zack Wheeler": "wheez001"
+        }
+    ]
+}
